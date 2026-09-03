@@ -1,6 +1,6 @@
 # BÍBLIA MESTRE - HERO UNIVERSE RAVIER
 
-**Estado:** Cânone Base v0.10  
+**Estado:** Cânone Base v0.11  
 **Abrangência:** Regras 1-560  
 **Continuidade:** única; sem multiverso e sem viagem no tempo.
 
@@ -2749,7 +2749,7 @@ Existe espaço narrativo para que essa relação se torne romântica, mas **nenh
 
 
 **Projeto:** Hero Universe Ravier  
-**Estado:** Cânone Base v0.10  
+**Estado:** Cânone Base v0.11  
 **Faixa de regras:** 546-560
 
 Estrutura inicial da formação heroica de Thomas Mercer em Vancouver, seu primeiro núcleo de colegas, mentoria e antagonista local.
@@ -2801,18 +2801,21 @@ A principal mentora de campo do grupo de Thomas é **Maya Chen**, 30 anos, hero�
 
 Maya nasceu em Richmond, British Columbia, e ainda está construindo reputação nacional. É respeitada por profissionais de emergência, mas não é uma celebridade de primeiro escalão.
 
-Sua Habilidade chama-se **Tether**.
+Sua Habilidade chama-se **Loadshare**.
 
-**Descrição:** Maya produz cordas flexíveis e extremamente resistentes a partir das palmas das mãos. Pode fixá-las em superfícies ou pessoas, estendê-las e recolhê-las conscientemente.
+**Descrição:** Maya consegue conectar temporariamente dois ou mais pontos não vivos de uma estrutura ou objeto e redistribuir entre eles parte das cargas e esforços físicos que esses pontos estão suportando.
 
-Ela usa Tether para:
+Ela não elimina peso, impacto ou tensão: apenas faz outros pontos ligados dividirem o esforço.
 
-- retirar pessoas de áreas perigosas;
-- impedir quedas;
-- estabilizar estruturas;
-- prender suspeitos;
-- atravessar espaços urbanos;
-- movimentar objetos pesados em equipe.
+Loadshare permite, por exemplo:
+
+- transferir parte do peso de uma viga comprometida para colunas ainda estáveis;
+- impedir temporariamente que um piso ceda ao distribuir a carga para outras partes da estrutura;
+- dividir a força de um impacto entre diferentes pontos de contenção;
+- estabilizar veículos, pontes e destroços durante resgates;
+- criar condições seguras por alguns minutos para retirar vítimas.
+
+Quanto maior a carga total e mais pontos Maya mantém ligados, maior a concentração exigida. Uma conexão mal escolhida pode simplesmente transferir o problema para outra parte da estrutura.
 
 Maya é prática, paciente e exigente. Não romantiza heroísmo e insiste que um profissional deve saber quando **não** lutar.
 
@@ -2829,18 +2832,23 @@ Callum é filho de dois heróis canadenses conhecidos nacionalmente:
 
 Callum cresceu dentro da cultura profissional heroica, recebeu treinamento desde cedo e entrou no Pacific Response com uma das melhores notas de sua turma.
 
-Sua Habilidade chama-se **Pressure Burst**.
+Sua Habilidade chama-se **Hard Air**.
 
-**Descrição:** Callum libera explosões curtas de ar comprimido pelas mãos e pelos pés.
+**Descrição:** Callum consegue condensar volumes de ar em superfícies sólidas temporárias e quase transparentes.
+
+As formas mais naturais para ele são placas, degraus, rampas, discos e paredes simples.
 
 Pode usá-las para:
 
-- atacar;
-- impulsionar saltos;
-- mudar rapidamente de direção no ar;
-- amortecer quedas;
-- afastar destroços;
-- abrir espaço ao redor de civis.
+- criar escudos e barreiras;
+- formar degraus ou plataformas no ar;
+- mudar de altura e direção sem precisar de apoio físico convencional;
+- bloquear corredores;
+- criar rampas para pessoas ou veículos;
+- sustentar ou desviar pequenos destroços;
+- dividir temporariamente um espaço perigoso durante um resgate.
+
+As superfícies não são indestrutíveis. Quanto maiores, mais espessas ou mais numerosas, mais difícil é mantê-las. Formas simples são muito mais estáveis que construções complexas.
 
 Callum é disciplinado, competitivo e educado. Não é um valentão.
 
@@ -2852,10 +2860,10 @@ Thomas, que entrou por pouco e sem qualquer legado heroico, acaba se tornando um
 
 Além de Callum, quatro colegas formam o núcleo mais frequente da primeira etapa da formação de Thomas:
 
-- **Jasper Singh** — combatente de grande potência física;
-- **Naomi Park** — especialista em estabilização médica e resgate;
+- **Jasper Singh** — combatente de curta distância com uma Habilidade de impacto incomum;
+- **Naomi Park** — especialista em estabilização vital e resgate médico;
 - **Samira Okafor** — Meta de morfologia anfíbia visivelmente não humana;
-- **Owen LeBlanc** — dono de uma Habilidade aparentemente ridícula, mas extremamente útil em emergências.
+- **Owen LeBlanc** — dono de uma Habilidade de alteração material aparentemente pouco heroica, mas extremamente útil em emergências.
 
 Eles não formam imediatamente uma equipe heroica oficial. São colegas que passam a ser colocados juntos em exercícios, estágios e incidentes reais.
 
@@ -2906,37 +2914,38 @@ A convivência é extremamente íntima no sentido doméstico, mas **não estabel
 
 **Jasper Singh**, 19 anos, nasceu em Surrey, British Columbia.
 
-Sua Habilidade chama-se **Overdrive**.
+Sua Habilidade chama-se **Backlash**.
 
-**Descrição:** Jasper consegue aumentar drasticamente a força produzida pelos próprios músculos durante explosões de poucos segundos.
+**Descrição:** quando Jasper atinge fisicamente um alvo, ele pode produzir um segundo impacto contundente no lado oposto daquele mesmo alvo.
 
-Em uso curto ele é um dos alunos fisicamente mais fortes da turma.
+Um soco na frente de uma porta pode gerar outro golpe na face traseira; um golpe lateral numa caixa pode produzir uma pancada correspondente do outro lado.
 
-O problema é que tende a tratar toda situação como se força fosse a primeira solução.
+Em combate, isso torna bloqueios convencionais pouco confiáveis e faz de Jasper um adversário perigoso a curta distância.
 
-Overdrive também cobra um preço físico: uso repetido provoca tremores, cãibras, exaustão e risco de lesão muscular.
+Backlash exige que Jasper compreenda aproximadamente o volume e os limites do alvo. Quanto maior, mais irregular ou menos compreensível o objeto, menos preciso é o segundo impacto.
 
-Jasper é sociável, impulsivo e genuinamente bem-intencionado.
+A Habilidade não multiplica indefinidamente um golpe e não cria uma cadeia automática de impactos.
 
-Maya frequentemente o obriga a repetir exercícios nos quais vencer o alvo não conta se os civis simulados forem feridos.
+Jasper é sociável, impulsivo e genuinamente bem-intencionado. Seu maior problema é que uma Habilidade capaz de atingir um objeto ou corpo por dois lados ao mesmo tempo exige muito mais cuidado do que ele inicialmente gosta de admitir.
 
 ### 554. Naomi Park
 
 **Naomi Park**, 19 anos, nasceu em Burnaby.
 
-Sua Habilidade chama-se **Stitch**.
+Sua Habilidade chama-se **Borrowed Pulse**.
 
-**Descrição:** Naomi produz fios biológicos finos a partir das pontas dos dedos que podem ser usados para fechar e estabilizar ferimentos.
+**Descrição:** mantendo contato físico contínuo com uma pessoa ferida, Naomi consegue sincronizar temporariamente algumas funções vitais críticas dessa pessoa com as próprias.
 
-Stitch não regenera tecido perdido e não cura uma lesão instantaneamente.
+Ela pode ajudar a manter:
 
-Serve principalmente para:
+- ritmo cardíaco;
+- respiração;
+- circulação mínima;
+- consciência e oxigenação por tempo suficiente para atendimento especializado.
 
-- conter hemorragias;
-- manter bordas de feridas unidas;
-- estabilizar cortes profundos;
-- improvisar suporte para algumas fraturas;
-- ganhar tempo até atendimento médico adequado.
+Borrowed Pulse **não cura ferimentos**, não fecha cortes, não regenera órgãos e não remove toxinas ou doenças.
+
+O esforço fisiológico necessário para sustentar outra pessoa recai sobre Naomi. Quanto mais instável a vítima, mais exaustivo e perigoso o uso se torna para ela.
 
 Naomi é metódica, direta e difícil de impressionar.
 
@@ -2968,22 +2977,21 @@ Ela e Evelyn se dão bem, mas não são apresentadas como automaticamente próxi
 
 **Owen LeBlanc**, 19 anos, vem de New Brunswick.
 
-Sua Habilidade chama-se **Cushion**.
+Sua Habilidade chama-se **Soft Spot**.
 
-**Descrição:** Owen consegue produzir grandes volumes de um material leve, macio e altamente absorvente de impacto, semelhante a uma espuma elástica.
+**Descrição:** ao tocar uma superfície sólida não viva, Owen consegue tornar uma área limitada desse material temporariamente macia, deformável e elástica sem fazê-la perder coesão.
 
-A aparência da Habilidade fez com que muitos colegas a considerassem quase cômica.
+Ele pode fazer, por exemplo:
 
-Na prática, Cushion pode:
+- concreto funcionar como superfície de amortecimento;
+- uma parede absorver a colisão de uma pessoa;
+- o chão deformar sob os pés de alguém;
+- destroços rígidos deixarem de pressionar uma vítima com a mesma intensidade;
+- superfícies perigosamente duras se tornarem temporariamente seguras para resgate.
 
-- amortecer quedas;
-- proteger vítimas de destroços;
-- revestir superfícies perigosas;
-- criar barreiras temporárias;
-- estabilizar pessoas durante transporte;
-- reduzir danos em colisões.
+O material continua sendo a mesma substância e recupera gradualmente suas propriedades normais depois que o efeito termina.
 
-O material perde consistência gradualmente e desaparece depois de algum tempo.
+Áreas maiores e materiais muito densos exigem mais esforço e concentração.
 
 Owen é descontraído e parece pouco competitivo, mas obtém algumas das melhores notas de resgate da turma.
 
@@ -2991,7 +2999,7 @@ Owen é descontraído e parece pouco competitivo, mas obtém algumas das melhore
 
 Thomas não se torna imediatamente líder.
 
-Callum possui mais treinamento formal. Naomi é melhor em protocolos. Jasper é mais forte fisicamente. Samira tem experiência ambiental que os demais não possuem. Owen frequentemente encontra soluções de resgate que ninguém havia considerado.
+Callum possui mais treinamento formal e excelente mobilidade e contenção. Naomi é melhor em protocolos médicos. Jasper é particularmente perigoso a curta distância. Samira tem experiência ambiental que os demais não possuem. Owen frequentemente encontra soluções de resgate que ninguém havia considerado.
 
 A função que Thomas começa a ocupar é outra: **improvisador**.
 
@@ -3003,9 +3011,9 @@ Essa característica gradualmente transforma o grupo de colegas em pessoas que p
 
 A rivalidade começa durante exercícios do primeiro semestre.
 
-Callum supera Thomas com facilidade em corrida, potência direta e avaliações padronizadas de combate.
+Callum supera Thomas com facilidade em mobilidade, controle defensivo e avaliações padronizadas de contenção.
 
-Thomas, porém, vence um exercício tático ao usar machados materializados para alterar o ambiente e forçar Callum a gastar Pressure Burst em direções pouco úteis.
+Thomas, porém, vence um exercício tático ao espalhar machados suspensos em alturas e ângulos diferentes, obrigando Callum a criar placas de Hard Air em posições cada vez menos úteis e abrindo uma rota que Callum havia considerado bloqueada.
 
 Callum não reage com hostilidade, mas passa a levar Thomas pessoalmente a sério.
 
