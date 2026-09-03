@@ -1,7 +1,7 @@
 # Volume 7 - Personagens Canônicos I
 
 **Projeto:** Hero Universe Ravier  
-**Estado:** Cânone Base v0.6  
+**Estado:** Cânone Base v0.7  
 **Faixa de regras:** 496-512
 
 Primeiros personagens fixados individualmente no cânone.
@@ -10,27 +10,21 @@ Primeiros personagens fixados individualmente no cânone.
 
 ### 496. O herói mais forte da humanidade em 2014
 
-Em **2014**, o humano mais forte conhecido da Terra é um sacerdote e herói ligado à Santa Sé, com mais de quarenta anos.
+Em **2014**, o humano mais forte conhecido da Terra é um sacerdote e herói ligado à Santa Sé, com 47 anos.
 
-Ele não é apresentado como “o ser mais poderoso do universo”. A afirmação refere-se ao melhor consenso existente sobre **seres humanos vivos conhecidos**.
+Ele não é “o ser mais poderoso do universo”. O título refere-se ao melhor consenso existente sobre seres humanos vivos conhecidos.
 
-O conceito do personagem combina três funções narrativas:
-
-- quando ele chega, a sensação pública é de que a situação finalmente pode ser controlada;
-- em combate, é extremamente difícil vencê-lo pela força bruta e sua experiência pesa tanto quanto sua potência;
-- ele costuma ser reservado para crises grandes demais para equipes heroicas normais, o que faz suas aparições terem peso especial.
-
-Sua força não depende de portais, manipulação espacial ou uma coleção de poderes desconectados.
+Sua presença funciona como símbolo de segurança: quando ele é enviado a uma crise, governos, heróis e civis entendem que a Santa Sé considera a situação excepcional.
 
 ### 497. Origem familiar e infância
 
 Ele nasceu de uma **jovem suíça** que havia engravidado de um **italiano** e escondia a gravidez da própria família.
 
-Durante uma viagem a Roma, ela entrou em trabalho de parto enquanto visitava o Vaticano. Sem coragem para voltar para casa com a criança e sem ter contado a gravidez ao pai, deixou o bebê sob os cuidados de pessoas ligadas à Santa Sé.
+Durante uma viagem a Roma, entrou em trabalho de parto enquanto visitava o Vaticano. Sem coragem para voltar para casa com a criança e sem ter contado a gravidez ao pai, deixou o bebê sob os cuidados de pessoas ligadas à Santa Sé.
 
 A criança foi acolhida por uma **família leiga de trabalhadores da Santa Sé**.
 
-Ele não foi criado como arma, experimento ou “escolhido” da Igreja. Cresceu numa casa comum, entre trabalhadores, vizinhos, escola, paróquia e a rotina do Borgo.
+Ele não foi criado como arma, experimento ou escolhido da Igreja. Cresceu numa casa comum do Borgo, entre trabalhadores, escola, paróquia e vida familiar.
 
 Sua Habilidade apareceu aos **3 anos**.
 
@@ -38,13 +32,11 @@ Mais tarde, por escolha própria, entrou no seminário e tornou-se sacerdote.
 
 ### 498. Identidade
 
-Seu nome é **Luca Gabriele Ferrante**.
+Seu nome é **Adriano Ferri**.
 
 Nasceu em **18 de março de 1967**. Em 2014 tem **47 anos**.
 
-Sua identidade é pública. Ele nunca manteve uma vida civil secreta.
-
-O nome “Luca Ferrante” é muito mais usado no cotidiano do que o nome completo.
+Sua identidade é pública e ele nunca manteve uma vida civil secreta.
 
 ### 499. Pais biológicos
 
@@ -54,245 +46,182 @@ Seu pai biológico é **Marco Rinaldi**, italiano de Bolonha, então com 21 anos
 
 Marco não soube da gravidez na época.
 
-Luca reencontrou Élise já adulto, antes da ordenação. O encontro não virou notícia e ele nunca revelou publicamente os detalhes da história dela.
+Adriano reencontrou Élise já adulto, antes da ordenação. Marco soube que tinha um filho apenas anos depois.
 
-Marco soube que tinha um filho apenas anos depois.
+Ele mantém relação respeitosa e privada com os dois, sem tentar substituir a família que o criou.
 
-Luca mantém relação respeitosa com os dois, mas não tenta substituir com eles a família que o criou.
+### 500. Família Ferri
 
-### 500. Família Ferrante
-
-Luca foi criado por **Pietro Ferrante** e **Anna Ferrante**, italianos que trabalhavam para a Santa Sé.
+Adriano foi criado por **Pietro Ferri** e **Anna Ferri**, italianos que trabalhavam para a Santa Sé.
 
 Pietro era eletricista e funcionário de manutenção.
 
 Anna trabalhava com costura e reparo de roupas e uniformes.
 
-Eles já tinham uma filha, **Lucia Ferrante**, alguns anos mais velha que Luca.
+Eles já tinham uma filha, **Lucia Ferri**, alguns anos mais velha que Adriano.
 
-A adoção foi regularizada posteriormente com participação das autoridades civis envolvidas.
+A adoção foi posteriormente regularizada pelas autoridades civis envolvidas.
 
-Para Luca, Pietro e Anna são simplesmente seus pais. “Adotivo” é uma palavra usada por biógrafos, não por ele.
+Para Adriano, Pietro e Anna são simplesmente seus pais.
 
 ### 501. Nacionalidade e vínculo com o Vaticano
 
-Luca possui vínculos civis com **Suíça e Itália** e, por suas funções, cidadania vaticana vinculada ao serviço.
+Adriano possui vínculos civis com **Suíça e Itália** e cidadania vaticana vinculada às funções que exerce.
 
-Ele cresceu em Roma e culturalmente é sobretudo italiano, embora nunca esconda a origem suíça da mãe.
+Cresceu em Roma e culturalmente é sobretudo italiano.
 
 Seu vínculo com a Santa Sé é religioso e institucional, não nacionalista.
 
 ### 502. Sacerdócio
 
-Luca entrou no seminário em **1985**, aos 18 anos.
+Adriano entrou no seminário em **1985**, aos 18 anos.
 
 Foi ordenado sacerdote em **1992**.
 
 Em 2014 continua sendo **padre**, não bispo.
 
-Estudou teologia e filosofia e depois aprofundou-se em ética do uso da força, direito envolvendo Pessoas Extraordinárias e assistência em catástrofes.
+Sua vida sacerdotal é real e cotidiana. Quando não está mobilizado para uma emergência, celebra Missa, ouve confissões, acompanha famílias e realiza trabalho pastoral.
 
-Dentro da Igreja, sua vida sacerdotal não é decorativa. Quando não está mobilizado para uma emergência, celebra Missa, ouve confissões, acompanha famílias e cumpre tarefas pastorais.
+### 503. Nome heroico — Leone
 
-Essa normalidade é importante para ele.
+Adriano nunca escolheu um nome heroico elaborado.
 
-### 503. O nome “Leone”
+No fim dos anos 1980, após um resgate televisionado em Roma, a imprensa italiana começou a chamá-lo de **Leone**.
 
-Luca não inventou um nome heroico para si.
+O nome pegou e tornou-se sua identificação profissional internacional.
 
-No fim dos anos 1980, depois de um resgate muito televisionado em Roma, jornais italianos começaram a chamá-lo de **“il leone”** pela maneira como permaneceu de pé no meio de um desastre enquanto retirava pessoas dos escombros.
+Ele próprio normalmente se apresenta apenas como:
 
-O apelido pegou.
+**Padre Adriano.**
 
-Com o tempo, **Leone** virou o nome pelo qual é conhecido internacionalmente.
-
-Ele tolera o nome, mas em pessoa normalmente se apresenta como:
-
-**“Padre Luca.”**
-
-A Santa Sé o mantém como enviado especial para emergências extraordinárias, com autorização para atuar fora do Vaticano quando acordos, convites ou urgência humanitária permitirem.
+A Santa Sé o utiliza como enviado especial em emergências extraordinárias, missões humanitárias e ameaças de escala excepcional.
 
 ### 504. Aparência
 
-Luca tem cerca de **1,92 m**, ombros largos e aparência de alguém que passou décadas treinando e trabalhando fisicamente, não de um fisiculturista.
+Adriano mede cerca de **1,91 m**.
 
-Tem cabelos castanhos, já grisalhos nas laterais, olhos claros e um rosto que parece mais cansado de perto do que nas fotografias oficiais.
+É alto, largo e muito atlético, mas não possui proporções caricaturais.
 
-Usa óculos de leitura.
+Tem cabelos castanho-escuros já grisalhos nas laterais, olhos cinza-azulados e rosto maduro.
 
-Em missões, veste roupa preta resistente feita para suportar o abuso causado pela própria Habilidade. O colarinho clerical continua visível.
+Em missão usa um traje preto simples e resistente, com o colarinho clerical visível e poucas marcas decorativas em branco.
 
-Não usa capa, máscara nem armadura ornamental.
+Não usa máscara.
 
-Fora das operações, é comum encontrá-lo vestido simplesmente como padre.
+Quando aumenta muito sua Habilidade, o corpo começa a emitir uma luminosidade branca-dourada, especialmente nos olhos, mãos e ao redor dos ombros.
 
 ### 505. Personalidade
 
-Luca é tranquilo, muito educado e bastante mais bem-humorado em particular do que sua imagem pública sugere.
+Adriano é calmo, educado e possui humor seco.
 
-Não gosta de discursos preparados sobre heroísmo e fica desconfortável quando o tratam como figura messiânica.
+Não gosta de ser tratado como messias, santo vivo ou prova ambulante da religião.
 
-Quando alguém o chama de santo, costuma responder:
+Quando alguém tenta associar sua força à santidade, costuma responder:
 
-> **“Sou padre. Santo é outra coisa.”**
+> **“Poder não é santidade.”**
 
-Ele gosta de café forte, lê muito, telefona para a irmã com frequência e detesta cerimônias de premiação longas.
+Ele assume responsabilidade demais por mortes que acredita que poderia ter evitado.
 
-Seu pior hábito é assumir responsabilidade demais.
+Esse é seu maior defeito.
 
-Quando alguém morre numa crise em que ele estava presente, Luca raramente pensa “era impossível”.
+### 506. Habilidade — Luce Viva
 
-Ele pensa primeiro:
+A Habilidade de Adriano é chamada **Luce Viva**.
 
-**“O que eu não vi?”**
+**Descrição:** o corpo de Adriano produz continuamente uma força luminosa própria que reforça todo o seu organismo e pode ser liberada para fora do corpo.
 
-### 506. Habilidade — Carga
+Ela lhe concede força, velocidade, resistência, voo, regeneração e ataques de energia.
 
-A Habilidade de Luca é conhecida simplesmente como **Carga**.
+**Luce Viva não funciona por carga.**
 
-Ela é fácil de explicar e difícil de medir.
+Adriano não absorve luz solar, impacto, calor ou energia externa. Não armazena dano, não acumula combustível e não precisa recarregar antes de lutar.
 
-Luca consegue **tirar o impacto de alguma coisa e guardar esse impacto no próprio corpo**.
+A Habilidade está ativa o tempo inteiro.
 
-Um soco, uma queda, uma colisão, uma explosão, uma onda de pressão ou uma estrutura desabando podem perder grande parte da força quando Luca os recebe ou consegue alcançar aquilo que está sendo atingido.
+### 507. Força, velocidade e resistência
 
-Essa força não desaparece.
+Adriano possui força física extrema mesmo sem aumentar deliberadamente a emissão da Luce Viva.
 
-Ela fica com ele.
+Pode erguer massas enormes, atravessar estruturas muito resistentes e produzir ondas de choque com golpes.
 
-Enquanto está carregado, seu corpo fica muito mais forte, resistente e rápido.
+Sua velocidade acompanha sua força. Em combate consegue percorrer grandes distâncias antes que pessoas comuns consigam acompanhar seus movimentos.
 
-Depois, Luca pode devolver o que acumulou em movimentos físicos: um soco, um salto, uma arrancada, uma pancada no chão ou uma descarga curta de força.
+Seu corpo suporta impactos, explosões, temperaturas e pressões que destruiriam a maioria dos Metas.
 
-A Habilidade não lhe dá uma lista de técnicas independentes. Tudo parte dessa mesma ideia:
+Quanto mais ele libera a Luce Viva, maiores ficam força, velocidade e resistência.
 
-**ele recebe, aguenta e devolve.**
+### 508. Voo, energia, sentidos e regeneração
 
-### 507. Como Luca usa a Carga
+Adriano pode voar livremente e atingir velocidades extremas.
 
-No começo de sua vida, Luca só conseguia absorver aquilo que o atingia diretamente.
+Também pode liberar a Luce Viva como rajadas, feixes ou explosões. Normalmente usa as mãos porque são mais fáceis de controlar.
 
-Com treino, aprendeu a “tomar” parte do impacto de coisas que está tocando.
+Se necessário, consegue liberar energia de todo o corpo de uma vez.
 
-É assim que consegue segurar um prédio durante um desabamento, amortecer um trem saindo dos trilhos ou impedir que uma pessoa morra numa queda.
+Sua regeneração é excepcional. Ferimentos graves podem fechar rapidamente e membros perdidos podem voltar a crescer, desde que a lesão não tenha destruído de forma irreversível as partes vitais necessárias para a Habilidade continuar funcionando.
 
-Na maturidade, também consegue estender esse efeito por uma pequena área ao redor de si quando está totalmente concentrado.
-
-Isso não cria uma barreira invisível.
-
-As coisas ainda chegam até ele.
-
-Balas batem. Socos acertam. Destroços caem.
-
-A diferença é que chegam **sem a força que deveriam ter**.
-
-Em cenas de resgate, Luca frequentemente põe a mão numa parede, ponte, veículo ou pessoa e literalmente começa a carregar parte do desastre no próprio corpo.
-
-### 508. Força, velocidade e resistência
-
-Leone não nasceu com “superforça” separada da Carga.
-
-A força monstruosa que o tornou famoso vem do que ele acumula.
-
-Quanto maior a reserva, mais seu corpo consegue produzir sem se destruir.
-
-Quando está muito carregado, ele pode:
-
-- erguer ou mover massas enormes;
-- atravessar estruturas;
-- saltar distâncias absurdas;
-- acelerar em explosões curtas;
-- suportar impactos que matariam outros heróis;
-- liberar ondas de choque com golpes físicos.
-
-Ele consegue se deslocar pelo ar em grandes saltos e impulsos sucessivos, mas **não teletransporta** e não gosta de chamar isso de voo.
-
-Para viagens normais, ainda usa avião, helicóptero ou transporte comum.
+Seus sentidos também são ampliados. Visão, audição, reflexos e percepção de movimento ficam muito acima do humano normal, mas ele não possui visão de raio-X nem leitura mental.
 
 ### 509. Primeira manifestação
 
-A primeira manifestação ocorreu quando Luca tinha **3 anos**.
+A primeira manifestação ocorreu em **1970**, quando Adriano tinha três anos.
 
-Um armário pesado tombou no apartamento dos Ferrante enquanto Lucia estava perto.
+Uma explosão doméstica derrubou parte do teto do apartamento dos Ferri.
 
-Luca tentou empurrá-la para fora do caminho e acabou ficando embaixo do móvel.
+Pietro e Anna encontraram Adriano debaixo dos escombros, segurando uma parte pesada da estrutura acima de Lucia.
 
-Pietro e Anna encontraram o menino assustado, mas praticamente ileso.
+A criança estava assustada, mas praticamente ilesa.
 
-O armário, por outro lado, parecia ter simplesmente “caído sem bater”.
+Seu corpo emitia uma luz fraca.
 
-Segundos depois, enquanto chorava, Luca empurrou o móvel com as duas mãos e o lançou contra a parede com força suficiente para quebrar parte do reboco.
+Pouco depois, Adriano empurrou os destroços para longe com força impossível para uma criança.
 
-Durante anos, os médicos descreveram o caso como uma forma estranha de resistência física.
-
-A ideia de que ele **guardava impacto** só ficou clara muito mais tarde.
+Esse foi o primeiro registro da Luce Viva.
 
 ### 510. Limites
 
-Carga não é infinita.
+Luce Viva é extremamente poderosa, mas não infinita.
 
-Quanto mais Luca acumula, mais difícil fica manter tudo dentro do corpo.
+O limite de Adriano é **quanto poder seu corpo consegue liberar ao mesmo tempo sem começar a se destruir**.
 
-Ele começa com dor muscular, tremor nas mãos e insônia.
+Em níveis muito altos, músculos, vasos, órgãos e ossos começam a sofrer dano mais rápido do que a regeneração consegue corrigir.
 
-Depois aparecem sangramentos, arritmia, lesões internas e perda de coordenação.
+Ele pode continuar forçando a Habilidade além desse ponto, mas passa a se ferir continuamente.
 
-Se continuar acumulando, pode morrer.
+Isso não é falta de carga. A energia continua existindo; o problema é o corpo suportar a própria potência.
 
-Ele também precisa descarregar com cuidado. Liberar força demais numa área urbana pode ser tão perigoso quanto o ataque que absorveu.
+Adriano também não possui defesa especial automática contra todo tipo de poder. Controle mental, ataques à alma, certas magias, alteração direta de matéria, poderes conceituais e outras Habilidades incomuns podem contornar sua resistência física.
 
-A Habilidade funciona muito melhor contra **impacto, choque, pressão e movimento**.
+Sua regeneração também não é ressurreição. Se morrer de fato, Luce Viva não o traz de volta.
 
-Ela não resolve automaticamente:
+### 511. Liberação máxima e carreira
 
-- veneno;
-- doença;
-- leitura ou controle mental;
-- efeitos sobre memória;
-- ataques espirituais;
-- várias formas de magia;
-- calor extremo sem componente de impacto;
-- radiação;
-- poderes que simplesmente alteram o corpo por dentro.
+Adriano pode deliberadamente remover a maior parte das limitações instintivas que mantém sobre a Luce Viva.
 
-Isso explica por que o homem mais forte da humanidade ainda pode precisar da ajuda de heróis muito menos poderosos.
+Nesse estado, sua luminosidade aumenta drasticamente e todas as capacidades físicas sobem juntas.
 
-### 511. Carreira
+Ele fica mais forte, mais rápido, mais resistente e regenera mais depressa, mas começa a sofrer dano interno contínuo.
 
-Luca começou ajudando em resgates ainda jovem, sempre sob forte supervisão.
+Não existe transformação separada nem uma segunda Habilidade. É apenas **Luce Viva sendo usada perto do limite que o corpo consegue suportar**.
 
-Depois de entrar no clero, sua atividade heroica continuou em paralelo à vida sacerdotal.
+Adriano ganhou fama inicialmente como herói de resgate.
 
-Durante os anos 1990 ganhou reputação primeiro como **herói de desastre**, não como lutador.
+Durante os anos 1990, sua combinação de força, voo, resistência e capacidade de proteger civis fez dele um dos principais heróis europeus.
 
-O acontecimento que mudou sua imagem mundial foi o **Incidente do Tirreno, em 2004**.
-
-Uma Manifestação Extraordinária de origem ainda não esclarecida provocou sucessivas ondas de pressão, colapsos costeiros e deslocamentos violentos de água no Mar Tirreno.
-
-Luca passou horas absorvendo impactos de estruturas, embarcações e zonas de evacuação enquanto equipes de resgate retiravam civis.
-
-Quando finalmente enfrentou a fonte do incidente, estava carregando uma quantidade de força que nenhum registro anterior atribuíra a um ser humano.
-
-Foi depois desse episódio que a expressão **“homem mais forte do mundo”** começou a deixar de ser apenas manchete.
+O **Incidente do Tirreno de 2004** consolidou sua reputação internacional. A natureza exata do incidente será detalhada posteriormente, mas foi nele que Adriano demonstrou publicamente um nível de força e resistência nunca antes atribuído com segurança a um humano.
 
 ### 512. Leone em 2014
 
-Em 2014, Leone é uma das poucas pessoas cuja presença muda imediatamente a avaliação de uma crise.
+Em 2014, Leone é considerado o **humano mais forte conhecido**.
 
-Não porque possa resolver qualquer problema, mas porque confrontá-lo pela força costuma ser uma péssima ideia: quanto mais um inimigo tenta esmagá-lo fisicamente, mais combustível pode acabar entregando a ele.
+Não é necessariamente o herói mais famoso, mais rico ou mais comercial.
 
-Isso fez sua reputação crescer muito além da Europa.
+Sua fama vem do fato de que ameaças que exigiriam equipes inteiras podem, em alguns casos, ser enfrentadas diretamente por ele.
 
-Ele não é o herói mais comercial do planeta e evita publicidade sempre que consegue.
+Ele continua evitando publicidade e passa longos períodos fora dos holofotes em trabalho pastoral, humanitário ou diplomático.
 
-Também passa longos períodos fora dos holofotes, ocupado com missões diplomáticas, humanitárias, pastorais ou simplesmente com a vida normal de sacerdote.
+Quando uma crise de escala excepcional acontece e surge a notícia de que **Leone está a caminho**, a reação pública costuma ser imediata.
 
-Por isso sua imagem pública tem algo de estranho: todos sabem quem ele é, mas ele não está o tempo todo na televisão.
+A ideia associada a ele não é que seja invencível.
 
-Quando uma crise verdadeiramente grande acontece e surge a notícia de que **Leone está a caminho**, o efeito psicológico costuma ser imediato.
-
-Essa é a parte mais importante de sua fama.
-
-Não a ideia de que ele é invencível.
-
-A ideia de que, se ele chegou, ainda há tempo.
+É que, se Leone chegou, a situação ainda pode ser salva.
