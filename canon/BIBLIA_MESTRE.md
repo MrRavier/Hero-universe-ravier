@@ -1,7 +1,7 @@
 # BÍBLIA MESTRE - HERO UNIVERSE RAVIER
 
-**Estado:** Cânone Base v0.2  
-**Abrangência:** Regras 1-495  
+**Estado:** Cânone Base v0.3  
+**Abrangência:** Regras 1-496  
 **Continuidade:** única; sem multiverso e sem viagem no tempo.
 
 ## Síntese executiva
@@ -1981,7 +1981,7 @@ Em **1954**, o **Incidente de Nova York** mostra publicamente um confronto entre
 
 ### 477. Popularização de “super-herói” para pessoas reais
 
-Uma manchete específica com a expressão **“REAL-LIFE SUPERHERO?”** populariza o uso moderno da palavra para indivíduos reais. O jornal, a data exata e o personagem retratado ainda serão definidos em etapa posterior.
+A **BBC** populariza internacionalmente a aplicação de “super-herói” a pessoas reais ao usar a expressão **“REAL-LIFE SUPERHERO?”** em sua cobertura do fenômeno. O formato exato da peça, a data precisa e o personagem retratado ainda serão definidos, mas o veículo fica estabelecido como a BBC, e não um jornal impresso.
 
 ### 478. Primeiro traje heroico deliberado
 
@@ -1993,7 +1993,7 @@ O primeiro confronto entre dois indivíduos extraordinários televisionado ocorr
 
 ### 480. Primeira regulamentação heroica
 
-Em **1956**, uma cidade ainda a definir cria uma autorização especial de emergência para pessoas extraordinárias que auxiliem bombeiros, policiais e serviços de resgate. O modelo é municipal, experimental e anterior às licenças heroicas nacionais maduras.
+Em **1956**, **Vancouver, Canadá**, cria uma autorização especial de emergência para pessoas extraordinárias que auxiliem bombeiros, policiais e serviços de resgate. O modelo é municipal, experimental e anterior às licenças heroicas nacionais maduras.
 
 ### 481. Prevalência mundial em 1960
 
@@ -2050,7 +2050,7 @@ Em números absolutos, **Índia** possui a maior força heroica profissional, em
 
 ### 491. Maior densidade de heróis per capita
 
-A liderança pertence a um **pequeno país europeu**, favorecido por população reduzida, alto financiamento e forte institucionalização. O país exato ainda não foi escolhido entre candidatos plausíveis como Suíça, Países Baixos ou Dinamarca.
+A liderança pertence a um **pequeno país europeu**, favorecido por população reduzida, alto financiamento e forte institucionalização. **O país exato permanece deliberadamente em aberto** e não deve ser presumido até decisão posterior.
 
 ### 492. Principal tensão social contemporânea
 
@@ -2067,3 +2067,32 @@ A principal inquietação científica é que **fenômenos não humanos também p
 ### 495. Grande segredo do presente
 
 Diferentes governos e instituições possuem **fragmentos diferentes da verdade**. Nenhum Estado conhece o quadro completo sobre alienígenas, magia, fenômenos antigos, crescimento das manifestações e possíveis relações entre essas categorias.
+
+
+**Projeto:** Hero Universe Ravier  
+**Estado:** Cânone Base v0.3  
+**Faixa de regras:** 496 em diante
+
+Primeiros personagens fixados individualmente no cânone. Este volume será expandido à medida que personagens concretos forem definidos.
+
+---
+
+### 496. O herói mais forte da humanidade em 2014
+
+Em **2014**, o humano mais forte conhecido da Terra é um **herói ligado ao Vaticano / Santa Sé**, com **mais de 40 anos de idade**.
+
+Seu nome civil, nome heroico, nacionalidade de nascimento, idade exata, origem da Habilidade e aparência ainda não estão definidos.
+
+O conceito do personagem deve fundir três pilares em uma criação original:
+
+- **Símbolo humano de segurança e esperança:** sua simples chegada pode mudar moral, comportamento público e cálculo estratégico de governos, criminosos e outros heróis. Ele possui presença física e heroica esmagadora e é capaz de enfrentar ameaças que esmagariam equipes inteiras.
+- **Supremacia técnica e espacial:** sua força não deve depender apenas de “bater mais forte”. O personagem possui ou desenvolve um domínio extremamente refinado de distância, posição, defesa, percepção e controle do campo de batalha, tornando atacá-lo diretamente uma tarefa excepcionalmente difícil.
+- **Resposta a ameaças de escala extrema:** possui meios para chegar ou intervir em crises muito além do alcance de um herói convencional, inclusive incidentes internacionais e ameaças extraordinárias de altíssimo nível. Sua atuação pode envolver deslocamento anômalo, acesso espacial ou outra solução equivalente ainda a ser definida.
+
+Ele não é automaticamente onipotente, invulnerável ou sem limites. Continua submetido às regras gerais do universo: nenhum teto absoluto foi provado, toda Habilidade possui funcionamento próprio e seres não humanos, mágicos, alienígenas ou cósmicos podem existir acima, abaixo ou fora de comparações humanas comuns.
+
+O título informal de **“humano mais forte”** refere-se ao melhor consenso conhecido em 2014 sobre seres humanos, e não significa que ele seja a entidade mais poderosa da existência.
+
+Sua relação institucional com a Santa Sé será definida posteriormente: ele pode ser agente oficial, herói licenciado do Estado da Cidade do Vaticano, membro de uma ordem, protetor diretamente subordinado à autoridade pontifícia ou ocupar uma posição singular criada especificamente para ele.
+
+Sua posição no ranking comercial mundial também permanece em aberto. Ser o mais forte da humanidade não implica necessariamente ser o herói mais popular ou ocupar o número 1 em todo sistema de ranking.
