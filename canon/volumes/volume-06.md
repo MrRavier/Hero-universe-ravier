@@ -50,7 +50,7 @@ Em **1954**, o **Incidente de Nova York** mostra publicamente um confronto entre
 
 ### 477. Popularização de “super-herói” para pessoas reais
 
-Uma manchete específica com a expressão **“REAL-LIFE SUPERHERO?”** populariza o uso moderno da palavra para indivíduos reais. O jornal, a data exata e o personagem retratado ainda serão definidos em etapa posterior.
+A **BBC** populariza internacionalmente a aplicação de “super-herói” a pessoas reais ao usar a expressão **“REAL-LIFE SUPERHERO?”** em sua cobertura do fenômeno. O formato exato da peça, a data precisa e o personagem retratado ainda serão definidos, mas o veículo fica estabelecido como a BBC, e não um jornal impresso.
 
 ### 478. Primeiro traje heroico deliberado
 
@@ -62,7 +62,7 @@ O primeiro confronto entre dois indivíduos extraordinários televisionado ocorr
 
 ### 480. Primeira regulamentação heroica
 
-Em **1956**, uma cidade ainda a definir cria uma autorização especial de emergência para pessoas extraordinárias que auxiliem bombeiros, policiais e serviços de resgate. O modelo é municipal, experimental e anterior às licenças heroicas nacionais maduras.
+Em **1956**, **Vancouver, Canadá**, cria uma autorização especial de emergência para pessoas extraordinárias que auxiliem bombeiros, policiais e serviços de resgate. O modelo é municipal, experimental e anterior às licenças heroicas nacionais maduras.
 
 ### 481. Prevalência mundial em 1960
 
@@ -119,7 +119,7 @@ Em números absolutos, **Índia** possui a maior força heroica profissional, em
 
 ### 491. Maior densidade de heróis per capita
 
-A liderança pertence a um **pequeno país europeu**, favorecido por população reduzida, alto financiamento e forte institucionalização. O país exato ainda não foi escolhido entre candidatos plausíveis como Suíça, Países Baixos ou Dinamarca.
+A liderança pertence a um **pequeno país europeu**, favorecido por população reduzida, alto financiamento e forte institucionalização. **O país exato permanece deliberadamente em aberto** e não deve ser presumido até decisão posterior.
 
 ### 492. Principal tensão social contemporânea
 
