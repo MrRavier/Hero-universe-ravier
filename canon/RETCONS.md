@@ -45,3 +45,20 @@ Registro inicial das regras 1-466. Nenhum retcon posterior registrado ainda.
 - As descrições passam a seguir formato mais direto: efeito central, capacidades observáveis e limitações.
 
 **Motivo:** aproximar o conceito desejado de um arquétipo de super-humano físico/energético de altíssimo nível, com inspiração estrutural em Superman, Boros e Sentry, sem copiar suas origens ou mecânicas específicas.
+
+
+## v0.11 — Retcon de poderes do núcleo canadense
+**Data:** 2026-09-03  
+**Regras afetadas:** 548-550, 553-559
+
+- **Maya Chen / Lifeline:** a Habilidade **Tether**, que produzia cordas pelas mãos, foi removida. A nova Habilidade é **Loadshare**, capaz de conectar pontos não vivos e redistribuir entre eles cargas e esforços físicos sem eliminá-los.
+- **Callum Sinclair:** a Habilidade **Pressure Burst**, baseada em explosões de ar pelas mãos e pés e propulsão, foi removida. A nova Habilidade é **Hard Air**, que condensa ar em superfícies sólidas temporárias como placas, degraus, rampas e paredes.
+- **Jasper Singh:** a Habilidade **Overdrive**, baseada em aumento temporário de força muscular com dano corporal, foi removida. A nova Habilidade é **Backlash**, que permite produzir um segundo impacto contundente no lado oposto de um alvo que ele atinge fisicamente.
+- **Naomi Park:** a Habilidade **Stitch**, baseada em fios biológicos para fechar ferimentos, foi removida. A nova Habilidade é **Borrowed Pulse**, que permite sincronizar temporariamente funções vitais de uma vítima com as próprias mediante contato contínuo, sem curar o ferimento.
+- **Owen LeBlanc:** a Habilidade **Cushion**, baseada em produção de espuma amortecedora, foi removida. A nova Habilidade é **Soft Spot**, que torna temporariamente áreas de materiais sólidos não vivos macias, deformáveis e elásticas.
+- **Samira Okafor / Amphibious Morphology** foi mantida sem alteração.
+- A dinâmica de exercícios e a primeira disputa Thomas–Callum foram reescritas para refletir Hard Air.
+
+**Motivo:** reduzir paralelos involuntários com arquétipos e poderes reconhecíveis de elencos escolares de super-heróis, especialmente combinações que lembravam personagens de My Hero Academia, e dar ao núcleo canadense uma identidade mecânica e visual mais própria.
+
+**Consequência:** nomes, relações, idades, personalidades e funções narrativas desses personagens permanecem; somente as Habilidades e cenas dependentes delas foram substituídas.
