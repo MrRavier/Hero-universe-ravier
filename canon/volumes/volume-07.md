@@ -27,3 +27,22 @@ O título informal de **“humano mais forte”** refere-se ao melhor consenso c
 Sua relação institucional com a Santa Sé será definida posteriormente: ele pode ser agente oficial, herói licenciado do Estado da Cidade do Vaticano, membro de uma ordem, protetor diretamente subordinado à autoridade pontifícia ou ocupar uma posição singular criada especificamente para ele.
 
 Sua posição no ranking comercial mundial também permanece em aberto. Ser o mais forte da humanidade não implica necessariamente ser o herói mais popular ou ocupar o número 1 em todo sistema de ranking.
+
+
+### 497. Origem familiar e infância do herói do Vaticano
+
+O futuro humano mais forte conhecido nasce de uma **jovem turista suíça** que, ainda muito jovem, havia engravidado de um **homem italiano** e escondia a gravidez da própria família.
+
+Durante uma visita ao **Vaticano**, ela entra inesperadamente em trabalho de parto. O nascimento ocorre em circunstâncias de emergência ligadas à própria visita, e a criança acaba permanecendo em Roma/Vaticano enquanto a mãe retorna para sua vida anterior.
+
+Incapaz ou não disposta a revelar a gravidez à família, a mãe deixa o recém-nascido aos cuidados de uma **família leiga de trabalhadores da Santa Sé**. O mecanismo jurídico exato de tutela ou adoção ainda será definido, mas essa família se torna, na prática, sua família.
+
+Esse ponto é fundamental para o personagem: ele **não é criado como arma, experimento ou projeto secreto da Igreja**. Sua infância é doméstica, católica e ligada ao cotidiano de pessoas que trabalham para a Santa Sé.
+
+Sua ascendência biológica conhecida é, portanto, **suíça pelo lado materno e italiana pelo lado paterno**. Nacionalidade civil, cidade exata de registro do nascimento, identidade dos pais biológicos e identidade da família que o criou permanecem em aberto.
+
+Aos **3 anos de idade**, ele manifesta sua Habilidade pela primeira vez. A manifestação infantil é suficientemente anormal para ser registrada e acompanhada, mas os detalhes exatos do primeiro episódio e a extensão do que adultos compreenderam naquela época ainda serão definidos.
+
+Mais tarde, já por decisão própria, ele segue vocação religiosa, entra em formação e **torna-se membro do clero católico**. Sua carreira heroica e sua condição clerical passam a coexistir, criando uma posição singular dentro da Santa Sé.
+
+Como ele tem mais de 40 anos em 2014, seu nascimento necessariamente ocorreu **em 1973 ou antes**; o ano exato ainda não foi fixado.
