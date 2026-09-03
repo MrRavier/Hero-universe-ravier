@@ -4,7 +4,7 @@ Repositório canônico do universo de super-heróis em desenvolvimento.
 
 ## Estado atual
 
-**Cânone Base v0.7 - Regras 1-512**
+**Cânone Base v0.8 - Regras 1-530**
 
 A fundação foi definida antes da criação de personagens e eventos específicos. O cenário combina sociedade heroica institucionalizada, poderes de múltiplas origens, história real reconhecível, magia, alienígenas e uma escala sem teto conhecido, mantendo uma única continuidade.
 
@@ -17,6 +17,7 @@ A fundação foi definida antes da criação de personagens e eventos específic
 - `canon/volumes/volume-05.md` - personagens, equipes, narrativa e cânone.
 - `canon/volumes/volume-06.md` - identidade, retorno moderno e presente de 2014.
 - `canon/volumes/volume-07.md` - primeiros personagens canônicos.
+- `canon/volumes/volume-08.md` - núcleo canadense inicial e protagonista Thomas Mercer.
 - `canon/BIBLIA_MESTRE.md` - consolidação automática dos volumes canônicos.
 - `canon/pdfs/` - PDFs canônicos gerados automaticamente.
 - `canon/RETCONS.md` - histórico de alterações de continuidade.
