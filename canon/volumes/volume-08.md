@@ -1,10 +1,10 @@
 # Volume 8 - Núcleo Canadense I
 
 **Projeto:** Hero Universe Ravier  
-**Estado:** Cânone Base v0.8  
-**Faixa de regras:** 513-530
+**Estado:** Cânone Base v0.9  
+**Faixa de regras:** 513-545
 
-Núcleo inicial da primeira obra, situado no Canadá em 2014, e ficha canônica do protagonista Thomas Mercer.
+Núcleo inicial da primeira obra, situado no Canadá em 2014, e fichas canônicas de Thomas Mercer e Evelyn Winsor.
 
 ---
 
@@ -226,3 +226,227 @@ Thomas não participou do episódio. Quando soube, ficou furioso, mas respeitou 
 No início da obra, a relação entre os dois é uma **amizade extremamente íntima e antiga**. A possibilidade de evolução romântica não é definida como fato consumado no cânone inicial.
 
 Thomas também conhece detalhes da anatomia de Evelyn que assustariam pessoas menos próximas — incluindo sua boca predatória quando totalmente aberta — e trata essas características como parte normal de quem ela é.
+
+### 531. Identidade de Evelyn Winsor
+
+Seu nome completo é **Evelyn Margaret Winsor**, normalmente chamada de **Evie** por familiares e amigos próximos.
+
+Tem **19 anos** no início da história e nasceu em **St. John’s, Newfoundland and Labrador**.
+
+É canadense, de família anglo-newfoundlander.
+
+Evelyn é uma Pessoa Extraordinária de manifestação morfológica permanente. Sua aparência insetoide não é um traje, transformação temporária ou estado de combate.
+
+### 532. Aparência geral
+
+Evelyn mede aproximadamente **1,78 m**.
+
+Possui silhueta humanoide feminina e proporções corporais predominantemente humanas, combinadas a uma anatomia insetoide integrada.
+
+Tem:
+
+- cabelos pretos, lisos e geralmente presos em rabo de cavalo baixo;
+- pele clara nas áreas humanas do rosto e parte superior do tórax;
+- quitina castanho-escura a bronze cobrindo grande parte do pescoço, tronco, braços e pernas;
+- duas antenas longas;
+- dois pares de asas membranosas translúcidas;
+- quatro grandes apêndices dorsais articulados;
+- mãos e pés parcialmente quitinizados, terminando em pontas e garras funcionais.
+
+Seu rosto possui traços delicados e humanos apesar dos elementos insetoides.
+
+### 533. Olhos, rosto e pescoço
+
+A **esclera dos olhos de Evelyn é preta ou quase preta**.
+
+Suas íris são **azul-acinzentadas**, produzindo forte contraste com a esclera escura.
+
+A pupila permanece escura e funcionalmente semelhante à humana.
+
+Seu pescoço possui **comprimento e proporção humanos normais**. A impressão segmentada vem exclusivamente das placas de quitina que revestem a região; Evelyn não possui pescoço alongado.
+
+As placas laterais que acompanham as bochechas fazem parte da anatomia facial e acompanham a linha natural da boca quando fechada.
+
+### 534. Boca predatória
+
+Com a boca fechada, Evelyn parece possuir lábios humanos acompanhados por uma linha lateral mais longa nas bochechas e pequenas estruturas quitinosas junto à mandíbula.
+
+Ao falar, comer ou sorrir normalmente, a abertura continua relativamente discreta.
+
+Quando abre a boca **por completo**, as placas laterais se afastam e a cavidade oral se expande muito além de uma boca humana comum.
+
+O interior contém múltiplas estruturas dentárias e presas irregulares, formando uma boca claramente predatória.
+
+Essa anatomia é natural e saudável para Evelyn. Não representa transformação, ferimento ou perda de controle.
+
+A mordida é consideravelmente mais forte que a de um ser humano comum, embora Evelyn raramente a utilize como recurso de combate.
+
+### 535. Habilidade — Vespiform Morphology
+
+A Habilidade de Evelyn é classificada como **Vespiform Morphology**.
+
+**Descrição:** Evelyn possui uma anatomia híbrida humano-insetoide permanente, capaz de voo, locomoção ampliada e esforço físico acima do humano comum.
+
+Toda a Habilidade deriva do próprio corpo. Ela não invoca membros externos, não veste um exoesqueleto separado e não assume uma segunda forma.
+
+A classificação “vespiforme” é descritiva e não significa que Evelyn pertença biologicamente a uma espécie real de vespa.
+
+### 536. Asas e voo
+
+Evelyn possui **dois pares de asas membranosas**.
+
+É capaz de:
+
+- decolar verticalmente;
+- pairar;
+- fazer curvas fechadas;
+- frear rapidamente;
+- mover-se com grande precisão em espaços tridimensionais;
+- carregar outra pessoa por distâncias curtas, dependendo do peso e das condições.
+
+Seu principal diferencial aéreo é **agilidade**, não velocidade máxima.
+
+As asas são partes vivas, sensíveis e mais frágeis que suas placas de quitina.
+
+### 537. Apêndices dorsais
+
+Quatro apêndices longos e articulados partem das costas de Evelyn.
+
+Eles são totalmente inervados e controlados como membros naturais.
+
+Podem ser usados para:
+
+- apoiar o corpo;
+- escalar;
+- agarrar objetos grandes;
+- prender-se a superfícies;
+- proteger o tronco;
+- atacar ou afastar ameaças;
+- permitir que Evelyn sustente o próprio peso deixando braços e pernas livres.
+
+Os apêndices possuem excelente força e alcance, mas menor precisão fina que suas mãos principais.
+
+Em ambientes apertados, Evelyn costuma mantê-los dobrados próximos ao corpo.
+
+### 538. Capacidades físicas e sensoriais
+
+A quitina oferece proteção superior à pele humana contra cortes, abrasão e impactos moderados.
+
+Evelyn possui força e resistência física acima da média humana, especialmente nos membros dorsais e pernas.
+
+Suas antenas detectam mudanças sutis no ar, proximidade, vibrações e componentes químicos que humanos normalmente não percebem.
+
+Ela também possui excelente equilíbrio e percepção corporal, necessários para coordenar simultaneamente braços, pernas, asas e quatro apêndices dorsais.
+
+Consegue aderir e se sustentar em diversas superfícies usando garras e estruturas próprias das extremidades, embora isso não funcione igualmente bem em qualquer material.
+
+### 539. Limitações biológicas
+
+Evelyn não é invulnerável.
+
+As regiões de junção entre placas são menos protegidas que a quitina principal.
+
+As asas podem rasgar ou perfurar e precisam de tempo para cicatrizar.
+
+Danos severos aos apêndices dorsais provocam dor, sangramento e perda real de mobilidade; eles não são peças descartáveis.
+
+Frio intenso reduz a eficiência do voo e torna asas e articulações menos responsivas, embora Evelyn possua metabolismo humanoide suficiente para viver normalmente no clima de Newfoundland.
+
+Seu corpo exige mais energia alimentar que o de uma jovem humana de tamanho semelhante, especialmente após voo prolongado ou cicatrização.
+
+Ela não possui ferrão funcional, veneno ou capacidade automática de produzir toxinas apenas por ser vespiforme.
+
+### 540. Manifestação na infância
+
+Evelyn nasceu com aparência majoritariamente humana.
+
+Os primeiros sinais claros da Habilidade surgiram por volta dos **4 anos**, inicialmente como pequenas placas de quitina e alterações nas extremidades.
+
+As antenas, asas e apêndices dorsais apareceram gradualmente ao longo da infância.
+
+Durante parte da adolescência seu corpo ainda estava mudando de proporção, o que tornava sua aparência menos harmoniosa e exigia adaptações constantes de roupa, mobiliário e acompanhamento médico.
+
+Por volta do fim da adolescência, sua anatomia estabilizou na forma apresentada em 2014.
+
+Thomas conheceu Evelyn antes dessa evolução terminar e acompanhou grande parte do processo.
+
+### 541. Família Winsor
+
+Evelyn cresceu em St. John’s numa família comum.
+
+Seu pai, **Jonathan Winsor**, trabalha com administração e logística ligada ao setor marítimo local.
+
+Sua mãe, **Margaret Winsor, nascida Penney**, trabalha como técnica de laboratório clínico.
+
+Os pais não possuem carreira heroica.
+
+Durante a infância de Evelyn, boa parte da rotina familiar passou a envolver consultas, adaptações domésticas, roupas modificadas e aprendizado sobre uma anatomia para a qual nem sempre existiam especialistas locais.
+
+A família nunca tratou sua manifestação como algo vergonhoso, embora Evelyn tenha percebido cedo que o restante da sociedade nem sempre reagia da mesma forma.
+
+### 542. Bullying e imagem corporal
+
+Conforme sua anatomia insetoide se tornou mais evidente, Evelyn sofreu bullying persistente durante a escola.
+
+Foi chamada de nomes relacionados a insetos, sujeira, doença e monstruosidade.
+
+Colegas evitavam contato físico, tiravam fotografias escondidas, faziam perguntas invasivas sobre seu corpo e, em algumas ocasiões, tentaram tocar antenas ou asas sem consentimento.
+
+Durante grande parte da adolescência, Evelyn foi socialmente tratada como **“feia”** ou assustadora, mesmo possuindo traços faciais considerados atraentes.
+
+Isso fez com que ela passasse a desconfiar de elogios ligados à própria aparência e a interpretar olhares prolongados primeiro como estranhamento, não como atração.
+
+### 543. A falsa declaração no ensino médio
+
+No último período do ensino médio, um rapaz se aproximou de Evelyn fingindo interesse romântico.
+
+Ele declarou gostar dela e a convenceu de que o convite para sair era sincero.
+
+A situação fazia parte de um **desafio entre colegas**, que queriam ver se ele conseguiria fazer “a garota-inseto” aceitar um encontro.
+
+Parte do grupo acompanhava ou registrava a situação para rir depois.
+
+Foi a **última declaração romântica que Evelyn recebeu durante o ensino médio**.
+
+O episódio teve efeito duradouro: Evelyn não passou a acreditar que ninguém possa achá-la atraente, mas ficou muito mais cautelosa em distinguir interesse sincero de fetichização, crueldade ou piada.
+
+Thomas soube do ocorrido posteriormente e respeitou o pedido dela para não transformar a humilhação numa briga em nome dela.
+
+### 544. Personalidade, hábitos e estilo
+
+Evelyn é reservada sem ser tímida.
+
+É educada, observadora, inteligente e possui humor seco semelhante ao de Thomas, embora seja normalmente mais organizada e socialmente cuidadosa que ele.
+
+Não gosta de ser tratada como frágil por causa do bullying nem como curiosidade biológica por causa da Habilidade.
+
+Seu vestuário cotidiano tende a ser elegante, confortável e discreto, com preferência por:
+
+- castanho;
+- preto;
+- creme;
+- bege;
+- cinza;
+- outros tons terrosos e neutros.
+
+Usa com frequência cardigans, regatas, blusas de gola alta, calças de alfaiataria, sobretudos e bolsas pequenas.
+
+Suas roupas são modificadas para permitir passagem e movimento das asas e apêndices dorsais sem tratá-los como algo a ser escondido.
+
+### 545. Evelyn em Vancouver e relação com Thomas
+
+Em 2014, Evelyn também se muda de Newfoundland para **Vancouver**.
+
+Ela inicia estudos superiores voltados às **ciências biológicas e fisiologia extraordinária**, motivada em parte pela experiência de crescer num corpo que muitos médicos comuns compreendiam apenas parcialmente.
+
+Evelyn não começa a história como heroína profissional nem como aluna do mesmo percurso de licenciamento de Thomas.
+
+Ainda assim, sua anatomia a torna fisicamente capaz de agir em situações de emergência, e ela não fica limitada ao papel de observadora passiva.
+
+Thomas é a pessoa fora de sua família em quem Evelyn confia há mais tempo.
+
+Ele viu seu corpo mudar durante a infância, conhece sua boca totalmente aberta, suas asas, apêndices e limitações e nunca tratou nenhuma dessas características como motivo para diminuir ou exotizar quem ela é.
+
+A relação dos dois no início da obra é uma amizade de infância excepcionalmente íntima.
+
+Existe espaço narrativo para que essa relação se torne romântica, mas **nenhum namoro ou sentimento recíproco declarado é estabelecido como fato no ponto inicial do cânone**.
