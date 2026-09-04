@@ -4,7 +4,7 @@ Repositório canônico do universo de super-heróis em desenvolvimento.
 
 ## Estado atual
 
-**Cânone Base v0.20 - Regras 1-656**
+**Cânone Base v0.21 - Regras 1-668**
 
 A fundação foi definida antes da criação de personagens e eventos específicos. O cenário combina sociedade heroica institucionalizada, poderes de múltiplas origens, história real reconhecível, magia, alienígenas e uma escala sem teto conhecido, mantendo uma única continuidade.
 
@@ -27,6 +27,7 @@ A fundação foi definida antes da criação de personagens e eventos específic
 - `canon/volumes/volume-15.md` - Northbound: Saga do Catálogo, investigação de dados extraordinários e primeiro conflito direto com Adrien.
 - `canon/volumes/volume-16.md` - Adrien Verhaegen: biografia, manifestação de Silence, carreira investigativa e queda moral.
 - `canon/volumes/volume-17.md` - Adrien Verhaegen: vida cotidiana e reputação; primeiros grandes profissionais canadenses.
+- `canon/volumes/volume-18.md` - Tanya Hargreaves: Stress Sense, Cedar Narrows e definição parcial de ANCHOR.
 - `canon/BIBLIA_MESTRE.md` - consolidação automática dos volumes canônicos.
 - `canon/pdfs/` - PDFs canônicos gerados automaticamente.
 - `canon/RETCONS.md` - histórico de alterações de continuidade.
