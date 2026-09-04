@@ -4,7 +4,7 @@ Repositório canônico do universo de super-heróis em desenvolvimento.
 
 ## Estado atual
 
-**Cânone Base v0.13 - Regras 1-572**
+**Cânone Base v0.14 - Regras 1-580**
 
 A fundação foi definida antes da criação de personagens e eventos específicos. O cenário combina sociedade heroica institucionalizada, poderes de múltiplas origens, história real reconhecível, magia, alienígenas e uma escala sem teto conhecido, mantendo uma única continuidade.
 
@@ -20,6 +20,7 @@ A fundação foi definida antes da criação de personagens e eventos específic
 - `canon/volumes/volume-08.md` - núcleo canadense inicial, Thomas Mercer e Evelyn Winsor.
 - `canon/volumes/volume-09.md` - formação heroica canadense, colegas, mentoria e primeiro antagonista.
 - `canon/volumes/volume-10.md` - abertura da primeira obra, rotina Thomas-Evelyn e primeiro incidente ligado a Trevor Kells.
+- `canon/volumes/volume-11.md` - Northbound, identidade da primeira série, amplificador e antagonista principal da primeira saga.
 - `canon/BIBLIA_MESTRE.md` - consolidação automática dos volumes canônicos.
 - `canon/pdfs/` - PDFs canônicos gerados automaticamente.
 - `canon/RETCONS.md` - histórico de alterações de continuidade.
