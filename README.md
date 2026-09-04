@@ -40,6 +40,7 @@ A fundação foi definida antes da criação de personagens e eventos específic
 - `canon/BIBLIA_MESTRE.md` - consolidação automática dos volumes canônicos.
 - `canon/pdfs/` - PDFs canônicos gerados automaticamente.
 - `canon/RETCONS.md` - histórico de alterações de continuidade.
+- `planning/NORTHBOUND_MASTER_OUTLINE.md` - outline mestre da narrativa: passado, ponto atual, futuro planejado e questões em aberto; não substitui o cânone.
 
 ## Política de continuidade
 
@@ -48,6 +49,7 @@ A fundação foi definida antes da criação de personagens e eventos específic
 - Sem viagem no tempo.
 - Retcons são permitidos quando corrigem contradições ou melhoram o cânone e devem ser registrados.
 - O GitHub é a fonte oficial de verdade a partir da versão v0.1.
+- Arquivos em `planning/` são documentos de planejamento e podem conter direções futuras ainda não canonizadas.
 
 ## PDFs
 
