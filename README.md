@@ -4,7 +4,7 @@ Repositório canônico do universo de super-heróis em desenvolvimento.
 
 ## Estado atual
 
-**Cânone Base v0.28 - Regras 1-752**
+**Cânone Base v0.29 - Regras 1-764**
 
 A fundação foi definida antes da criação de personagens e eventos específicos. O cenário combina sociedade heroica institucionalizada, poderes de múltiplas origens, história real reconhecível, magia, alienígenas e uma escala sem teto conhecido, mantendo uma única continuidade.
 
@@ -35,6 +35,7 @@ A fundação foi definida antes da criação de personagens e eventos específic
 - `canon/volumes/volume-23.md` - Ladislav Vacek: tentativa de captura, direitos civis e revelação de Interaction Medium.
 - `canon/volumes/volume-24.md` - Adriana Cabral: Readout, função Interface e leitura funcional da matriz extraordinária.
 - `canon/volumes/volume-25.md` - Mai Arakawa: Kickstart, função Catalyst e terceiro Interaction Medium confirmado.
+- `canon/volumes/volume-26.md` - Thandeka Mthembu: Holdline, função Containment e risco de propagação por acoplamento.
 - `canon/BIBLIA_MESTRE.md` - consolidação automática dos volumes canônicos.
 - `canon/pdfs/` - PDFs canônicos gerados automaticamente.
 - `canon/RETCONS.md` - histórico de alterações de continuidade.
