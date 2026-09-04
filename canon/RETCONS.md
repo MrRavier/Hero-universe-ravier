@@ -62,3 +62,26 @@ Registro inicial das regras 1-466. Nenhum retcon posterior registrado ainda.
 **Motivo:** reduzir paralelos involuntários com arquétipos e poderes reconhecíveis de elencos escolares de super-heróis, especialmente combinações que lembravam personagens de My Hero Academia, e dar ao núcleo canadense uma identidade mecânica e visual mais própria.
 
 **Consequência:** nomes, relações, idades, personalidades e funções narrativas desses personagens permanecem; somente as Habilidades e cenas dependentes delas foram substituídas.
+
+
+## v0.13 — Vassoura de nomes e segundo retcon de Callum
+**Data:** 2026-09-04  
+**Regras afetadas:** 548-560, 565-571
+
+Após uma revisão de nomes civis, codinomes e colisões com personagens já existentes, o núcleo canadense foi renomeado para privilegiar combinações cultural e regionalmente plausíveis e reduzir padrões recorrentes de nomenclatura gerada por IA.
+
+- **Maya Chen / Lifeline** foi removida e substituída por **Monica Lau**. Loadshare foi mantida. Monica não possui codinome heroico fixo no início da obra e é de família sino-canadense de raízes cantonesas em Richmond.
+- **Callum Sinclair** foi renomeado para **Callum Aitken**. Sua família passa a ter raízes escocesas-canadenses.
+- Os pais de Callum deixam de ser **Marianne Sinclair / Galeheart** e **David Sinclair / Breakwall** e passam a ser **Alison Aitken** e **Ian Aitken**, heróis conhecidos nacionalmente que, nesta fase, são referidos pelos próprios nomes.
+- **Hard Air** foi removida da continuidade por sua proximidade excessiva com um poder já estabelecido em quadrinhos de super-heróis. A nova Habilidade de Callum é **Afterforce**: movimentos deliberados podem deixar uma única repetição retardada da força original, sem repetir o corpo e sem qualquer viagem no tempo.
+- **Jasper Singh** foi renomeado para **Amanjot Singh**, canadense de família punjabi sikh em Surrey. **Backlash** foi mantida sem alteração mecânica.
+- **Naomi Park** foi renomeada para **Andrea Jihye Kwon**, normalmente **Andrea Kwon**, de família coreano-canadense em Burnaby. **Borrowed Pulse** foi mantida.
+- **Samira Okafor** foi renomeada para **Adaobi “Ada” Okafor**, canadense de família igbo. **Amphibious Morphology** foi mantida.
+- **Owen LeBlanc** foi mantido integralmente.
+- **Derek Shaw / Rivet** foi removido e substituído por **Trevor Kells**. O personagem não possui codinome criminal fixo no início da obra. **Shear** foi mantida.
+- As regras de dinâmica do grupo, rivalidade Thomas–Callum e abertura do caso portuário foram reescritas para refletir os novos nomes e Afterforce.
+- Thomas Mercer, Evelyn Winsor, suas famílias, Adriano Ferri/Leone e os demais personagens não listados acima permanecem inalterados.
+
+**Motivo:** aumentar a autenticidade regional e cultural do elenco, evitar combinações excessivamente recorrentes em conteúdo gerado por IA, remover codinomes desnecessários e eliminar uma colisão mecânica direta de Hard Air com um personagem canadense já publicado.
+
+**Consequência:** funções narrativas, idades, relações básicas e a estrutura da primeira saga permanecem. A continuidade corrente deve usar exclusivamente **Monica Lau, Callum Aitken, Alison Aitken, Ian Aitken, Amanjot Singh, Andrea Jihye Kwon, Adaobi Okafor e Trevor Kells**. Os nomes anteriores sobrevivem apenas neste histórico de retcons.
