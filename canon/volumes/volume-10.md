@@ -1,10 +1,10 @@
 # Volume 10 - Abertura da Primeira Obra
 
 **Projeto:** Hero Universe Ravier  
-**Estado:** Cânone Base v0.12  
+**Estado:** Cânone Base v0.13  
 **Faixa de regras:** 561-572
 
-Estrutura canônica da abertura da primeira história de Thomas Mercer em Vancouver, incluindo rotina doméstica com Evelyn, primeiros treinamentos e o incidente que liga o núcleo estudantil a Rivet.
+Estrutura canônica da abertura da primeira história de Thomas Mercer em Vancouver, incluindo rotina doméstica com Evelyn, primeiros treinamentos e o incidente que liga o núcleo estudantil a Trevor Kells.
 
 ---
 
@@ -77,31 +77,31 @@ O exercício é construído para ser impossível de resolver de maneira satisfat
 
 É um dos primeiros momentos em que Thomas começa a demonstrar sua utilidade como improvisador, combinando as Habilidades dos colegas em vez de tentar superar todos individualmente.
 
-### 565. Primeiro contato com o caso Rivet
+### 565. Primeiro contato com o caso Kells
 
-Thomas não encontra Rivet inicialmente numa luta declarada.
+Thomas não encontra Trevor Kells inicialmente numa luta declarada.
 
 O primeiro contato acontece através das **consequências de um incidente aparentemente comum**.
 
 Durante uma atividade supervisionada fora do campus, Thomas percebe detalhes que não combinam com uma simples falha mecânica ou acidente industrial.
 
-Ele ainda não sabe quem é Rivet, mas identifica que certas conexões, encaixes e suportes parecem ter falhado de maneira seletiva demais.
+Ele ainda não sabe quem causou aquilo, mas identifica que certas conexões, encaixes e suportes parecem ter falhado de maneira seletiva demais.
 
-A investigação sobre essa anomalia leva ao primeiro encontro real com Derek Shaw.
+A investigação sobre essa anomalia leva ao primeiro encontro real com **Trevor Kells**.
 
 ### 566. Local do primeiro incidente real
 
-O primeiro incidente ligado diretamente a Rivet ocorre na zona portuária de **Vancouver**.
+O primeiro incidente ligado diretamente a Trevor Kells ocorre na zona portuária de **Vancouver**.
 
 O cenário envolve áreas de carga, contêineres, guindastes, estruturas metálicas e equipamentos industriais.
 
-Rivet está envolvido num roubo de componentes e equipamentos que, isoladamente, parecem pouco valiosos ou pouco interessantes para um criminoso comum.
+Kells está envolvido num roubo de componentes e equipamentos que, isoladamente, parecem pouco valiosos ou pouco interessantes para um criminoso comum.
 
 O ambiente portuário também cria uma familiaridade inesperada para Thomas, que cresceu em St. John’s e possui referências familiares ligadas a infraestrutura e trabalho marítimo.
 
 ### 567. Primeiro erro sério de Thomas
 
-Durante o incidente, Thomas tenta improvisar uma solução estrutural sem compreender completamente o dano já causado por Rivet.
+Durante o incidente, Thomas tenta improvisar uma solução estrutural sem compreender completamente o dano já causado por Kells.
 
 Ele usa machados materializados como suportes, cunhas e pontos de contenção, mas uma das intervenções desloca esforço para uma parte da estrutura que já estava comprometida.
 
@@ -113,25 +113,25 @@ Esse episódio estabelece que criatividade sem leitura adequada do problema tamb
 
 ### 568. Consequência do erro
 
-Maya Chen consegue impedir que o erro de Thomas se transforme numa tragédia maior usando Loadshare em conjunto com os demais estudantes e equipes de emergência.
+**Monica Lau** consegue impedir que o erro de Thomas se transforme numa tragédia maior usando Loadshare em conjunto com os demais estudantes e equipes de emergência.
 
 Ninguém morre por causa da decisão de Thomas, mas fica claro que, sem intervenção profissional imediata, o resultado poderia ter sido fatal.
 
 Thomas entende pela primeira vez de forma concreta que treinamento, protocolos e experiência não existem para limitar criatividade, mas para impedir que boas intenções matem alguém.
 
-Maya não o humilha nem o trata como incapaz. Ela exige que ele analise exatamente onde errou e por quê.
+Monica não o humilha nem o trata como incapaz. Ela exige que ele analise exatamente onde errou e por quê.
 
-### 569. Rivet escapa no primeiro confronto
+### 569. Trevor Kells escapa no primeiro confronto
 
-Thomas e seus colegas conseguem localizar Rivet durante o incidente.
+Thomas e seus colegas conseguem localizar Trevor Kells durante o incidente.
 
 Thomas chega perto de impedir sua fuga, mas precisa escolher entre continuar a perseguição ou voltar para uma zona de risco onde civis e trabalhadores ainda precisam ser retirados.
 
 Ele abandona a perseguição.
 
-Rivet escapa.
+Kells escapa.
 
-A decisão frustra Thomas, mas é considerada profissionalmente correta por Maya.
+A decisão frustra Thomas, mas é considerada profissionalmente correta por Monica.
 
 Essa é a primeira vitória moral importante de Thomas: quando precisa escolher entre capturar o criminoso e salvar pessoas, ele escolhe as pessoas.
 
@@ -151,7 +151,7 @@ Mesmo assim, a repercussão atinge diretamente uma insegurança que Thomas já p
 
 ### 571. Primeira pista da organização maior
 
-Os objetos e componentes buscados por Rivet não são, individualmente, raros o suficiente para justificar uma conspiração aparente.
+Os objetos e componentes buscados por Trevor Kells não são, individualmente, raros o suficiente para justificar uma conspiração aparente.
 
 O padrão estranho está na **combinação e quantidade** dos itens roubados em diferentes incidentes.
 
