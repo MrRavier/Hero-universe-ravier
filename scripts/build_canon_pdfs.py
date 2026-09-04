@@ -80,8 +80,8 @@ for p in volumes:
 
 master_header = """# BÍBLIA MESTRE - HERO UNIVERSE RAVIER
 
-**Estado:** Cânone Base v0.28  
-**Abrangência:** Regras 1-752  
+**Estado:** Cânone Base v0.29  
+**Abrangência:** Regras 1-764  
 **Continuidade:** única; sem multiverso e sem viagem no tempo.
 
 ## Síntese executiva
@@ -108,5 +108,5 @@ for p in volumes:
     parts.append(txt.strip()+"\n")
 master=ROOT/"canon"/"BIBLIA_MESTRE.md"
 master.write_text("\n\n".join(parts),encoding="utf-8")
-make_pdf(master, PDF_DIR/"BIBLIA_MESTRE.pdf", "Bíblia Mestre - Regras 1-752")
+make_pdf(master, PDF_DIR/"BIBLIA_MESTRE.pdf", "Bíblia Mestre - Regras 1-764")
 print("Generated", len(volumes)+1, "PDFs")
