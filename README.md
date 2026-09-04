@@ -4,7 +4,7 @@ Repositório canônico do universo de super-heróis em desenvolvimento.
 
 ## Estado atual
 
-**Cânone Base v0.24 - Regras 1-704**
+**Cânone Base v0.25 - Regras 1-716**
 
 A fundação foi definida antes da criação de personagens e eventos específicos. O cenário combina sociedade heroica institucionalizada, poderes de múltiplas origens, história real reconhecível, magia, alienígenas e uma escala sem teto conhecido, mantendo uma única continuidade.
 
@@ -31,6 +31,7 @@ A fundação foi definida antes da criação de personagens e eventos específic
 - `canon/volumes/volume-19.md` - ANCHOR: origem histórica, programa internacional dos anos 1980 e fragmentação do catálogo.
 - `canon/volumes/volume-20.md` - Alert-81: Material A-81, interferência extraordinária e primeiro ANCHOR confirmado em campo.
 - `canon/volumes/volume-21.md` - Rajasthan-50: R-50, interferência comparada e convergência entre pessoas e condições de interação.
+- `canon/volumes/volume-22.md` - Ladislav Vacek: primeiro ANCHOR vivo acompanhado em 2014, Hold Steady e confirmação de campo.
 - `canon/BIBLIA_MESTRE.md` - consolidação automática dos volumes canônicos.
 - `canon/pdfs/` - PDFs canônicos gerados automaticamente.
 - `canon/RETCONS.md` - histórico de alterações de continuidade.
