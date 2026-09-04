@@ -1,7 +1,7 @@
 # BÍBLIA MESTRE - HERO UNIVERSE RAVIER
 
-**Estado:** Cânone Base v0.26  
-**Abrangência:** Regras 1-728  
+**Estado:** Cânone Base v0.27  
+**Abrangência:** Regras 1-740  
 **Continuidade:** única; sem multiverso e sem viagem no tempo.
 
 ## Síntese executiva
