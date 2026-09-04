@@ -4,7 +4,7 @@ Repositório canônico do universo de super-heróis em desenvolvimento.
 
 ## Estado atual
 
-**Cânone Base v0.22 - Regras 1-680**
+**Cânone Base v0.23 - Regras 1-692**
 
 A fundação foi definida antes da criação de personagens e eventos específicos. O cenário combina sociedade heroica institucionalizada, poderes de múltiplas origens, história real reconhecível, magia, alienígenas e uma escala sem teto conhecido, mantendo uma única continuidade.
 
@@ -29,6 +29,7 @@ A fundação foi definida antes da criação de personagens e eventos específic
 - `canon/volumes/volume-17.md` - Adrien Verhaegen: vida cotidiana e reputação; primeiros grandes profissionais canadenses.
 - `canon/volumes/volume-18.md` - Tanya Hargreaves: Stress Sense, Cedar Narrows e definição parcial de ANCHOR.
 - `canon/volumes/volume-19.md` - ANCHOR: origem histórica, programa internacional dos anos 1980 e fragmentação do catálogo.
+- `canon/volumes/volume-20.md` - Alert-81: Material A-81, interferência extraordinária e primeiro ANCHOR confirmado em campo.
 - `canon/BIBLIA_MESTRE.md` - consolidação automática dos volumes canônicos.
 - `canon/pdfs/` - PDFs canônicos gerados automaticamente.
 - `canon/RETCONS.md` - histórico de alterações de continuidade.
