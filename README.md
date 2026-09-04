@@ -4,7 +4,7 @@ Repositório canônico do universo de super-heróis em desenvolvimento.
 
 ## Estado atual
 
-**Cânone Base v0.16 - Regras 1-600**
+**Cânone Base v0.18 - Regras 1-624**
 
 A fundação foi definida antes da criação de personagens e eventos específicos. O cenário combina sociedade heroica institucionalizada, poderes de múltiplas origens, história real reconhecível, magia, alienígenas e uma escala sem teto conhecido, mantendo uma única continuidade.
 
@@ -23,6 +23,8 @@ A fundação foi definida antes da criação de personagens e eventos específic
 - `canon/volumes/volume-11.md` - Northbound: identidade da primeira série, amplificador, rede clandestina e antagonista principal da primeira saga.
 - `canon/volumes/volume-12.md` - Northbound: clímax da primeira saga, Counterforce, papel de Evelyn e primeira aparição física de Leone.
 - `canon/volumes/volume-13.md` - Northbound: pós-Saga 1, consequências institucionais e primeira introdução de Adrien Verhaegen.
+- `canon/volumes/volume-14.md` - Adrien Verhaegen: origem, profissão, código moral, Habilidade Silence e ligação inicial com Vancouver.
+- `canon/volumes/volume-15.md` - Northbound: Saga do Catálogo, investigação de dados extraordinários e primeiro conflito direto com Adrien.
 - `canon/BIBLIA_MESTRE.md` - consolidação automática dos volumes canônicos.
 - `canon/pdfs/` - PDFs canônicos gerados automaticamente.
 - `canon/RETCONS.md` - histórico de alterações de continuidade.
