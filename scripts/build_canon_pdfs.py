@@ -80,7 +80,7 @@ for p in volumes:
 
 master_header = """# BÍBLIA MESTRE - HERO UNIVERSE RAVIER
 
-**Estado:** Cânone Base v0.12  
+**Estado:** Cânone Base v0.13  
 **Abrangência:** Regras 1-572  
 **Continuidade:** única; sem multiverso e sem viagem no tempo.
 
