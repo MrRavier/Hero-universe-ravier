@@ -4,7 +4,7 @@ Repositório canônico do universo de super-heróis em desenvolvimento.
 
 ## Estado atual
 
-**Cânone Base v0.11 - Regras 1-560**
+**Cânone Base v0.12 - Regras 1-572**
 
 A fundação foi definida antes da criação de personagens e eventos específicos. O cenário combina sociedade heroica institucionalizada, poderes de múltiplas origens, história real reconhecível, magia, alienígenas e uma escala sem teto conhecido, mantendo uma única continuidade.
 
@@ -19,6 +19,7 @@ A fundação foi definida antes da criação de personagens e eventos específic
 - `canon/volumes/volume-07.md` - primeiros personagens canônicos.
 - `canon/volumes/volume-08.md` - núcleo canadense inicial, Thomas Mercer e Evelyn Winsor.
 - `canon/volumes/volume-09.md` - formação heroica canadense, colegas, mentoria e primeiro antagonista.
+- `canon/volumes/volume-10.md` - abertura da primeira obra, rotina Thomas-Evelyn e primeiro incidente ligado a Rivet.
 - `canon/BIBLIA_MESTRE.md` - consolidação automática dos volumes canônicos.
 - `canon/pdfs/` - PDFs canônicos gerados automaticamente.
 - `canon/RETCONS.md` - histórico de alterações de continuidade.
