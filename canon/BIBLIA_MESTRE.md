@@ -1,7 +1,7 @@
 # BÍBLIA MESTRE - HERO UNIVERSE RAVIER
 
-**Estado:** Cânone Base v0.22  
-**Abrangência:** Regras 1-680  
+**Estado:** Cânone Base v0.24  
+**Abrangência:** Regras 1-704  
 **Continuidade:** única; sem multiverso e sem viagem no tempo.
 
 ## Síntese executiva
@@ -4298,3 +4298,81 @@ Um registro ANCHOR de 1986 contém a observação “Classification confirmed by
 
 ### 680. O incidente fundador permanece oculto
 Em algum momento entre o fim dos anos 1970 e o início dos anos 1980, múltiplas Habilidades foram usadas conjuntamente durante um incidente extraordinário pouco conhecido. A interação começou a falhar, e uma pessoa conseguiu manter a situação estável tempo suficiente para impedir uma catástrofe maior. O evento levou pesquisadores a tentar compreender aquela função e, posteriormente, a criar a categoria ANCHOR. O arquivo original do incidente está desaparecido. Thomas não é ANCHOR e sua ligação com o tema é conceitual: ele compreende intuitivamente que o valor de uma Habilidade depende também de como ela trabalha ao lado de outras.
+
+
+**Regras 681–692**
+
+### 681. Data
+Em agosto de 1981 ocorre o incidente posteriormente chamado de **Alert-81**. Esse nome é retrospectivo e não era a designação usada pelas pessoas envolvidas no momento.
+
+### 682. Local
+O incidente ocorre em um ponto remoto de levantamento ligado ao trabalho técnico e de comunicações associado a CFS Alert, na Ilha Ellesmere, e não dentro do complexo principal. A continuidade pública de CFS Alert permanece essencialmente reconhecível.
+
+### 683. Descoberta
+Instrumentos registram leituras inconsistentes durante o trabalho de campo, e Pessoas Extraordinárias presentes percebem suas Habilidades se comportando de modo incomum. Uma pequena escavação revela uma cavidade rochosa contendo uma estrutura inexplicável.
+
+### 684. Material A-81
+A estrutura parece uma malha escura parcialmente incrustada na rocha, com características ao mesmo tempo minerais e não classificadas. Não possui inscrições, painel ou resposta inteligível a comandos. Os relatórios a designam simplesmente **Material A-81**. Sua origem, idade e natureza permanecem indeterminadas.
+
+### 685. Interferência extraordinária
+O A-81 não age como arma autônoma. Quando uma única Habilidade opera em sua proximidade, pouco acontece; com duas surgem pequenas alterações; com três ou mais, as manifestações começam a interferir entre si. Intensidade, estabilidade, duração e limiares de ativação podem oscilar. As Habilidades não são copiadas, mas deixam de permanecer completamente isoladas umas das outras.
+
+### 686. Acidente
+Uma falha estrutural prende trabalhadores numa seção da cavidade. Uma equipe extraordinária entra para resgatá-los e, com cinco manifestações operando simultaneamente, a interferência cresce até formar um ciclo de feedback: cada Habilidade começa a alterar as condições nas quais as demais funcionam.
+
+### 687. Primeiro ANCHOR
+Entre os presentes há uma Pessoa Extraordinária cuja identidade ainda não foi fixada no cânone. Sua Habilidade, considerada modesta, permite **manter temporariamente uma condição física já estável em algo que toca**. Ela não cria estabilidade do nada e, fora de situações extraordinárias, é especialmente útil em manutenção e preservação de funcionamento regular.
+
+### 688. Função emergente
+Ao tocar uma parte da estrutura tentando impedir novo colapso, essa Habilidade entra, por causa da interferência do A-81, no sistema formado pelas demais manifestações. Por alguns minutos, as oscilações diminuem e as outras Pessoas Extraordinárias recuperam controle suficiente para completar o resgate.
+
+### 689. Não é superforma
+Fora da proximidade do A-81, a Habilidade volta a funcionar exatamente como antes. A pessoa não passa a estabilizar outros Metas normalmente. ANCHOR não é uma transformação ou poder oculto; foi uma **função emergente da interação entre manifestações sob condições específicas**.
+
+### 690. Pergunta científica
+Alert-81 gera a questão que orientará parte da pesquisa posterior: **existem Habilidades que, sob condições de interação extraordinária, desempenham funções que não aparecem quando analisadas isoladamente?** Em 1986 o sobrevivente é retroativamente classificado como **ANCHOR — confirmed by field exposure**.
+
+### 691. Destino do A-81
+Parte do material é removida para estudo, enquanto outra parte permanece no local por risco de extração completa. A cavidade é fechada. Após o encerramento do programa internacional nos anos 1990, a cadeia documental se fragmenta e, em 2014, ninguém do núcleo narrativo sabe com certeza onde estão todos os fragmentos removidos.
+
+### 692. Não parece único
+Adrien recupera uma página parcialmente redigida de um relatório antigo contendo a frase: **“A-81 does not appear to be unique.”** Isso não prova que existam vários objetos idênticos nem estabelece origem alienígena, mágica ou artificial; apenas mostra que, já em 1981, pesquisadores tinham motivos para relacionar o A-81 a pelo menos outro fenômeno conhecido.
+
+
+**Cânone Base v0.24 — Regras 693–704**
+
+### 693. Referência cruzada
+O relatório de Alert-81 contém a referência `R-50 / JAISALMER` e a observação "Comparable response; dissimilar substrate". O fenômeno é comparável, mas o material aparentemente não é o mesmo.
+
+### 694. Incidente de Rajasthan de 1950
+O Incidente de Rajasthan é localizado na região de Jaisalmer, oeste do Rajasthan. Uma equipe de levantamento geológico encontra uma formação incomum após exposição do terreno.
+
+### 695. R-50
+O objeto, posteriormente designado R-50, tem aproximadamente o tamanho de uma mão aberta, formato irregular e achatado, superfície clara semelhante a cerâmica ou pedra muito compacta e filamentos internos finíssimos organizados em padrões distintos da estrutura externa.
+
+### 696. Primeira anomalia observada
+Um integrante com Manifestação Extraordinária elétrica muito fraca apresenta oscilações anormais ao manipular equipamentos próximos ao R-50. Ao afastar o objeto, o efeito cessa.
+
+### 697. Testes posteriores
+R-50 não funciona como amplificador simples. Algumas Habilidades ficam mais fortes, outras mais fracas ou instáveis, e outras quase não mudam. Duas manifestações simultâneas próximas ao objeto produzem resultados diferentes daqueles observados isoladamente.
+
+### 698. R-50 não é A-81
+A-81 é uma malha escura integrada à rocha; R-50 é um objeto compacto, portátil e de composição diferente. O vínculo entre ambos é funcional: parecem alterar a interação entre Manifestações Extraordinárias.
+
+### 699. Hipóteses científicas
+Nos anos 1980 surgem três hipóteses principais: tecnologia de origens diferentes; materiais naturais extraordinários distintos; ou um efeito secundário pelo qual R-50 e A-81 apenas se acoplam a uma propriedade já existente nas Habilidades. Nenhuma hipótese é confirmada.
+
+### 700. Custódia indiana
+A Índia mantém o R-50 sob custódia institucional. O objeto não é secretamente removido por potências estrangeiras. O programa internacional dos anos 1980 recebe dados selecionados, não o objeto físico.
+
+### 701. Paradeiro em 2014
+Registros modernos afirmam que R-50 continua sob custódia, mas décadas de mudanças institucionais, reclassificações e digitalizações deixam inventários inconsistentes. O paradeiro físico exato do objeto em 2014 não está claro nos dados roubados.
+
+### 702. Pesquisa anterior a Counterforce
+Adrien descobre acessos recentes a registros de R-50, A-81, ANCHOR, "field exposure" e interferência entre Manifestações. Esses acessos antecedem o incidente de Counterforce, provando que Tanya não iniciou essa linha de investigação.
+
+### 703. O comprador desconhecido
+O comprador que paga por registros ANCHOR também adquire documentação sobre materiais e fenômenos de interferência. O interesse não é apenas em pessoas, mas também nas condições capazes de fazer suas Habilidades interagirem de maneira incomum.
+
+### 704. O erro da rede de Tanya
+Tanya percebe que o amplificador moderno foi uma aplicação grosseira de conhecimento mais antigo voltado a sistemas de múltiplas Habilidades. A rede construiu uma máquina sem compreender a finalidade original das instruções. O mistério passa a envolver pessoas funcionalmente compatíveis e meios de fazê-las operar como um sistema.
