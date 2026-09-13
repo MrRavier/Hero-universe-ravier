@@ -37,7 +37,7 @@ A independência é uma alteração localizada do assentamento territorial de Ne
 
 Casado com **Maria Economou (1876–1952)**, tem quatro filhos vivos em 1919:
 
-- Aleksandar (1896);
+- Aleksandar (1896–1982);
 - Sofia (1898);
 - Nikola (1901);
 - Katerina (1905).
@@ -46,7 +46,7 @@ Teodor não possui Habilidade conhecida. Aleksandar possui `Holdfast`; Katerina 
 
 ## Aleksandar I Orbelos
 
-Com a morte de Teodor em **1962**, Aleksandar sucede automaticamente como **Aleksandar I, Príncipe Soberano de Sintica**.
+Com a morte de Teodor em **1962**, Aleksandar sucede como **Aleksandar I, Príncipe Soberano de Sintica**.
 
 É casado desde 1923 com **Eleni Sideri (1900–1977)**, de família grega ortodoxa de Salônica.
 
@@ -56,9 +56,20 @@ Filhos:
 - **Maria Orbelos (1928– )**;
 - **Konstantin Orbelos (1932– )**.
 
-Nenhuma Habilidade está canonizada para estes três neste estágio.
+Nenhuma Habilidade está canonizada para esses três neste estágio.
 
-Em **1980**, Aleksandar I ainda reina, aos 84 anos, sem regência. O filho Teodor assume grande parte da representação pública, mas a sucessão posterior permanece aberta.
+Aleksandar I morre em **1982**, aos 86 anos.
+
+## Teodor II Orbelos
+
+O herdeiro sucede em 1982 como **Teodor II Orbelos, Príncipe Soberano de Sintica**.
+
+- nasceu em **1925**;
+- foi Príncipe Herdeiro de 1962 a 1982;
+- nenhuma Habilidade está canonizada para ele neste estágio;
+- em **2000**, continua soberano aos 75 anos.
+
+A consorte, os filhos e a ligação genealógica específica entre Teodor II e o soberano nascido em 1996 permanecem deliberadamente abertos, porque fazem parte da linhagem contemporânea reservada ao autor.
 
 A árvore detalhada da Casa na fundação está em `canon/SINTICA_HOUSE_OF_ORBELOS_1919.md`.
 
@@ -101,13 +112,15 @@ Marcos institucionais principais:
 - 1931: Corpo Cívico de Socorro;
 - 1950: Estatuto de Intervenção Extraordinária Pública;
 - 1954: licenciamento civil de atividade heroica/protetiva;
-- **1963:** missão de socorro ao terremoto de Skopje, marco de cooperação entre bombeiros, engenheiros e profissionais com Habilidades;
+- **1963:** missão de socorro ao terremoto de Skopje;
 - **1969:** Código de Responsabilidade Extraordinária;
-- **1976–77:** regras de publicidade, patrocínio e comercialização de heróis.
+- **1976–77:** regras de publicidade, patrocínio e comercialização de heróis;
+- **1984:** criação da **Diretoria de Proteção Extraordinária**, responsável por licenças, seguros, relatórios, equipamentos e coordenação institucional;
+- anos 1990: informatização gradual de licenças, reforço de privacidade e regras para missões humanitárias internacionais.
 
 Sintica regula a **atividade profissional e o risco**, não a simples existência de uma Habilidade.
 
-O desenvolvimento de 1961–1980 está em `canon/SINTICA_COLD_WAR_1961_1980.md`.
+O desenvolvimento de 1961–1980 está em `canon/SINTICA_COLD_WAR_1961_1980.md` e o período 1981–2000 em `canon/SINTICA_LATE_COLD_WAR_1981_2000.md`.
 
 ---
 
@@ -117,21 +130,28 @@ O **Grand Hotel Sintica**, inaugurado em 1928, continua símbolo nacional ao lon
 
 Sua estética é estratificada: neo-barroco, ecletismo, Secession e Art Déco convivem depois com elevadores modernos, carpetes sintéticos, iluminação embutida, televisores e intervenções dos anos 1950–70.
 
+No fim dos anos 1980 começa nova restauração patrimonial. Ao final dos anos 1990, elementos históricos recuperados convivem deliberadamente com marcas de reformas anteriores.
+
 A Casa de Orbelos mantém tradição de bailes, galas, recepções, concertos e beneficência. Heróis e socorristas podem participar, mas Habilidades não determinam precedência social.
 
 O desenvolvimento completo está em `canon/SINTICA_COURT_CULTURE.md`.
 
 ---
 
-# 8. NEUTRALIDADE E EUROPA
+# 8. NEUTRALIDADE, EUROPA E FIM DA IUGOSLÁVIA
 
-Sintica preserva neutralidade militar durante a Guerra Fria.
+Sintica preserva neutralidade militar durante e depois da Guerra Fria.
 
-- não entra no Movimento dos Não Alinhados em 1961, embora mantenha relações próximas com a Iugoslávia;
+- não entra no Movimento dos Não Alinhados em 1961;
 - participa do processo da CSCE;
 - na continuidade fictícia, assina o **Ato Final de Helsinki de 1975** como o 36º Estado participante;
-- em **1978**, ingressa no **Conselho da Europa** e adere ao sistema europeu de direitos humanos;
-- nenhuma dessas decisões converte o país em membro de aliança militar.
+- em **1978**, ingressa no **Conselho da Europa**;
+- em **1990**, ingressa nas **Nações Unidas**;
+- em **1992**, reconhece a República da Macedônia pouco depois do primeiro reconhecimento oficial búlgaro, sem reivindicações territoriais e com reconhecimento recíproco de fronteiras.
+
+Durante as guerras iugoslavas dos anos 1990, Sintica permanece fora do conflito. Sanções, contrabando, refugiados e colapso de rotas comerciais afetam o país, mas ele não se converte em centro militar ou diplomático decisivo.
+
+No conflito do Kosovo em 1999, Sintica mantém neutralidade militar, permite assistência humanitária controlada e emprega profissionais extraordinários sobretudo em funções médicas, logísticas e de busca.
 
 ---
 
@@ -151,7 +171,7 @@ Somente estes fatos estão canônicos:
 
 A sucessão ocorreu em **2008 ou 2009**, conforme a futura data exata de nascimento e a data de acesso ao trono.
 
-Permanecem não definidos: nome, aparência, Habilidade, personalidade, educação, opiniões políticas, predecessor, causa da sucessão, irmãos, casamento, religião pessoal, popularidade, estilo de governo e relação com a mãe regente.
+Permanecem não definidos: nome, aparência, Habilidade, personalidade, pais, irmãos, posição sucessória ao nascer, educação, opiniões políticas, predecessor, causa da sucessão, casamento, religião pessoal, popularidade, estilo de governo e relação com a mãe regente.
 
 Enquanto não houver retcon explícito, a dignidade constitucional permanece **Príncipe Soberano de Sintica**.
 
@@ -174,13 +194,15 @@ Decisões estruturais sobre território, história, regime, dinastia, populaçã
 - `canon/SINTICA_WWII_1940_1945.md`
 - `canon/SINTICA_EARLY_COLD_WAR_1946_1960.md`
 - `canon/SINTICA_COLD_WAR_1961_1980.md`
+- `canon/SINTICA_LATE_COLD_WAR_1981_2000.md`
 
 ---
 
 # 12. ELEMENTOS AINDA ABERTOS
 
-- cadeia completa de soberanos depois de 1980 até o príncipe nascido em 1996;
-- identidade do predecessor do soberano contemporâneo;
+- cadeia sucessória depois de Teodor II até a ascensão de 2008/09;
+- identidade do predecessor direto do soberano contemporâneo;
+- consorte e descendência detalhada de Teodor II;
 - demografia histórica detalhada;
 - línguas oficiais e níveis de cooficialidade;
 - assentamentos e formas multilíngues definitivas;
