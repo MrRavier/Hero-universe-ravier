@@ -4,7 +4,7 @@
 
 Este arquivo fixa a linhagem familiar e sucessória entre **Teodor II** e o soberano de Sintica no presente narrativo de 2014. Ele complementa `canon/SINTICA.md` e substitui notas anteriores que deixavam pais, irmãos, predecessor e causa da sucessão contemporânea em aberto.
 
-O autor continua reservando para decisão própria o **nome do soberano contemporâneo, aparência, Habilidade, personalidade, educação detalhada, opiniões políticas, vida amorosa e estilo pessoal de governo**.
+O autor continua reservando para decisão própria o **nome do soberano contemporâneo, aparência, personalidade, educação detalhada, opiniões políticas, vida amorosa e estilo pessoal de governo**. A existência de Habilidades já não está totalmente aberta; o conjunto confirmado é mantido em `canon/SINTICA_CONTEMPORARY_PRINCE_ABILITIES.md`.
 
 ---
 
@@ -55,7 +55,26 @@ Fatos familiares fixados:
 - permanece juridicamente soberano durante toda a Regência;
 - completa **18 anos em 4 de janeiro de 2014**, encerrando a Regência e assumindo pessoalmente as prerrogativas da Coroa.
 
-Seu **nome continua reservado ao autor**. Também permanecem reservados aparência, Habilidade ou ausência dela, personalidade, educação detalhada, opiniões políticas, popularidade, casamento, vida amorosa e estilo pessoal de governo.
+Seu **nome continua reservado ao autor**. Permanecem reservados aparência, personalidade, educação detalhada, opiniões políticas, popularidade, casamento, vida amorosa e estilo pessoal de governo.
+
+### Habilidades confirmadas
+
+O Príncipe contemporâneo já demonstrou um conjunto excepcional de Habilidades/manifestações confirmado em cânone:
+
+- **O Sangue Mais Forte**;
+- **Éter**;
+- **Oxigênio sólido**;
+- **Teleporte**;
+- **Transporte de mente**;
+- **Tinta preta**;
+- **Ossos duros**;
+- **Inteligência**.
+
+A lista é **não exaustiva**. O autor indicou que existem outras Habilidades demonstradas ainda não reenunciadas.
+
+`Transporte de mente` existe em cânone, mas o próprio Príncipe **não sabe** que a possui no ponto atual da história.
+
+Mecânicas, limites, alcance, custo, domínio e grau de publicidade permanecem abertos e são tratados em `canon/SINTICA_CONTEMPORARY_PRINCE_ABILITIES.md`.
 
 ## Princesa Maria Ilona Orbelos
 
@@ -141,7 +160,9 @@ Sofia e Nikola não formam uma co-regência e não possuem autoridade automátic
 
 A existência de Habilidades em membros anteriores da Casa não cria regra hereditária de poder nem direito sucessório.
 
-Este documento **não define** se Aleksandar II, Katalin, Maria Ilona ou o soberano contemporâneo possuem Habilidades. Isso permanece separado da genealogia e, para o soberano contemporâneo, reservado ao autor.
+O soberano contemporâneo é um caso excepcional de pluralidade de Habilidades/manifestações. Isso **não** transforma a Casa de Orbelos numa linhagem meta uniforme, não implica que seus parentes possuam o mesmo conjunto e não altera a ordem sucessória.
+
+Os casos históricos conhecidos permanecem individualizados: Teodor I sem Habilidade conhecida; Aleksandar I com `Holdfast`; Katerina com `Threadline`; Boris com `Latch`; Eleni com `Flame Snuff`.
 
 A sucessão depende de lei dinástica e Constituição, não de capacidade extraordinária.
 
@@ -149,14 +170,16 @@ A sucessão depende de lei dinástica e Constituição, não de capacidade extra
 
 # 9. CONTINUIDADE
 
-Qualquer arquivo anterior que diga que pais, irmãos, predecessor, data exata de nascimento ou causa da sucessão do soberano contemporâneo estão em aberto deve ser interpretado como **superado por este documento**.
+Qualquer arquivo anterior que diga que pais, irmãos, predecessor, data exata de nascimento, causa da sucessão ou a própria existência de Habilidades do soberano contemporâneo estão totalmente em aberto deve ser interpretado como **superado por este documento e por `canon/SINTICA_CONTEMPORARY_PRINCE_ABILITIES.md`**.
 
 Continuam deliberadamente abertos para o soberano contemporâneo:
 
 - nome;
 - aparência;
 - personalidade;
-- Habilidade;
+- mecânica completa e limites das Habilidades;
+- origem da pluralidade de Habilidades;
+- demais Habilidades demonstradas ainda não reenunciadas;
 - educação detalhada;
 - opiniões políticas;
 - vida amorosa e casamento;
