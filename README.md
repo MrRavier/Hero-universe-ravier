@@ -10,7 +10,8 @@ As fontes principais de verdade agora são:
 
 - `canon/ACTIVE_CANON.md` — estrutura geral do universo e de Northbound;
 - `canon/POWER_DESIGN_AND_ROGUES.md` — filosofia ativa de Habilidades e galeria canônica inicial de antagonistas;
-- `canon/HEROIC_AGE_HISTORY.md` — história canônica da longa era heroica e crescimento desde pelo menos o século XVIII.
+- `canon/HEROIC_AGE_HISTORY.md` — história canônica da longa era heroica e crescimento desde pelo menos o século XVIII;
+- `canon/SINTICA.md` — integração canônica do Principado de Sintica ao universo compartilhado, com sincronização obrigatória com `MrRavier/Pais-ficticio-ravier`.
 
 O universo foi simplificado para favorecer histórias episódicas com continuidade de personagens: vida cotidiana, formação profissional, resgate, crimes locais, incidentes estranhos, relações e problemas humanos afetados por Habilidades.
 
@@ -25,6 +26,7 @@ Historicamente, pessoas extraordinárias podem existir desde períodos muito ant
 - `canon/ACTIVE_CANON.md` — fonte principal de verdade após o reboot.
 - `canon/POWER_DESIGN_AND_ROGUES.md` — design canônico de poderes e rogues gallery inicial de 64 antagonistas/ameaças.
 - `canon/HEROIC_AGE_HISTORY.md` — crescimento histórico das pessoas extraordinárias e da tradição heroica desde pelo menos o século XVIII.
+- `canon/SINTICA.md` — Estado de Sintica, Casa de Orbelos, independência de 1919–1920 e integração do país à longa era heroica.
 - `canon/RETCONS.md` — histórico principal das alterações de continuidade.
 - `canon/RETCON_v1.1_POWER_REFORM.md` — addendum canônico do retcon v1.1.
 - `canon/RETCON_v1.2_HEROIC_AGE.md` — addendum canônico do retcon histórico v1.2.
@@ -44,6 +46,7 @@ Historicamente, pessoas extraordinárias podem existir desde períodos muito ant
 - Rogues gallery grande, variada e não centralizada.
 - Personagens acumulam consequências e desenvolvimento entre episódios.
 - A tradição heroica tem séculos de profundidade histórica, sem exigir uma genealogia secreta ou um único fundador.
+- Sintica existe como microestado balcânico soberano e sua história nacional é sincronizada com o repositório específico do país.
 - O mundo não precisa de uma “verdade final” que explique tudo.
 - O GitHub continua sendo a fonte oficial de verdade.
 
@@ -54,5 +57,6 @@ Em caso de contradição:
 1. `canon/ACTIVE_CANON.md` e documentos canônicos ativos explicitamente associados à versão corrente;
 2. `canon/POWER_DESIGN_AND_ROGUES.md` para Habilidades e antagonistas;
 3. `canon/HEROIC_AGE_HISTORY.md` para história heroica;
-4. `canon/RETCONS.md` e seus addenda para histórico;
-5. volumes antigos apenas como material de referência/legado.
+4. `canon/SINTICA.md` para Sintica dentro do universo compartilhado, sem contradizer o repositório nacional sincronizado;
+5. `canon/RETCONS.md` e seus addenda para histórico;
+6. volumes antigos apenas como material de referência/legado.
