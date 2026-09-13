@@ -1,8 +1,10 @@
-# THE EXTRAORDINARY WORLD — CÂNONE ATIVO v1.0
+# THE EXTRAORDINARY WORLD — CÂNONE ATIVO v1.1
 
 **Este arquivo é a fonte principal de verdade após o soft reboot episódico.**
 
 Tudo que existia nos volumes 01–27, na antiga Bíblia Mestre ou nos outlines de `planning/` é considerado **legado pré-reboot** e só volta a ser cânone quando for explicitamente reimportado aqui ou em um documento posterior marcado como cânone ativo.
+
+O documento `canon/POWER_DESIGN_AND_ROGUES.md` também integra o cânone ativo v1.1 e define a filosofia de Habilidades e a galeria canônica inicial de antagonistas.
 
 ---
 
@@ -28,6 +30,11 @@ A pergunta principal das histórias não é “qual é a verdade final do univer
 - Não existe cronologia oficial obrigatória de “primeiro Meta moderno”, “primeiro herói” ou “evento que mudou tudo”. Esses elementos podem ser definidos depois apenas se uma história realmente precisar deles.
 - Habilidades devem ser descritas de forma simples: **o que fazem, como são usadas e quais são seus limites**.
 - Treinamento melhora aplicação, controle, criatividade e resistência; não precisa produzir “formas superiores” ou transformações de poder a cada arco.
+- **Thomas Mercer é o principal modelo de design de Habilidade do universo:** ele cria machados físicos completos, e só machados. A especificidade é uma virtude de design, não uma limitação a ser apagada.
+- Thomas não evolui para espadas, arsenal geral ou criação livre de matéria.
+- Novas Habilidades devem preferir regras específicas, visualmente memoráveis e fáceis de explicar em uma frase.
+- Evitar “controle de energia”, “manipulação vetorial”, “alteração molecular” e descrições equivalentes quando uma regra concreta funcionar melhor.
+- As famílias descritivas **Ações, Condições, Morfologias e Estranhezas** podem ser usadas editorialmente, mas não são classes científicas universais nem implicam origem comum.
 
 ---
 
@@ -156,35 +163,26 @@ Northbound pode usar o Pacific Response como motor episódico: exercícios, est�
 Os seguintes personagens permanecem ativos, mas seus antigos arcos não são obrigatórios:
 
 ## Monica Lau
-
 Instrutora e profissional de resposta.
-
 Habilidade: **Loadshare** — ao conectar pontos de uma estrutura, pode redistribuir carga e esforço entre eles. Não cria suporte do nada.
-
 Monica não é uma mestra infalível. Pode tomar decisões razoáveis que depois precisam ser revistas.
 
 ## Callum Aitken
-
 Aluno da mesma geração de Thomas.
-
 Habilidade: **Afterforce** — um movimento físico deliberado pode produzir uma repetição retardada da força do movimento.
-
 É disciplinado, competitivo e competente. Funciona como rival e parceiro de Thomas, não como seguidor.
 
 ## Amanjot Singh
-
 Habilidade: **Backlash** — um golpe deliberado pode produzir um segundo impacto no lado oposto do alvo.
+Backlash permanece canônico nesta versão, mas pode receber revisão posterior de design sem afetar a existência do personagem.
 
 ## Andrea Jihye Kwon
-
 Habilidade: **Borrowed Pulse** — por contato contínuo, pode sincronizar e ajudar a estabilizar funções vitais de outra pessoa usando o próprio corpo como referência. Não fecha ferimentos.
 
 ## Adaobi “Ada” Okafor
-
 Possui uma morfologia anfíbia permanente adaptada a ar e água.
 
 ## Owen LeBlanc
-
 Habilidade: **Soft Spot** — torna temporariamente uma área de material sólido não vivo macia, deformável e elástica.
 
 Esses colegas devem ter personalidades, problemas e episódios próprios. Não existem apenas para preencher funções numa equipe.
@@ -194,37 +192,24 @@ Esses colegas devem ter personalidades, problemas e episódios próprios. Não e
 # 9. PERSONAGENS REUTILIZÁVEIS FORA DO NÚCLEO
 
 ## Adriano Ferri / Leone
-
 Permanece como um sacerdote católico e herói extraordinariamente poderoso conhecido publicamente como **Leone**.
-
 Habilidade: **Luce Viva** — seu corpo produz uma força luminosa própria que reforça força, velocidade, resistência, voo, regeneração, sentidos e projeção energética.
-
 É uma figura de escala rara e não deve aparecer para resolver casos cotidianos.
-
 Sua antiga cronologia detalhada, origem, posição exata em rankings e eventos como o Incidente do Tirreno deixam de ser obrigatórios até serem reintroduzidos.
 
 ## Adrien Verhaegen
-
 Permanece como investigador particular belga e assassino contratado clandestino.
-
 Habilidade: **Silence** — pode impedir produção e transmissão de som em si, pessoas, objetos ou pequenas áreas, dentro de limites de controle.
-
 Pode protagonizar histórias próprias de investigação criminal na Europa.
-
 A antiga Saga do Catálogo, sua ligação obrigatória com Thomas e a conspiração internacional deixam de ser cânone ativo.
 
 ## Tanya Hargreaves
-
 Permanece como ex-profissional canadense de resposta com **Stress Sense**, capaz de perceber e influenciar tensões em estruturas não vivas mediante contato.
-
 Seu passado exato, Cedar Narrows, amplificador e toda a antiga rede clandestina deixam de ser obrigatórios até eventual reintrodução.
 
 ## Trevor Kells
-
 Permanece disponível como criminoso recorrente ou episódico.
-
 Habilidade: **Shear** — enfraquece junções, fixações, dobradiças, soldas, parafusos e conexões estruturais mediante contato.
-
 O antigo incidente do Porto de Vancouver deixa de ser um acontecimento obrigatório.
 
 ---
@@ -232,7 +217,6 @@ O antigo incidente do Porto de Vancouver deixa de ser um acontecimento obrigató
 # 10. ELEMENTOS REMOVIDOS DO CÂNONE ATIVO
 
 Os seguintes elementos deixam de ser verdade vigente:
-
 - Saga obrigatória do Amplificador / Counterforce;
 - Saga obrigatória do Catálogo;
 - ANCHOR como grande sistema secreto do universo;
@@ -275,11 +259,8 @@ O universo não precisa ter:
 As histórias deixam marcas.
 
 Se Thomas erra num resgate, isso pode afetar como Monica confia nele depois.
-
 Se Evie recebe uma oportunidade acadêmica, isso continua existindo em episódios futuros.
-
 Se Callum briga com Thomas, eles não voltam ao estado inicial no capítulo seguinte.
-
 Se um criminoso é preso, ele não reaparece livre sem explicação.
 
 A série é episódica, **não resetada**.
@@ -310,3 +291,21 @@ Antes de conectar um novo caso a algo antigo, perguntar:
 Se a resposta for sim, não adicionar conspiração.
 
 Um bom episódio pode existir porque um problema estranho aconteceu numa terça-feira e alguém precisava resolvê-lo.
+
+---
+
+# 15. FILOSOFIA DE ROGUES GALLERY E REFERÊNCIA TONAL
+
+A galeria de vilões canônica inicial está registrada em `canon/POWER_DESIGN_AND_ROGUES.md`.
+
+Ela deve parecer uma cidade acumulando histórias, não um elenco reunido por uma organização central.
+
+A inspiração de tom combina, aproximadamente:
+- 35% humanidade cotidiana e conflitos pessoais associados a Marvel;
+- 25% integração social e tática de Habilidades associada a MHA;
+- 20% estranheza, monstros e premissas ousadas associadas a OPM;
+- 20% iconografia e rogues gallery associadas a DC.
+
+Essas referências são qualidades gerais. **Não autorizam copiar personagens, poderes, organizações ou tramas específicas.**
+
+Uma premissa pode ser absurda e ainda ser tratada com perigo, emoção ou drama reais.
