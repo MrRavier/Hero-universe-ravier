@@ -104,6 +104,8 @@ A reforma de **1964** estabelece sua forma moderna:
 
 Em **1993**, Sintica adota **primogenitura absoluta** para as gerações futuras da Casa de Orbelos. A sucessão moderna passa a seguir a ordem de nascimento independentemente do sexo, sem alteração retroativa de reinados anteriores.
 
+Entre **18 de setembro de 2008 e 4 de janeiro de 2014**, a mãe do soberano menor, Katalin Teleki, exerce a Regência. A Regência não suspende Parlamento, governo ou Judiciário e termina automaticamente aos 18 anos do soberano.
+
 Sintica permanece entre monarquia parlamentar clássica e monarquia de poder pessoal: o Príncipe possui poder real, mas juridicamente limitado.
 
 ---
@@ -132,17 +134,20 @@ Marcos institucionais principais:
 - **1969:** Código de Responsabilidade Extraordinária;
 - **1976–77:** regras de publicidade, patrocínio e comercialização de heróis;
 - **1984:** criação da **Diretoria de Proteção Extraordinária**, responsável por licenças, seguros, relatórios, equipamentos e coordenação institucional;
-- anos 1990: informatização gradual de licenças, reforço de privacidade e regras para missões humanitárias internacionais.
+- anos 1990: informatização gradual de licenças, reforço de privacidade e regras para missões humanitárias internacionais;
+- **2001:** emprego de heróis e socorristas em apoio civil durante a crise na Macedônia vizinha, sem participação autônoma no conflito;
+- **2004:** credenciais temporárias para profissionais extraordinários estrangeiros em emergências autorizadas;
+- **2012:** consolidação do **112** como despacho integrado e reforço jurídico da privacidade de dados relacionados a Habilidades.
 
 Sintica regula a **atividade profissional e o risco**, não a simples existência de uma Habilidade.
 
-O desenvolvimento de 1961–1980 está em `canon/SINTICA_COLD_WAR_1961_1980.md` e o período 1981–2000 em `canon/SINTICA_LATE_COLD_WAR_1981_2000.md`.
+O desenvolvimento de 1961–1980 está em `canon/SINTICA_COLD_WAR_1961_1980.md`, o período 1981–2000 em `canon/SINTICA_LATE_COLD_WAR_1981_2000.md` e 2001–2014 em `canon/SINTICA_2001_2014.md`.
 
 ---
 
 # 7. CORTE, GRAND HOTEL E VIDA SOCIAL
 
-O **Grand Hotel Sintica**, inaugurado em 1928, continua símbolo nacional ao longo do século XX.
+O **Grand Hotel Sintica**, inaugurado em 1928, continua símbolo nacional ao longo do século XX e início do XXI.
 
 Sua estética é estratificada: neo-barroco, ecletismo, Secession e Art Déco convivem depois com elevadores modernos, carpetes sintéticos, iluminação embutida, televisores e intervenções dos anos 1950–70.
 
@@ -150,11 +155,13 @@ No fim dos anos 1980 começa nova restauração patrimonial. Ao final dos anos 1
 
 A Casa de Orbelos mantém tradição de bailes, galas, recepções, concertos e beneficência. Heróis e socorristas podem participar, mas Habilidades não determinam precedência social.
 
-O desenvolvimento completo está em `canon/SINTICA_COURT_CULTURE.md`.
+Em **4 de janeiro de 2014**, a maioridade constitucional do soberano é marcada por sessão solene, cerimônias de Estado e uma **Gala da Maioridade** no Grand Hotel. Isso não constitui nova ascensão: ele reina desde 2008.
+
+O desenvolvimento completo da cultura de corte está em `canon/SINTICA_COURT_CULTURE.md`.
 
 ---
 
-# 8. NEUTRALIDADE, EUROPA E FIM DA IUGOSLÁVIA
+# 8. NEUTRALIDADE E INTEGRAÇÃO EUROPEIA
 
 Sintica preserva neutralidade militar durante e depois da Guerra Fria.
 
@@ -163,11 +170,13 @@ Sintica preserva neutralidade militar durante e depois da Guerra Fria.
 - na continuidade fictícia, assina o **Ato Final de Helsinki de 1975** como o 36º Estado participante;
 - em **1978**, ingressa no **Conselho da Europa**;
 - em **1990**, ingressa nas **Nações Unidas**;
-- em **1992**, reconhece a República da Macedônia pouco depois do primeiro reconhecimento oficial búlgaro, sem reivindicações territoriais e com reconhecimento recíproco de fronteiras.
+- em **1992**, reconhece a República da Macedônia sem reivindicações territoriais;
+- entre **2003 e 2014**, segue integração regulatória e econômica setorial com a Europa sem apresentar candidatura formal à União Europeia;
+- em **2007**, a entrada da Bulgária na UE deixa Grécia e Bulgária, dois dos três vizinhos sinticanos, dentro da União Europeia.
 
-Durante as guerras iugoslavas dos anos 1990, Sintica permanece fora do conflito. Sanções, contrabando, refugiados e colapso de rotas comerciais afetam o país, mas ele não se converte em centro militar ou diplomático decisivo.
+Sintica permanece fora da **UE e da OTAN em 2014**. A neutralidade militar não impede acordos civis, comércio, intercâmbio, cooperação de fronteira ou compatibilidade regulatória.
 
-No conflito do Kosovo em 1999, Sintica mantém neutralidade militar, permite assistência humanitária controlada e emprega profissionais extraordinários sobretudo em funções médicas, logísticas e de busca.
+A crise macedônia de 2001, a independência do Kosovo em 2008, o impasse da Macedônia na cúpula de Bucareste, a crise financeira mundial e a crise grega de 2010 afetam o principado sem destruir sua ordem constitucional.
 
 ---
 
@@ -187,6 +196,10 @@ Fatos canônicos:
 - em 4 de janeiro de 2014, ao completar 18 anos, assume pessoalmente as prerrogativas da Coroa;
 - em 2025 completa 29 anos;
 - Maria Ilona é herdeira presumptiva enquanto ele não tiver descendência própria.
+
+Depois de 4 de janeiro de 2014, Katalin permanece **Princesa Katalin de Sintica, mãe do soberano e antiga Princesa-Regente**, sem poder constitucional automático ou co-regência informal.
+
+No início da história de Thomas, o Príncipe possui 18 anos e está em seu primeiro ano de exercício pessoal da Coroa, embora o reinado tenha começado seis anos antes.
 
 Permanecem não definidos para o soberano: **nome, aparência, Habilidade, personalidade, educação detalhada, opiniões políticas, casamento ou vida amorosa, popularidade, relação emocional com a família e estilo de governo**.
 
@@ -212,15 +225,15 @@ Decisões estruturais sobre território, história, regime, dinastia, populaçã
 - `canon/SINTICA_EARLY_COLD_WAR_1946_1960.md`
 - `canon/SINTICA_COLD_WAR_1961_1980.md`
 - `canon/SINTICA_LATE_COLD_WAR_1981_2000.md`
+- `canon/SINTICA_2001_2014.md`
 
 ---
 
 # 12. ELEMENTOS AINDA ABERTOS
 
-- cronologia política detalhada de 2001–2014;
-- atuação específica da Regência de Katalin;
 - demografia histórica detalhada;
 - línguas oficiais e níveis de cooficialidade;
 - assentamentos e formas multilíngues definitivas;
 - desenho fino das instituições contemporâneas;
-- heróis históricos individuais ainda não definidos.
+- heróis históricos individuais ainda não definidos;
+- para o soberano contemporâneo: nome, aparência, Habilidade, personalidade, educação detalhada, opiniões políticas, popularidade, vida amorosa, relações emocionais e estilo pessoal de governo.
