@@ -51,13 +51,15 @@ Teodor foi educado como membro de uma elite balcânica internacionalizada do fin
 
 Ele não é apresentado como conquistador ou líder de uma revolta nacional de massas. Sua força política vem da antiguidade da Casa, de patrimônio e redes familiares, de relações com diferentes comunidades e de sua capacidade de negociar mudanças de soberania sem identificar a dinastia de forma irreversível com um único projeto nacional vizinho.
 
-A candidatura de Teodor em 1919 permite que Sintica possua uma dinastia regional própria em vez de receber um príncipe estrangeiro. A partir de 1920, ele reina como **Teodor I, Príncipe Soberano de Sintica**.
+Teodor é casado desde 1895 com **Maria Economou (1876–1952)**, de família aromana urbana e mercantil da região de Bitola. Seus quatro filhos vivos na fundação do Estado são **Aleksandar (1896)**, Príncipe Herdeiro; **Sofia (1898)**; **Nikola (1901)**; e **Katerina (1905)**.
 
-A posição jurídica exata dos Orbelos sob o Império Otomano, eventuais títulos nobiliárquicos estrangeiros anteriores a 1919, os pais de Teodor, sua consorte, descendência e duração de reinado ainda serão desenvolvidos com cuidado histórico posterior.
+Teodor não possui Habilidade conhecida. Aleksandar possui `Holdfast`; Katerina possui `Threadline`. O irmão de Teodor, Konstantin Orbelos, tem um filho, Boris, cuja Habilidade é `Latch`. A ancestral Eleni Orbelos (1775–1847) possuía `Flame Snuff`.
 
-Ao longo de muitas gerações, a Casa estabeleceu conexões matrimoniais, políticas e patrimoniais com diferentes populações ligadas à formação de Sintica, incluindo gregos, búlgaros, aromanos/romenos, otomanos/turcos, húngaros e austríacos/germanófonos.
+A presença dessas Habilidades não cria direito sucessório e não transforma a Casa numa linhagem meta. A dinastia inclui numerosos membros sem Habilidades e sua legitimidade é política, histórica e constitucional.
 
-No período moderno, a monarquia usa essa genealogia como parte de sua imagem de casa supracomunitária, mas a ancestralidade deve surgir organicamente da cronologia e não como distribuição artificial de etnias por geração.
+A árvore completa, incluindo ancestrais desde o século XVIII, ramos locais, constantinopolitano e muçulmano-otomano, está em `canon/SINTICA_HOUSE_OF_ORBELOS_1919.md`.
+
+Ao longo de muitas gerações, a Casa acumulou conexões locais/eslavas, gregas, aromanas, húngaras e austríacas/germanófonas. Um ramo cadete convertido ao Islã no início do século XIX preserva parentesco otomano/turco. A genealogia é irregular e histórica, não uma distribuição artificial de etnias por geração.
 
 ---
 
@@ -93,7 +95,7 @@ A existência de Sintica **não é causada por Habilidades extraordinárias**.
 
 A história política do país nasce de diplomacia, fronteiras, comunidade e dinastia. Pessoas extraordinárias existem dentro dessa história da mesma forma que existem no restante do universo.
 
-Como o cânone geral estabelece crescimento sustentado da população extraordinária e de figuras reconhecivelmente heroicas a partir do século XVIII, o território de Sintica pode possuir proto-heróis e figuras extraordinárias anteriores à independência, ainda sob administrações otomana ou búlgara.
+Como o cânone geral estabelece crescimento sustentado da população extraordinária e de figuras reconhecivelmente heroicas a partir do século XVIII, o território de Sintica possui exemplos familiares e comunitários anteriores à independência, mas nenhum deles é tratado como “fundador secreto” do Estado ou da sociedade heroica.
 
 Após 1920, o Principado gradualmente desenvolve sua própria tradição nacional de heroísmo, regulamentação e resposta extraordinária. A cronologia institucional específica, heróis históricos, uniformes, licenças e órgãos públicos ainda permanecem abertos.
 
@@ -116,12 +118,12 @@ O nível de detalhe pode variar, mas os dois cânones não devem se contradizer.
 
 # 8. ELEMENTOS AINDA ABERTOS
 
-- pais, consorte e descendência imediata de Teodor I;
 - patrocinadores internacionais da independência;
 - texto e data detalhada da primeira constituição;
 - desenho exato das instituições modernas e poderes atuais da Coroa;
+- duração do reinado, morte e sucessão de Teodor I;
 - demografia histórica;
 - línguas oficiais e níveis de cooficialidade;
 - assentamentos e formas multilíngues definitivas;
-- heróis históricos de Sintica;
+- heróis históricos de Sintica além dos casos familiares já fixados;
 - órgão moderno de licenciamento e resposta extraordinária.
