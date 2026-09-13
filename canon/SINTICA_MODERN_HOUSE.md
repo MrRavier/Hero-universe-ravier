@@ -4,7 +4,7 @@
 
 Este arquivo fixa a linhagem familiar e sucessória entre **Teodor II** e o soberano de Sintica no presente narrativo de 2014. Ele complementa `canon/SINTICA.md` e substitui notas anteriores que deixavam pais, irmãos, predecessor e causa da sucessão contemporânea em aberto.
 
-O autor continua reservando para decisão própria o **nome do soberano contemporâneo, aparência, personalidade, educação detalhada, opiniões políticas, vida amorosa e estilo pessoal de governo**. A existência de Habilidades já não está totalmente aberta; o conjunto confirmado é mantido em `canon/SINTICA_CONTEMPORARY_PRINCE_ABILITIES.md`.
+O autor continua reservando para decisão própria o **nome do soberano contemporâneo, personalidade, educação detalhada, opiniões políticas, vida amorosa e estilo pessoal de governo**. A aparência e as Habilidades já possuem elementos canônicos próprios em arquivos específicos.
 
 ---
 
@@ -20,7 +20,10 @@ Filhos:
 - **Sofia Orbelos (1960– )**;
 - **Nikola Orbelos (1964– )**.
 
-Nenhuma Habilidade é fixada neste documento para Teodor II, Ana, Sofia ou Nikola.
+- **Sofia Orbelos** possui a Habilidade informalmente chamada `Beleza`, que regula múltiplos processos biológicos associados à preservação da aparência, fazendo-a aparentar muito menos idade do que possui. Ela participa de pesquisa e desenvolvimento de uma linha privada de cosméticos e cuidados de pele baseada no estudo desses mecanismos. Ver `canon/SINTICA_SOFIA_ORBELOS.md`.
+- **Nikola Orbelos** possui um olho extraordinário completamente negro capaz de emitir uma haste de energia negra puramente concussiva, silenciosa e sem cheiro ou aura. Ver `canon/SINTICA_NIKOLA_ORBELOS.md`.
+
+Nenhuma Habilidade está canonizada para Teodor II ou Ana Rosetti.
 
 ---
 
@@ -55,7 +58,7 @@ Fatos familiares fixados:
 - permanece juridicamente soberano durante toda a Regência;
 - completa **18 anos em 4 de janeiro de 2014**, encerrando a Regência e assumindo pessoalmente as prerrogativas da Coroa.
 
-Seu **nome continua reservado ao autor**. Permanecem reservados aparência, personalidade, educação detalhada, opiniões políticas, popularidade, casamento, vida amorosa e estilo pessoal de governo.
+Seu **nome continua reservado ao autor**.
 
 ### Habilidades confirmadas
 
@@ -86,8 +89,6 @@ Irmã mais nova do soberano.
 - nenhuma Habilidade está fixada neste documento.
 
 Depois da subida do irmão ao trono em 2008, Maria Ilona torna-se a primeira pessoa na linha de sucessão enquanto ele não tiver descendência própria.
-
-A relação emocional e narrativa entre os irmãos permanece aberta.
 
 ---
 
@@ -132,8 +133,8 @@ Quando o soberano começa a exercer pessoalmente a Coroa, a família imediata in
 - **Príncipe Soberano contemporâneo**, 18 anos;
 - **Katalin Teleki**, mãe e ex-Princesa-Regente, 45 anos;
 - **Princesa Maria Ilona Orbelos**, irmã e herdeira presumptiva, 14 anos;
-- **Princesa Sofia Orbelos**, tia paterna;
-- **Príncipe Nikola Orbelos**, tio paterno.
+- **Princesa Sofia Orbelos**, tia paterna, 53–54 anos, com aparência muito mais jovem por efeito de sua Habilidade;
+- **Príncipe Nikola Orbelos**, tio paterno, 49–50 anos.
 
 A avó paterna **Ana Rosetti** morreu em 2011. O avô paterno **Teodor II** morreu em 2002.
 
@@ -158,11 +159,9 @@ Sofia e Nikola não formam uma co-regência e não possuem autoridade automátic
 
 # 8. HABILIDADES E A DINASTIA
 
-A existência de Habilidades em membros anteriores da Casa não cria regra hereditária de poder nem direito sucessório.
+A existência de Habilidades em membros da Casa não cria direito sucessório extraordinário.
 
-O soberano contemporâneo é um caso excepcional de pluralidade de Habilidades/manifestações. Isso **não** transforma a Casa de Orbelos numa linhagem meta uniforme, não implica que seus parentes possuam o mesmo conjunto e não altera a ordem sucessória.
-
-Os casos históricos conhecidos permanecem individualizados: Teodor I sem Habilidade conhecida; Aleksandar I com `Holdfast`; Katerina com `Threadline`; Boris com `Latch`; Eleni com `Flame Snuff`.
+O soberano contemporâneo é um caso excepcional de convergência de múltiplas Habilidades ancestrais. Sofia e Nikola possuem capacidades próprias distintas. Isso não implica que todos os Orbelos tenham Habilidades ativas nem altera a sucessão constitucional.
 
 A sucessão depende de lei dinástica e Constituição, não de capacidade extraordinária.
 
@@ -170,15 +169,13 @@ A sucessão depende de lei dinástica e Constituição, não de capacidade extra
 
 # 9. CONTINUIDADE
 
-Qualquer arquivo anterior que diga que pais, irmãos, predecessor, data exata de nascimento, causa da sucessão ou a própria existência de Habilidades do soberano contemporâneo estão totalmente em aberto deve ser interpretado como **superado por este documento e por `canon/SINTICA_CONTEMPORARY_PRINCE_ABILITIES.md`**.
+Qualquer arquivo anterior que diga que Sofia ou Nikola não possuem Habilidade canonizada deve ser interpretado como **superado** pelos arquivos `canon/SINTICA_SOFIA_ORBELOS.md` e `canon/SINTICA_NIKOLA_ORBELOS.md`.
 
 Continuam deliberadamente abertos para o soberano contemporâneo:
 
 - nome;
-- aparência;
 - personalidade;
 - mecânica completa e limites das Habilidades;
-- origem da pluralidade de Habilidades;
 - demais Habilidades demonstradas ainda não reenunciadas;
 - educação detalhada;
 - opiniões políticas;
