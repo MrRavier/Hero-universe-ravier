@@ -65,6 +65,19 @@ Referência visual oficial:
 - tapa-olho sobre o olho extraordinário completamente negro;
 - preferência por ternos escuros clássicos em retratos formais.
 
+## Princesa Sofia Orbelos
+
+Referência visual oficial:
+
+- nascida em 1960;
+- 53–54 anos em 2014;
+- cabelo loiro claro, longo e ondulado;
+- olhos claros;
+- feições refinadas, harmoniosas e extremamente preservadas;
+- aparência muito mais jovem do que a idade cronológica.
+
+Essa juventude aparente é **efeito direto da Habilidade de Sofia**, que regula vários processos biológicos relacionados à pele, cabelos e tecidos. Portanto, a referência visual deve ser tratada como aparência correta de Sofia em 2014, e não como retrato dela em idade menor.
+
 ## Continuidade visual
 
-As referências fixam rosto, aparência geral e estilo, mas não obrigam futuros retratos a repetir exatamente roupas, penteados, idade aparente ou expressão. Representações em outros anos devem envelhecer ou rejuvenescer os mesmos rostos de modo coerente.
+As referências fixam rosto, aparência geral e estilo, mas não obrigam futuros retratos a repetir exatamente roupas, penteados, idade aparente ou expressão. Representações em outros anos devem envelhecer ou rejuvenescer os mesmos rostos de modo coerente, respeitando no caso de Sofia seu envelhecimento visual anormalmente lento.
