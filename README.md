@@ -4,53 +4,39 @@ Repositório canônico do universo de super-heróis em desenvolvimento.
 
 ## Estado atual
 
-**Cânone Base v0.30 - Regras 1-776**
+**Cânone Ativo v1.0 — Soft Reboot Episódico**
 
-A fundação foi definida antes da criação de personagens e eventos específicos. O cenário combina sociedade heroica institucionalizada, poderes de múltiplas origens, história real reconhecível, magia, alienígenas e uma escala sem teto conhecido, mantendo uma única continuidade.
+A fonte principal de verdade agora é `canon/ACTIVE_CANON.md`.
+
+O universo foi simplificado para favorecer histórias episódicas com continuidade de personagens: vida cotidiana, formação profissional, resgate, crimes locais, incidentes estranhos, relações e problemas humanos afetados por Habilidades.
+
+Não existe mais obrigação de uma conspiração central, Matriz, ANCHOR, Catálogo, Amplificador ou cronologia rígida de sagas.
 
 ## Organização
 
-- `canon/volumes/volume-01.md` - fundação, história e metafísica.
-- `canon/volumes/volume-02.md` - sociedade heroica, direito e século XX.
-- `canon/volumes/volume-03.md` - sociedade moderna, ciência, economia e cultura.
-- `canon/volumes/volume-04.md` - origens, magia e ontologia.
-- `canon/volumes/volume-05.md` - personagens, equipes, narrativa e cânone.
-- `canon/volumes/volume-06.md` - identidade, retorno moderno e presente de 2014.
-- `canon/volumes/volume-07.md` - primeiros personagens canônicos.
-- `canon/volumes/volume-08.md` - núcleo canadense inicial, Thomas Mercer e Evelyn Winsor.
-- `canon/volumes/volume-09.md` - formação heroica canadense, colegas, mentoria e primeiro antagonista.
-- `canon/volumes/volume-10.md` - abertura da primeira obra, rotina Thomas-Evelyn e primeiro incidente ligado a Trevor Kells.
-- `canon/volumes/volume-11.md` - Northbound: identidade da primeira série, amplificador, rede clandestina e antagonista principal da primeira saga.
-- `canon/volumes/volume-12.md` - Northbound: clímax da primeira saga, Counterforce, papel de Evelyn e primeira aparição física de Leone.
-- `canon/volumes/volume-13.md` - Northbound: pós-Saga 1, consequências institucionais e primeira introdução de Adrien Verhaegen.
-- `canon/volumes/volume-14.md` - Adrien Verhaegen: origem, profissão, código moral, Habilidade Silence e ligação inicial com Vancouver.
-- `canon/volumes/volume-15.md` - Northbound: Saga do Catálogo, investigação de dados extraordinários e primeiro conflito direto com Adrien.
-- `canon/volumes/volume-16.md` - Adrien Verhaegen: biografia, manifestação de Silence, carreira investigativa e queda moral.
-- `canon/volumes/volume-17.md` - Adrien Verhaegen: vida cotidiana e reputação; primeiros grandes profissionais canadenses.
-- `canon/volumes/volume-18.md` - Tanya Hargreaves: Stress Sense, Cedar Narrows e definição parcial de ANCHOR.
-- `canon/volumes/volume-19.md` - ANCHOR: origem histórica, programa internacional dos anos 1980 e fragmentação do catálogo.
-- `canon/volumes/volume-20.md` - Alert-81: Material A-81, interferência extraordinária e primeiro ANCHOR confirmado em campo.
-- `canon/volumes/volume-21.md` - Rajasthan-50: R-50, interferência comparada e convergência entre pessoas e condições de interação.
-- `canon/volumes/volume-22.md` - Ladislav Vacek: primeiro ANCHOR vivo acompanhado em 2014, Hold Steady e confirmação de campo.
-- `canon/volumes/volume-23.md` - Ladislav Vacek: tentativa de captura, direitos civis e revelação de Interaction Medium.
-- `canon/volumes/volume-24.md` - Adriana Cabral: Readout, função Interface e leitura funcional da matriz extraordinária.
-- `canon/volumes/volume-25.md` - Mai Arakawa: Kickstart, função Catalyst e terceiro Interaction Medium confirmado.
-- `canon/volumes/volume-26.md` - Thandeka Mthembu: Holdline, função Containment e risco de propagação por acoplamento.
-- `canon/volumes/volume-27.md` - Northbound: retorno ao núcleo narrativo, consequências do vazamento e Matriz mantida como mistério de fundo.
-- `canon/BIBLIA_MESTRE.md` - consolidação automática dos volumes canônicos.
-- `canon/pdfs/` - PDFs canônicos gerados automaticamente.
-- `canon/RETCONS.md` - histórico de alterações de continuidade.
-- `planning/NORTHBOUND_MASTER_OUTLINE.md` - outline mestre da narrativa: passado, ponto atual, futuro planejado e questões em aberto; não substitui o cânone.
+- `canon/ACTIVE_CANON.md` — **fonte principal de verdade após o reboot**.
+- `canon/RETCONS.md` — histórico das alterações de continuidade.
+- `canon/volumes/volume-01.md` a `volume-27.md` — **legado pré-reboot**; só continuam válidos quando um elemento é explicitamente reimportado pelo cânone ativo.
+- `canon/BIBLIA_MESTRE.md` — consolidação histórica do cânone antigo; não substitui `ACTIVE_CANON.md` após v1.0.
+- `canon/pdfs/` — PDFs do material canônico/histórico existente.
+- `planning/` — documentos de planejamento; outlines anteriores ao reboot são legado e não determinam a nova narrativa.
 
-## Política de continuidade
+## Direção atual
 
 - Uma continuidade principal.
-- Sem multiverso.
-- Sem viagem no tempo.
-- Retcons são permitidos quando corrigem contradições ou melhoram o cânone e devem ser registrados.
-- O GitHub é a fonte oficial de verdade a partir da versão v0.1.
-- Arquivos em `planning/` são documentos de planejamento e podem conter direções futuras ainda não canonizadas.
+- Sem multiverso como ferramenta rotineira.
+- Sem viagem no tempo como eixo narrativo.
+- Habilidades simples, claras e táticas.
+- Histórias podem ser autônomas sem plantar obrigatoriamente uma grande pista.
+- Personagens acumulam consequências e desenvolvimento entre episódios.
+- O mundo não precisa de uma “verdade final” que explique tudo.
+- O GitHub continua sendo a fonte oficial de verdade.
 
-## PDFs
+## Regra de prioridade
 
-Os PDFs são recompilados automaticamente a partir dos arquivos de cânone sempre que os volumes são alterados.
+Em caso de contradição:
+
+1. `canon/ACTIVE_CANON.md`;
+2. documentos canônicos posteriores explicitamente marcados como ativos;
+3. `canon/RETCONS.md` para histórico;
+4. volumes antigos apenas como material de referência/legado.
