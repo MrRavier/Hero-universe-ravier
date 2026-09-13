@@ -6,20 +6,41 @@ Este arquivo registra a estrutura familiar da Casa de Orbelos no momento da cria
 
 ## 1. Princípio
 
-A Casa de Orbelos é uma antiga casa aristocrática territorial que antecede Sintica moderna. Ela não representa uma única etnia e não é uma linhagem extraordinária escolhida.
+A Casa de Orbelos é uma antiga casa aristocrática territorial que antecede Sintica moderna. Ela não representa uma única etnia e não é uma linhagem extraordinária escolhida para governar.
 
 Sua genealogia acumulou, ao longo dos séculos, vínculos locais/eslavos, gregos, aromanos, húngaros e germanófonos. Um ramo cadete convertido ao Islã no início do século XIX cria também um parentesco otomano/turco duradouro.
 
-A família atravessa o mundo das Habilidades como qualquer outra família antiga: alguns membros manifestam Habilidades e muitos não.
+A família possui, porém, uma **herança extraordinária acumulativa real**, originada na Habilidade `O Sangue Mais Forte`. Isso não significa que todos os Orbelos tenham poderes ou manifestem o mesmo conjunto: Habilidades podem ficar dormentes durante gerações.
+
+O arquivo detalhado dessa herança é `canon/SINTICA_ORBELOS_ANCESTRAL_ABILITIES.md`.
 
 ---
 
-## 2. Linha ancestral principal
+## 2. Ancestrais extraordinários anteriores à documentação contínua
+
+A tradição e a reconstrução historiográfica sinticanas reconhecem os seguintes portadores ancestrais:
+
+- **Mihail “de Orbelos” (c. 1170–1238)** — `O Sangue Mais Forte`, origem do mecanismo hereditário acumulativo;
+- **Theodoros Orbelos (c. 1262–1331)** — `Éter`, lembrado como grande mago/feiticeiro;
+- **Stefan Orbelos (c. 1341–1408)** — `Transporte de Mente`;
+- **Andronikos Orbelos (1476–1544)** — `Tinta Preta`;
+- **Nikola Orbelos (1609–1677)** — Teleporte por memória e representação visual;
+- **Petar Orbelos (1698–1761)** — Oxigênio sólido.
+
+A cadeia documental entre essas gerações é incompleta. **Petar Orbelos (1698–1761)** é o pai de Petros Orbelos (1744–1809), criando a ponte imediata para a genealogia segura.
+
+---
+
+## 3. Linha ancestral principal documentada
 
 ### Petros Orbelos (1744–1809)
 Primeiro chefe da Casa com documentação genealógica contínua considerada segura pelos arquivos sinticanos. Cristão ortodoxo, proprietário rural e intermediário econômico dentro do espaço otomano.
 
+Filho de **Petar Orbelos (1698–1761)**.
+
 Casou-se com **Despina Žguma (1753–1820)**, de família aromana mercantil.
+
+**Habilidade — Inteligência Superior:** memória de trabalho excepcional, aprendizado acelerado, reconhecimento de padrões, cálculo mental, raciocínio rápido, facilidade linguística e capacidade de acompanhar muitas variáveis simultaneamente. Não concede conhecimento automático nem infalibilidade.
 
 Filhos principais:
 - Nikola Orbelos (1772–1834), linha principal;
@@ -29,6 +50,10 @@ Filhos principais:
 **Eleni — Habilidade `Flame Snuff`:** podia extinguir uma única chama aberta que estivesse vendo, a curta distância, mediante um gesto deliberado de fechar a mão. Foi lembrada por uso civil em incêndios e não como heroína profissional.
 
 ### Nikola Orbelos (1772–1834)
+Filho mais velho de Petros.
+
+**Habilidade — Ossos Duros:** esqueleto extraordinariamente duro, resistente e forte. Fraturas exigiam forças muito maiores que o normal, mas pele, músculos, ligamentos, articulações e cérebro continuavam vulneráveis a lesões. O esqueleto era também um pouco mais denso e pesado que o humano comum.
+
 Casou-se com **Ana, filha de Todor Petrov (1778–1846)**, de família ortodoxa local eslavófona/búlgara.
 
 Filhos:
@@ -60,7 +85,7 @@ Teodor tornou-se chefe da Casa em 1906.
 
 ---
 
-## 3. Família soberana em 1919
+## 4. Família soberana em 1919
 
 ### Teodor I Orbelos (1871– )
 Primeiro Príncipe Soberano de Sintica.
@@ -70,7 +95,9 @@ Primeiro Príncipe Soberano de Sintica.
 - formado em direito e administração em Viena;
 - **não possui Habilidade conhecida**.
 
-A ausência de Habilidade é politicamente importante: a legitimidade da Coroa não deriva de poder extraordinário, hereditariedade meta ou culto de sangue.
+A ausência de manifestação visível é compatível com o mecanismo hereditário da Casa: capacidades podem permanecer dormentes e ser retransmitidas.
+
+A legitimidade política da Coroa, porém, não deriva dessa herança.
 
 ### Maria Economou (1876–1952)
 Esposa de Teodor desde 1895 e primeira Princesa Consorte. Pertence a uma família aromana urbana e mercantil da região de Bitola, com uso histórico de formas gregas em documentação comercial e eclesiástica.
@@ -95,7 +122,7 @@ A Habilidade é útil para resgate, estabilização e defesa, mas não concede d
 
 ---
 
-## 4. Irmãos e sobrinhos do soberano
+## 5. Irmãos e sobrinhos do soberano
 
 ### Konstantin Orbelos (1873–1938)
 Irmão mais novo de Teodor, administrador de propriedades e negociador conservador da Casa.
@@ -130,7 +157,7 @@ Irmão mais novo de Teodor, morto de tifo em 1915 durante atividade privada de a
 
 ---
 
-## 5. Ramos cadetes vivos em 1919
+## 6. Ramos cadetes vivos em 1919
 
 ### Ramo local de Petar Orbelos
 Descende de Petar Orbelos (1804–1870).
@@ -176,11 +203,21 @@ O ramo é reconhecido como parentesco histórico da Casa, mas não recebe automa
 
 ---
 
-## 6. Regra extraordinária da dinastia
+## 7. Regra extraordinária da dinastia
 
-A Casa de Orbelos **não possui uma Habilidade dinástica comum** e não existe evidência de transmissão hereditária simples.
+A Casa de Orbelos possui uma **herança extraordinária acumulativa**, mas não uma Habilidade uniforme obrigatória.
 
-Casos canônicos conhecidos antes ou em 1919:
+`O Sangue Mais Forte` permite transmissão e acumulação de Habilidades ao longo da linhagem, inclusive através de períodos de dormência. A manifestação não segue uma regra mendeliana simples e um indivíduo pode carregar capacidades sem ativá-las visivelmente.
+
+Casos ancestrais confirmados:
+- Mihail “de Orbelos” — `O Sangue Mais Forte`;
+- Theodoros Orbelos — `Éter`;
+- Stefan Orbelos — `Transporte de Mente`;
+- Andronikos Orbelos — `Tinta Preta`;
+- Nikola Orbelos (1609–1677) — Teleporte;
+- Petar Orbelos (1698–1761) — Oxigênio sólido;
+- Petros Orbelos — Inteligência superior;
+- Nikola Orbelos (1772–1834) — Ossos duros;
 - Eleni Orbelos — `Flame Snuff`;
 - Aleksandar Orbelos — `Holdfast`;
 - Boris Orbelos — `Latch`;
@@ -188,11 +225,11 @@ Casos canônicos conhecidos antes ou em 1919:
 
 Teodor I, Maria, Sofia e Nikola não possuem Habilidades conhecidas em 1919.
 
-A presença de Habilidades dentro da Casa não é causa da independência de Sintica, não cria direito divino e não transforma os Orbelos numa família heroica central do mundo. É simplesmente uma expressão local da longa Era Heroica já estabelecida no cânone.
+A presença dessa herança não é causa da independência de Sintica, não cria direito divino, não concede direito sucessório e não transforma a Casa numa instituição heroica.
 
 ---
 
-## 7. Retrato político de novembro de 1919
+## 8. Retrato político de novembro de 1919
 
 Quando Sintica é reconhecida, a Casa de Orbelos já é uma rede extensa:
 - uma linha principal com soberano, consorte e quatro filhos;
@@ -200,6 +237,7 @@ Quando Sintica é reconhecida, a Casa de Orbelos já é uma rede extensa:
 - duas irmãs casadas em ambientes grego e romeno;
 - dois ramos agnáticos cristãos ativos;
 - um ramo muçulmano-otomano de parentesco antigo;
-- membros com e sem Habilidades.
+- membros com e sem Habilidades;
+- uma herança extraordinária antiga que pode permanecer dormente sem interferir na ordem constitucional.
 
-O novo Estado transforma uma casa aristocrática regional em dinastia soberana. Não cria a família do nada e não transforma toda a sua genealogia numa narrativa de super-heróis.
+O novo Estado transforma uma casa aristocrática regional em dinastia soberana. Não cria a família do nada e não transforma sua genealogia em justificativa sobrenatural para governar.
