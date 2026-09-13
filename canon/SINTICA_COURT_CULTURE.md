@@ -2,7 +2,7 @@
 
 **Documento de cânone ativo.**
 
-Este arquivo complementa `canon/SINTICA.md` e registra a cultura cortesã da Casa de Orbelos, a tradição de grandes festas do século XX e apenas os fatos mínimos já decididos sobre o soberano de 2025. A versão histórica mais detalhada permanece no repositório `MrRavier/Pais-ficticio-ravier`.
+Este arquivo complementa `canon/SINTICA.md` e registra a cultura cortesã da Casa de Orbelos, a tradição de grandes festas do século XX e apenas os fatos mínimos já decididos sobre o soberano contemporâneo. A versão histórica mais detalhada permanece no repositório `MrRavier/Pais-ficticio-ravier`.
 
 ---
 
@@ -129,7 +129,7 @@ Esse contraste é parte da identidade visual do principado.
 Período de formação e primeiro esplendor da corte independente. O Palácio e o Grand Hotel tornam-se vitrines diplomáticas e sociais.
 
 ## Guerras e emergências
-Grandes festividades podem ser reduzidas ou suspensas por guerra, luto, crise econômica ou segurança. A cronologia exata da Segunda Guerra Mundial ainda será desenvolvida separadamente.
+Grandes festividades podem ser reduzidas ou suspensas por guerra, luto, crise econômica ou segurança.
 
 ## Pós-guerra e segunda metade do século XX
 A corte retoma progressivamente recepções, agora com peso crescente de diplomacia, beneficência, cultura e eventos públicos. Certos bailes desaparecem e depois são restaurados. Rádio e televisão passam a cobrir alguns eventos selecionados.
@@ -141,21 +141,22 @@ A estética histórica da monarquia também se torna ativo turístico, mas a Cas
 
 ---
 
-# 8. SOBERANO DE 2025 — SOMENTE FATOS FIXOS
+# 8. SOBERANO CONTEMPORÂNEO — SOMENTE FATOS FIXOS
 
-O soberano que reina em **2025** será definido pessoalmente pelo autor.
+O soberano que ocupa o trono no **presente narrativo de 2014** e continua reinando em 2025 será definido pessoalmente pelo autor.
 
 Fatos canônicos já fixados:
 
-- nasceu em **2001**;
+- nasceu em **1996**;
 - sucedeu ao trono aos **12 anos**;
 - sua mãe exerceu a **Regência** durante sua menoridade;
 - a maioridade constitucional para exercício pessoal pleno da Coroa ocorre aos **18 anos**;
-- em 2025 o soberano tem **24 anos**;
+- em **2014 completa 18 anos**, encerrando a regência ordinária e assumindo pessoalmente as prerrogativas da Coroa;
+- em **2025 completa 29 anos**;
 - pertence à Casa de Orbelos;
 - reina dentro da continuidade da monarquia semi-constitucional de Sintica.
 
-Como a data exata de nascimento não foi definida, a sucessão ocorreu em **2013 ou 2014**, dependendo da data futura escolhida para aniversário e acesso ao trono.
+Como a data exata de nascimento não foi definida, a sucessão ocorreu em **2008 ou 2009**, dependendo da data futura escolhida para aniversário e acesso ao trono.
 
 Ainda NÃO estão definidos:
 
@@ -182,12 +183,12 @@ Enquanto não houver retcon explícito, o título constitucional da chefia de Es
 
 Quando o soberano menor sucede ao trono, o reinado começa imediatamente, mas o exercício das prerrogativas é temporariamente delegado nos termos da lei dinástica.
 
-No caso do soberano nascido em 2001:
+No caso do soberano nascido em 1996:
 
 - a mãe torna-se **Princesa-Regente**;
 - exerce as funções constitucionais da Coroa até a maioridade do filho;
 - não se torna soberana reinante em seu próprio direito;
 - a contagem do reinado do filho começa aos 12 anos;
-- o exercício pessoal pleno da Coroa começa aos 18.
+- o exercício pessoal pleno da Coroa começa aos 18 anos, em 2014.
 
 Nome, origem, personalidade e atuação política da mãe regente permanecem reservados para definição posterior.
