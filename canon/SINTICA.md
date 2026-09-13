@@ -10,10 +10,13 @@ Este arquivo integra o **Principado de Sintica** ao universo compartilhado de *T
 
 - **Nome curto:** Sintica.
 - **Nome oficial moderno:** Principado de Sintica.
-- **Forma de Estado:** monarquia constitucional parlamentar hereditária.
+- **Forma de Estado:** principado soberano hereditário de **monarquia semi-constitucional, com governo parlamentar**.
 - **Dinastia reinante:** Casa de Orbelos.
+- **Primeiro soberano moderno:** **Teodor I Orbelos**.
 - **Território:** equivalente, em geometria moderna, ao atual Município de Novo Selo, na Macedônia do Norte.
 - Sintica é um país fictício soberano deste universo; a área física é a referência cartográfica, mas a história interna, os assentamentos, a identidade nacional e as instituições são próprias.
+
+A Coroa sinticana não é apenas cerimonial. O governo cotidiano é parlamentar, mas o Príncipe conserva poderes constitucionais próprios. A monarquia de 1920 é mais tradicional e mais diretamente governante do que a forma moderna.
 
 ---
 
@@ -31,18 +34,26 @@ Na história real, o Tratado de Neuilly-sur-Seine, assinado em **27 de novembro 
 
 Na continuidade de *The Extraordinary World*, o acordo de paz contém uma solução diferente para esse pequeno setor: o território correspondente a Sintica é separado tanto da Bulgária quanto do Reino dos Sérvios, Croatas e Eslovenos e reconhecido como um principado soberano sob a Casa de Orbelos.
 
-- **27 de novembro de 1919:** reconhecimento internacional e fundação política do Principado de Sintica.
-- **9 de agosto de 1920:** entrada em vigor do arranjo internacional, início da soberania jurídica plena e da ordem constitucional independente.
+- **27 de novembro de 1919:** reconhecimento internacional e fundação política do Principado de Sintica; Teodor Orbelos é reconhecido como primeiro Príncipe Soberano.
+- **9 de agosto de 1920:** entrada em vigor do arranjo internacional, início da soberania jurídica plena e da ordem constitucional independente; começa o exercício soberano pleno de **Teodor I**.
 
 A independência sinticana constitui uma alteração localizada do assentamento territorial de Neuilly; não implica que toda a história das Guerras Balcânicas, da Primeira Guerra Mundial ou da formação da Iugoslávia tenha ocorrido de maneira diferente.
 
 ---
 
-# 3. CASA DE ORBELOS
+# 3. TEODOR I E A CASA DE ORBELOS
 
 A **Casa de Orbelos** é uma antiga família aristocrática regional cuja existência precede o Estado moderno.
 
-A família não precisa ter governado um Estado soberano antes de 1919. Sua posição exata sob o Império Otomano e durante a administração búlgara ainda será desenvolvida, incluindo títulos, terras, privilégios, relações com autoridades locais e possíveis ramos cadetes.
+O chefe da Casa na fundação de Sintica é **Teodor Orbelos**, nascido em **1871** numa residência familiar situada no território que posteriormente formaria o principado. É cristão ortodoxo e tinha 48 anos no reconhecimento de 1919.
+
+Teodor foi educado como membro de uma elite balcânica internacionalizada do final do século XIX, com formação doméstica e religiosa, estudos secundários fora do pequeno território natal e estudos superiores de direito e administração em Viena.
+
+Ele não é apresentado como conquistador ou líder de uma revolta nacional de massas. Sua força política vem da antiguidade da Casa, de patrimônio e redes familiares, de relações com diferentes comunidades e de sua capacidade de negociar mudanças de soberania sem identificar a dinastia de forma irreversível com um único projeto nacional vizinho.
+
+A candidatura de Teodor em 1919 permite que Sintica possua uma dinastia regional própria em vez de receber um príncipe estrangeiro. A partir de 1920, ele reina como **Teodor I, Príncipe Soberano de Sintica**.
+
+A posição jurídica exata dos Orbelos sob o Império Otomano, eventuais títulos nobiliárquicos estrangeiros anteriores a 1919, os pais de Teodor, sua consorte, descendência e duração de reinado ainda serão desenvolvidos com cuidado histórico posterior.
 
 Ao longo de muitas gerações, a Casa estabeleceu conexões matrimoniais, políticas e patrimoniais com diferentes populações ligadas à formação de Sintica, incluindo gregos, búlgaros, aromanos/romenos, otomanos/turcos, húngaros e austríacos/germanófonos.
 
@@ -50,7 +61,23 @@ No período moderno, a monarquia usa essa genealogia como parte de sua imagem de
 
 ---
 
-# 4. IDENTIDADE MULTILÍNGUE
+# 4. ORDEM CONSTITUCIONAL
+
+Sintica nasce em 1920 como **monarquia hereditária semi-constitucional**.
+
+A constituição inicial combina representação popular com uma Coroa politicamente ativa. O Príncipe nomeia e demite o chefe do governo e os ministros, sanciona e promulga leis, pode recusar sanção, pode dissolver a Assembleia dentro das regras constitucionais e convocar novas eleições, representa o Estado no exterior e exerce comando supremo das forças armadas.
+
+A Assembleia participa da legislação geral, dos impostos e do orçamento. Os ministros respondem pelos atos de governo e existe contrassinado ministerial para a maior parte dos atos executivos do soberano.
+
+O parlamentarismo inicial é incompleto: o governo não deriva exclusivamente da Assembleia e a Coroa não é figura cerimonial. Essa combinação define a natureza **semi-constitucional** da monarquia sinticana.
+
+Ao longo do século XX, reformas aumentam a responsabilidade parlamentar do governo e limitam algumas prerrogativas unilaterais, mas Sintica não se transforma numa monarquia puramente simbólica. No período moderno, o governo cotidiano depende do Parlamento enquanto o Príncipe conserva poderes constitucionais próprios.
+
+A estrutura toma inspiração comparativa de monarquias europeias constitucionais com Coroa forte existentes no período, sem copiar literalmente qualquer Estado histórico específico.
+
+---
+
+# 5. IDENTIDADE MULTILÍNGUE
 
 Sintica desenvolve uma identidade nacional própria sem apagar as comunidades que participaram de sua formação.
 
@@ -60,7 +87,7 @@ A política moderna de preservação linguística e toponímica deve ser compat�
 
 ---
 
-# 5. SINTICA E A ERA HEROICA
+# 6. SINTICA E A ERA HEROICA
 
 A existência de Sintica **não é causada por Habilidades extraordinárias**.
 
@@ -74,7 +101,7 @@ Sintica não precisa possuir uma tradição heroica excepcionalmente mais import
 
 ---
 
-# 6. REGRA DE SINCRONIZAÇÃO
+# 7. REGRA DE SINCRONIZAÇÃO
 
 Sintica é um projeto compartilhado entre:
 
@@ -87,13 +114,12 @@ O nível de detalhe pode variar, mas os dois cânones não devem se contradizer.
 
 ---
 
-# 7. ELEMENTOS AINDA ABERTOS
+# 8. ELEMENTOS AINDA ABERTOS
 
-- primeiro príncipe soberano;
-- genealogia imediata da Casa de Orbelos em 1919;
+- pais, consorte e descendência imediata de Teodor I;
 - patrocinadores internacionais da independência;
-- texto e data da primeira constituição;
-- desenho exato das instituições modernas;
+- texto e data detalhada da primeira constituição;
+- desenho exato das instituições modernas e poderes atuais da Coroa;
 - demografia histórica;
 - línguas oficiais e níveis de cooficialidade;
 - assentamentos e formas multilíngues definitivas;
