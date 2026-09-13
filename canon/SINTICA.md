@@ -119,21 +119,22 @@ O desenvolvimento completo está em `canon/SINTICA_COURT_CULTURE.md`.
 
 ---
 
-# 8. SOBERANO DE 2025 — FATOS FIXOS E LIMITES
+# 8. SOBERANO CONTEMPORÂNEO — FATOS FIXOS E LIMITES
 
-O soberano de **2025** será definido pessoalmente pelo autor.
+O soberano que ocupa o trono no **presente narrativo de 2014** e continua reinando em 2025 será definido pessoalmente pelo autor.
 
 Somente estes fatos estão canônicos:
 
-- nasceu em **2001**;
+- nasceu em **1996**;
 - sucedeu ao trono aos **12 anos**;
 - sua mãe exerceu a **Regência** durante sua menoridade;
 - a maioridade constitucional para o exercício pessoal pleno da Coroa ocorre aos **18 anos**;
-- em 2025 tem **24 anos**;
+- em **2014 completa 18 anos**, encerrando a regência ordinária e passando ao exercício pessoal pleno da Coroa;
+- em **2025 completa 29 anos**;
 - pertence à Casa de Orbelos;
 - reina dentro da continuidade da monarquia semi-constitucional.
 
-A sucessão ocorreu em **2013 ou 2014**, conforme a futura data exata de nascimento.
+A sucessão ocorreu em **2008 ou 2009**, conforme a futura data exata de nascimento e a data de acesso ao trono.
 
 Não estão definidos: nome, aparência, Habilidade, personalidade, educação, opiniões políticas, predecessor, causa da sucessão, irmãos, casamento, religião pessoal, popularidade, estilo de governo ou relação com a mãe regente.
 
@@ -162,7 +163,7 @@ O nível de detalhe pode variar, mas os dois cânones não devem se contradizer.
 - texto e data detalhada da primeira constituição;
 - desenho exato das instituições modernas e poderes atuais da Coroa;
 - duração do reinado, morte e sucessão de Teodor I;
-- cronologia completa dos soberanos entre Teodor I e o monarca de 2025;
+- cronologia completa dos soberanos entre Teodor I e o monarca contemporâneo;
 - demografia histórica;
 - línguas oficiais e níveis de cooficialidade;
 - assentamentos e formas multilíngues definitivas;
