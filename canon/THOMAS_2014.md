@@ -16,22 +16,24 @@ Qualquer nota anterior que trate Thomas como mais novo deve ser considerada supe
 
 Em 2014 Thomas já é **aluno de uma academia no Canadá destinada a pessoas extraordinárias**.
 
-É a mesma instituição para a qual, mais tarde, o Príncipe Soberano de Sintica será enviado compulsoriamente por decisão de Nikola Orbelos durante a futura Regência.
+É a mesma instituição para a qual, mais tarde, **Mihail I Konstantin Orbelos**, Príncipe Soberano de Sintica, será enviado compulsoriamente por decisão de Nikola Orbelos durante a futura Regência.
 
 A academia não é uma instituição régia, cortesã ou europeia. É uma academia norte-americana moderna, localizada no Canadá, especializada em jovens/pessoas extraordinárias.
+
+Thomas **não ocupa posição especial na instituição**: não é veterano excepcional, representante dos alunos, figura central da administração, aluno escolhido ou motivo para Nikola selecionar a escola. Na prática, ele é simplesmente **mais um estudante entre muitos extraordinários**.
 
 O nome, a cidade, fundadores, administração, currículo, política de admissão, estrutura de alojamento e demais detalhes permanecem abertos para desenvolvimento próprio.
 
 ## 3. Consequência narrativa
 
-Thomas **já pertence ao cotidiano da academia antes da chegada do Príncipe**.
+Thomas já frequenta a academia quando Mihail vier a ser enviado para lá, mas isso não lhe dá precedência particular sobre o novo aluno.
 
-Portanto, a aproximação entre Thomas e a trama sinticana não acontece por uma viagem de Thomas à Europa nem por uma missão diplomática. É o Príncipe que é retirado do ambiente de Sintica e colocado no mesmo espaço educacional em que Thomas já vive e estuda.
+A aproximação entre Thomas e a trama sinticana acontece porque os dois acabam no mesmo ambiente educacional por razões independentes. Thomas não foi colocado ali para esperar Mihail, e Nikola não escolheu a instituição por causa de Thomas.
 
-Thomas e o Príncipe têm a mesma idade no presente narrativo: ambos têm **18 anos** em 2014.
+Thomas e Mihail têm a mesma idade no presente narrativo: ambos têm **18 anos** em 2014.
 
-A relação entre os dois, o momento exato do encontro, se já conheciam a existência um do outro antes disso e a forma como Thomas reage ao status de soberano do novo aluno permanecem abertos para cena.
+A relação entre os dois, o momento exato do encontro, se já conheciam a existência um do outro antes disso e a forma como Thomas reage ao status de soberano de Mihail permanecem abertos para cena.
 
 ## 4. Regra de continuidade
 
-Não tratar a academia como cenário secundário sem importância: ela passa a ser um dos principais pontos de convergência entre a história pessoal de Thomas e a linha narrativa da Casa de Orbelos.
+A academia é um cenário importante da história, mas **Thomas é apenas um de seus alunos**. O mundo escolar não deve ser construído ao redor dele nem tratado como se sua presença conferisse importância especial à instituição.
