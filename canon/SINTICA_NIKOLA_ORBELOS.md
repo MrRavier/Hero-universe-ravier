@@ -94,7 +94,15 @@ A escola não é:
 
 Para Nikola, a vantagem é justamente afastar o sobrinho temporariamente do ecossistema da Corte de Sintica e colocá-lo num ambiente em que ele seja tratado prioritariamente como jovem extraordinário em formação, não como soberano cercado por funcionários, cortesãos e profissionais subordinados à sua Coroa.
 
-O nome da academia, cidade, fundadores, currículo e data exata da matrícula continuam abertos.
+### Convergência com Thomas
+
+**Thomas já estuda nessa mesma academia em 2014 e tem 18 anos**, a mesma idade do Príncipe Soberano naquele presente narrativo.
+
+Assim, Thomas pertence ao cotidiano da instituição **antes da chegada do Príncipe**. A entrada do jovem soberano na academia é o ponto em que a trama sinticana passa a convergir diretamente com a história de Thomas.
+
+A escolha da instituição por Nikola não deve ser tratada automaticamente como motivada por Thomas; por enquanto, o fato canônico é apenas que se trata da mesma academia.
+
+O nome da academia, cidade, fundadores, currículo, data exata da matrícula do Príncipe e circunstâncias do primeiro encontro entre Thomas e o soberano continuam abertos.
 
 ---
 
@@ -111,4 +119,5 @@ Permanecem abertos:
 - nome técnico oficial da Habilidade;
 - parâmetros máximos da descarga;
 - causa e data da Regência;
-- nome e localização exata da academia canadense.
+- nome e localização exata da academia canadense;
+- momento exato do encontro entre Thomas e o Príncipe.
