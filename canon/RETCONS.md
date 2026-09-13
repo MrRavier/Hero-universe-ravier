@@ -85,3 +85,69 @@ Após uma revisão de nomes civis, codinomes e colisões com personagens já exi
 **Motivo:** aumentar a autenticidade regional e cultural do elenco, evitar combinações excessivamente recorrentes em conteúdo gerado por IA, remover codinomes desnecessários e eliminar uma colisão mecânica direta de Hard Air com um personagem canadense já publicado.
 
 **Consequência:** funções narrativas, idades, relações básicas e a estrutura da primeira saga permanecem. A continuidade corrente deve usar exclusivamente **Monica Lau, Callum Aitken, Alison Aitken, Ian Aitken, Amanjot Singh, Andrea Jihye Kwon, Adaobi Okafor e Trevor Kells**. Os nomes anteriores sobrevivem apenas neste histórico de retcons.
+
+
+## v1.0 — Soft reboot episódico do universo
+**Data:** 2026-09-13  
+**Regras afetadas:** conjunto completo das regras 1–776 e todos os outlines narrativos anteriores.
+
+### Definição anterior
+
+O universo possuía uma fundação histórica e metafísica extensa, cronologia moderna detalhada, percentuais populacionais fixos, múltiplas sagas encadeadas em Northbound e uma arquitetura de mistério de longo prazo envolvendo Catálogo, ANCHOR, Alert-81, Rajasthan-50, Interaction Medium, funções complementares e um comprador secreto.
+
+Northbound estava estruturado numa progressão relativamente rígida de Porto de Vancouver → Amplificador/Counterforce → Catálogo/Adrien → consequências → retorno gradual da Matriz, com outline de aproximadamente 84 capítulos.
+
+### Nova definição
+
+O universo passa a usar `canon/ACTIVE_CANON.md` como fonte principal de verdade.
+
+A nova direção é **episódica com continuidade de personagens**.
+
+Permanecem como base reaproveitável:
+- Thomas Mercer e Axe Materialization;
+- Evelyn Winsor e Vespiform Morphology;
+- Pacific Response;
+- Monica Lau / Loadshare;
+- Callum Aitken / Afterforce;
+- Amanjot Singh / Backlash;
+- Andrea Kwon / Borrowed Pulse;
+- Ada Okafor / morfologia anfíbia;
+- Owen LeBlanc / Soft Spot;
+- Adriano Ferri / Leone / Luce Viva;
+- Adrien Verhaegen / Silence;
+- Tanya Hargreaves / Stress Sense;
+- Trevor Kells / Shear;
+- a ideia geral de uma sociedade em que Habilidades e profissão heroica fazem parte da vida cotidiana.
+
+Deixam de ser fatos obrigatórios:
+- cronologia mundial fixa do surgimento moderno das Habilidades;
+- porcentagem global exata de Metas;
+- Saga do Amplificador/Counterforce;
+- Saga do Catálogo como arco obrigatório;
+- ANCHOR;
+- Matriz funcional;
+- Interface, Catalyst, Containment, Transport e Tolerance como sistema universal;
+- Interaction Medium;
+- Alert-81 / A-81;
+- Rajasthan-50 / R-50;
+- comprador secreto de candidatos funcionais;
+- Ladislav, Adriana, Mai e Thandeka como componentes predestinados de um sistema;
+- incidente do Porto como abertura obrigatória;
+- progressão fixa de 84 capítulos;
+- obrigação de toda pista levar a uma conspiração maior.
+
+Os volumes 01–27 tornam-se **legado pré-reboot**. Um elemento antigo só volta a valer quando for explicitamente reimportado pelo cânone ativo.
+
+### Motivo
+
+Simplificar radicalmente o universo para permitir muitas histórias diferentes sem exigir que cada uma alimente um thriller central.
+
+A série deve poder contar resgates, crimes locais, problemas universitários, acidentes, casos médicos, personagens estranhos, conflitos pessoais, vilões independentes e episódios de vida cotidiana sem que tudo precise apontar para “a verdade final”.
+
+A originalidade deve vir da combinação específica de profissão de resposta, cotidiano canadense, Habilidades simples usadas de formas criativas e continuidade de relações — e não da complexidade de uma conspiração.
+
+### Consequência de continuidade
+
+Todo outline anterior ao reboot é considerado histórico/rascunho.
+
+A continuidade nova começa limpa. Histórias antigas podem inspirar episódios futuros, mas não aconteceram automaticamente.
