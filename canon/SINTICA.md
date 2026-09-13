@@ -103,7 +103,47 @@ Sintica não precisa possuir uma tradição heroica excepcionalmente mais import
 
 ---
 
-# 7. REGRA DE SINCRONIZAÇÃO
+# 7. CORTE, GRAND HOTEL E VIDA SOCIAL
+
+Ao longo do século XX, a Casa de Orbelos torna-se conhecida por uma vida social de corte muito ativa.
+
+Entre 1921 e 1927 a antiga residência dos Orbelos é ampliada como **Palácio Principesco**. Em **1928** abre o **Grand Hotel Sintica**, hotel privado sob patronagem da Casa, que passa a funcionar como centro de recepções, bailes, diplomacia, turismo e cultura.
+
+A estética pública do principado combina neo-barroco, ecletismo centro-europeu e balcânico, Secession e Art Déco. Uniformes, cafés, confeitaria, salões, jardins de inverno e bailes convivem com a escala pequena e parcialmente rural do país.
+
+Eventos tradicionais incluem Baile de Ano-Novo da Corte, Baile de Inverno de Sintica, bailes de máscaras em anos selecionados, recepções de primavera e verão, Gala de 9 de Agosto, Gala de 27 de Novembro e eventos beneficentes.
+
+Nos períodos de maior prosperidade, a Coroa organiza ou patrocina aproximadamente oito a quinze grandes eventos por ano, além de recepções menores. Heróis, socorristas e outras figuras extraordinárias podem integrar listas de convidados, e o protocolo de corte incorpora regras específicas para o uso seguro de Habilidades.
+
+O desenvolvimento completo está em `canon/SINTICA_COURT_CULTURE.md`.
+
+---
+
+# 8. SOBERANO DE 2025 — FATOS FIXOS E LIMITES
+
+O soberano de **2025** será definido pessoalmente pelo autor.
+
+Somente estes fatos estão canônicos:
+
+- nasceu em **2001**;
+- sucedeu ao trono aos **12 anos**;
+- sua mãe exerceu a **Regência** durante sua menoridade;
+- a maioridade constitucional para o exercício pessoal pleno da Coroa ocorre aos **18 anos**;
+- em 2025 tem **24 anos**;
+- pertence à Casa de Orbelos;
+- reina dentro da continuidade da monarquia semi-constitucional.
+
+A sucessão ocorreu em **2013 ou 2014**, conforme a futura data exata de nascimento.
+
+Não estão definidos: nome, aparência, Habilidade, personalidade, educação, opiniões políticas, predecessor, causa da sucessão, irmãos, casamento, religião pessoal, popularidade, estilo de governo ou relação com a mãe regente.
+
+Enquanto não houver retcon explícito, a dignidade constitucional permanece **Príncipe Soberano de Sintica**.
+
+A mãe foi **Princesa-Regente**, exercendo as funções constitucionais da Coroa até a maioridade do filho; ela não se tornou soberana reinante em direito próprio. Nome, origem e atuação política da regente permanecem abertos.
+
+---
+
+# 9. REGRA DE SINCRONIZAÇÃO
 
 Sintica é um projeto compartilhado entre:
 
@@ -116,12 +156,13 @@ O nível de detalhe pode variar, mas os dois cânones não devem se contradizer.
 
 ---
 
-# 8. ELEMENTOS AINDA ABERTOS
+# 10. ELEMENTOS AINDA ABERTOS
 
 - patrocinadores internacionais da independência;
 - texto e data detalhada da primeira constituição;
 - desenho exato das instituições modernas e poderes atuais da Coroa;
 - duração do reinado, morte e sucessão de Teodor I;
+- cronologia completa dos soberanos entre Teodor I e o monarca de 2025;
 - demografia histórica;
 - línguas oficiais e níveis de cooficialidade;
 - assentamentos e formas multilíngues definitivas;
