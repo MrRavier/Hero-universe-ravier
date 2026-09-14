@@ -38,56 +38,89 @@ O contato ocorre por mensagens, ligações e videochamadas. Ao longo do ano, a r
 
 No fim do período canadense, ambos já percebem que existe atração romântica. Continuam abertos: declaração formal, primeiro beijo, eventual namoro oficial, reação pública e tudo que ocorre no retorno de Mihail a Sintica.
 
-## 4. Vilão principal do arco canadense
+## 4. Vilão principal do arco canadense — Mathieu Beaulieu / Charnière
 
-O antagonista central é **outro jovem**, de faixa etária próxima à dos alunos.
+O antagonista central do arco é **Mathieu Beaulieu**, jovem franco-canadense do Québec, nascido em **Trois-Rivières em 1994** e com cerca de vinte anos durante o arco.
+
+Sua língua materna é o francês. Fala inglês funcional, mas mantém sotaque québécois perceptível. Mudou-se para a Colúmbia Britânica pouco antes dos acontecimentos principais depois de uma sequência de trabalhos temporários, problemas disciplinares e pequenos delitos ligados ao uso indevido de sua Habilidade.
+
+### Codinome
+
+O nome criminal pelo qual se torna conhecido é **Charnière** (“dobradiça”). O nome surge primeiro como apelido de imprensa/polícia após gravações mostrarem seus membros dobrando em sucessivos pontos anormais; Mathieu passa a adotá-lo deliberadamente depois.
 
 ### Aparência
 
-A imagem fornecida pelo autor em 14 de setembro de 2026 é a referência visual canônica do personagem: jovem adulto magro, cabelo castanho-escuro ondulado/encaracolado, olhos claros, bigode fino e aparência austera/contemporânea.
+A imagem fornecida pelo autor em 14 de setembro de 2026 é a referência visual canônica de Mathieu: jovem adulto magro, cabelo castanho-escuro ondulado/encaracolado, olhos claros, bigode fino e aparência austera/contemporânea.
 
-### Habilidade — morfologia poliarticulada
+### Habilidade — Morphologie polyarticulée / Polyjoint Morphology
 
-O corpo possui **muito mais articulações funcionais do que um corpo humano normal**, distribuídas principalmente pelos membros e integradas a uma anatomia extraordinária própria.
+O corpo de Mathieu possui **muito mais articulações funcionais do que um corpo humano normal**, especialmente nos braços e pernas. Essas articulações fazem parte de uma anatomia extraordinária estável, com músculos, ligamentos, tendões e propriocepção adaptados.
 
 Regra simples:
 
-> **Ele possui articulações adicionais e consegue alongar moderadamente braços e pernas ao desdobrar essa estrutura corporal.**
+> **Mathieu possui articulações adicionais nos membros e consegue alongá-los moderadamente ao desdobrar sucessivamente esses segmentos.**
 
-A Habilidade não deve ser tratada como elasticidade ilimitada, borracha ou transformação livre do corpo.
+Não é elasticidade ilimitada, borracha, transformação livre do corpo ou criação de novos segmentos.
 
 Características fixadas:
 
-- braços e pernas contêm segmentos articulares adicionais;
-- cada membro pode ganhar comprimento limitado quando esses segmentos se alinham/desdobram;
-- o aumento de alcance é significativo, mas não colossal;
-- ele consegue produzir movimentos serpentinos e ângulos impossíveis para uma anatomia humana comum;
-- o braço pode ser acelerado em sequência pelas articulações, produzindo uma **chicotada literal com o próprio membro**;
-- o impacto vem de velocidade, alcance e transferência de momento, não de superforça genérica;
-- consegue atacar ao redor de certos obstáculos ou mudar a trajetória de um membro no meio do golpe;
-- sua silhueta em combate parece errada de forma memorável: cotovelos, antebraços, joelhos e pernas dobram em vários pontos sucessivos.
+- braços e pernas contêm múltiplos segmentos articulares adicionais;
+- ao alinhar esses segmentos, consegue ganhar alcance moderado;
+- ao recolhê-los, assume novamente proporções próximas às humanas normais;
+- pode produzir movimentos serpentinos e atacar em ângulos impossíveis para uma anatomia comum;
+- consegue contornar parcialmente obstáculos com um membro;
+- pode usar articulações intermediárias como pontos de apoio, ancoragem ou mudança brusca de direção;
+- sua técnica mais característica é acelerar sucessivamente as articulações do braço e **chicotear literalmente o alvo com o próprio membro**;
+- o impacto depende de velocidade, alcance e transferência de momento, não de superforça genérica;
+- as pernas permitem passadas irregulares, mudanças de nível muito rápidas, chutes de trajetória difícil de ler e deslocamento corporal desconcertante.
 
-### Limitações de design
+### Limitações
 
-- não possui extensão infinita;
-- não vira líquido, corda ou borracha;
-- o tronco não precisa ser igualmente extensível;
-- golpes de chicote exigem espaço, coordenação e aceleração;
-- articulações adicionais podem ser travadas, presas ou perder eficiência se vários segmentos forem controlados ao mesmo tempo;
-- mobilidade extraordinária não elimina dor, fadiga, trauma ou risco mecânico;
-- a anatomia extraordinária deve incluir estabilização e propriocepção adaptadas, pois laxidade humana comum causaria instabilidade e lesões.
+- alcance adicional é finito e relativamente modesto;
+- o tronco não se estende como os membros;
+- golpes de chicote precisam de espaço e sequência de movimento;
+- agarrar, prender ou bloquear articulações intermediárias reduz drasticamente a eficiência do golpe;
+- uso repetido gera fadiga muscular e dor articular;
+- articulações podem sofrer trauma, inflamação, luxação ou fratura apesar da anatomia adaptada;
+- ambientes estreitos podem tanto ajudá-lo quanto impedir a aceleração necessária para seus ataques mais fortes;
+- sua Habilidade não concede invulnerabilidade.
 
-O nome civil, codinome, origem, motivação, crimes específicos e destino final do vilão permanecem **abertos**.
+## 5. Personalidade de Mathieu
 
-## 5. Confronto do arco
+Mathieu é inteligente, sarcástico, orgulhoso e profundamente reativo à sensação de estar sendo controlado ou tratado como curiosidade médica.
 
-Durante os meses em Vancouver, Thomas e Mihail acabam enfrentando o vilão principal **juntos**, após incidentes menores e sinais de que ele é mais importante para o arco do que parecia inicialmente.
+Na adolescência, sua anatomia fez dele alvo simultâneo de fascínio, medo e exploração. Desenvolveu forte aversão a instituições que, em sua visão, transformam pessoas extraordinárias em objetos de avaliação, licenciamento e espetáculo.
 
-O confronto final não deve apagar os demais personagens do Pacific Response. Thomas e Mihail são centrais para a resolução, mas Monica, Callum, Amanjot, Andrea, Ada, Owen, Evie e outros profissionais/alunos continuam podendo contribuir de acordo com suas funções e circunstâncias.
+Essa crítica contém experiências reais, mas Mathieu a usa para justificar comportamento cada vez mais egoísta. Ele é capaz de transformar qualquer consequência de seus próprios atos em prova de que o sistema o persegue.
 
-A relação Thomas–Mihail se fortalece através de treinamento e perigo real: Thomas oferece improvisação prática; Mihail oferece leitura estratégica, planejamento e capacidade de combinar Habilidades e ambiente.
+Não é um revolucionário coerente nem pretende destruir o Canadá. Quer autonomia, dinheiro, reconhecimento e a satisfação de humilhar instituições que considera hipócritas.
 
-## 6. Continuidade
+É competitivo e teatral quando sabe que está sendo observado. Em privado, demonstra ressentimento, insegurança e necessidade intensa de provar que ninguém consegue contê-lo.
+
+## 6. Atividade criminosa e papel no arco
+
+Charnière começa com crimes oportunistas e tecnicamente difíceis: invasões por espaços estreitos, roubo de equipamento especializado, transporte de pequenos itens por acessos improváveis e agressões rápidas em que sua anatomia torna a defesa convencional difícil.
+
+Ao longo dos meses, seus alvos passam a incluir empresas contratadas pelo setor de resposta extraordinária e instalações associadas a treinamento/licenciamento. Parte dos objetos roubados é revendida; parte é usada em ações destinadas a constranger publicamente profissionais e instituições.
+
+Ele racionaliza os crimes dizendo que o sistema lucra com pessoas extraordinárias enquanto decide quem pode ou não usar legalmente suas próprias capacidades. Contudo, seu comportamento real revela também ambição, vaidade e prazer em vencer fisicamente adversários.
+
+O Pacific Response entra no arco não porque Mathieu tenha uma ligação secreta com a escola, mas porque alguns dos incidentes atingem a esfera de resposta profissional de Vancouver e acabam cruzando exercícios, estágios e operações supervisionadas dos alunos.
+
+## 7. Confronto com Thomas e Mihail
+
+Thomas e Mihail encontram Mathieu em mais de uma ocorrência antes do confronto decisivo.
+
+Mathieu funciona como contraste para ambos:
+
+- **Thomas** improvisa e age cedo; Mathieu explora isso induzindo movimentos previsíveis e punindo aproximações diretas com golpes de chicote.
+- **Mihail** prefere controlar o quadro inteiro; Mathieu usa mobilidade irregular e mudança constante de ângulo para quebrar planos excessivamente rígidos.
+
+No confronto principal, Thomas e Mihail vencem não porque um deles possui poder maior, mas porque aprendem a confiar um no outro: Thomas cria soluções materiais e aberturas práticas; Mihail lê padrões, prevê sequências e organiza o ambiente. O resto do núcleo do Pacific Response continua relevante à operação e às consequências.
+
+O destino jurídico final de Mathieu após o confronto — condenação, acordo, internação especializada, programa de reabilitação ou futura reaparição — permanece aberto para desenvolvimento posterior.
+
+## 8. Continuidade
 
 - Pacific Response é a mesma instituição de Thomas e Mihail.
 - Thomas não é motivo para Nikola escolher a escola.
@@ -95,5 +128,5 @@ A relação Thomas–Mihail se fortalece através de treinamento e perigo real: 
 - O arco canadense dura aproximadamente um ano acadêmico.
 - Dora permanece em Sintica e conversa com Mihail à distância.
 - A tensão romântica Mihail–Dora torna-se real durante esse período.
-- O vilão principal é o jovem de morfologia poliarticulada descrito acima.
+- O vilão principal é **Mathieu Beaulieu / Charnière**, québécois de Trois-Rivières, nascido em 1994, com morfologia poliarticulada.
 - O retorno de Mihail a Sintica permanece deliberadamente não definido.
