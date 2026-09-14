@@ -6,7 +6,7 @@ Este arquivo fixa o retorno de Mihail I a Sintica após aproximadamente um ano a
 
 ## 1. Data e viagem
 
-Mihail deixa Vancouver no fim de junho de 2015, após o encerramento dos módulos, debriefings finais e despedidas do Pacific Response.
+Mihail deixa Vancouver em **20 de junho de 2015**, após o encerramento dos módulos, avaliações, debriefings finais e despedidas do Pacific Response.
 
 A rota adotada é comercial e discreta, não um voo de Estado exclusivo:
 
@@ -45,11 +45,13 @@ Durante o trajeto, Katalin menciona Dora de maneira deliberadamente casual. Miha
 
 ## 5. Entrada em Sintica
 
-A viagem terrestre cruza o corredor regional até a fronteira ocidental de Sintica. Por segurança e protocolo, parte do trajeto ocorre sob coordenação com as autoridades dos países atravessados.
+A viagem terrestre segue de Thessaloniki até Sintica sob coordenação diplomática e de segurança regional.
 
 Mihail não quer um desfile triunfal. Mesmo assim, a notícia do retorno é pública e grupos de moradores aparecem espontaneamente ao longo da entrada de Kerasia e próximos ao Palácio.
 
 A recepção oficial é curta: guarda de honra reduzida, primeiro-ministro, presidente da Assembleia, altos funcionários e representantes da Casa.
+
+Mihail não faz discurso longo no primeiro dia. Limita-se a agradecer pela recepção e diz que pretende retomar gradualmente as funções e reuniões ligadas à Coroa.
 
 ## 6. Encontro com Nikola
 
@@ -63,7 +65,7 @@ Nikola não pede desculpas por tê-lo mandado para o Canadá. Mihail também nã
 
 Nikola aceita a crítica. A relação não vira reconciliação sentimental instantânea; torna-se mais adulta.
 
-O primeiro comentário realmente informal de Nikola é uma piada ruim sobre finalmente ter devolvido o sobrinho inteiro 'com quase todas as articulações no lugar', referência a Charnière.
+O primeiro comentário realmente informal de Nikola é uma piada ruim sobre finalmente ter devolvido o sobrinho inteiro "com quase todas as articulações no lugar", referência a Charnière.
 
 ## 7. Encontro com Maria Ilona
 
@@ -115,20 +117,26 @@ No momento da saída de Mihail do Canadá, Mathieu Beaulieu / Charnière permane
 
 ## 12. Projeto de traje de Mihail
 
-Após retornar, Mihail decide financiar do próprio patrimônio privado um traje pessoal para operações extraordinárias.
+Após retornar, Mihail decide financiar **integralmente com seu patrimônio privado** o desenvolvimento de um traje pessoal para operações extraordinárias.
 
-A decisão nasce diretamente da experiência no Pacific Response e do confronto com Charnière.
+A decisão nasce diretamente da experiência no Pacific Response e do confronto com Charnière. Mihail conclui que roupa civil, traje formal ou equipamento genérico não são adequados para alguém que combina várias Habilidades de naturezas muito diferentes.
 
 Regras canônicas já fixadas:
 
-- o traje é pago com recursos pessoais/dinásticos privados, não com orçamento público de Sintica;
-- deve ser compatível com Teleporte, Éter, Tinta Preta, Oxigênio Sólido e mobilidade física;
-- deve priorizar proteção, mobilidade, suporte médico e segurança de Habilidades;
-- o projeto envolve especialistas sinticanos em materiais, resposta extraordinária e ergonomia;
-- informações técnicas do Pacific Response podem servir de referência profissional, sem que o Canadá projete o traje para ele;
-- aparência, cores, máscara, emblemas, nível de blindagem e design visual ficam deliberadamente abertos para decisão posterior do autor.
+- o traje é pago com recursos privados de Mihail, não com orçamento público de Sintica;
+- a Diretoria de Proteção Extraordinária pode participar de testes de segurança, mas não é proprietária do projeto;
+- o traje deve ser compatível com Teleporte, Éter, Tinta Preta, Oxigênio Sólido e sua resistência física;
+- deve priorizar mobilidade, proteção contra impacto, fogo, frio, abrasão e riscos químicos/oxidantes;
+- deve permitir uso das mãos e palmas sem bloquear a produção de Tinta Preta;
+- deve ser fácil de remover em emergência médica;
+- não deve depender de tecnologia impossível para funcionar;
+- a primeira fase é de prototipagem e testes, não de produção em série;
+- Mihail exige que ao menos um protótipo possa ser danificado, desmontado e criticado sem ser tratado como objeto ceremonial da Casa;
+- aparência, cores, máscara, símbolos, materiais exatos, nível de blindagem e desenho final permanecem **abertos ao autor**.
 
-O traje não é uma coroação heroica nem transforma Mihail automaticamente em herói profissional licenciado. É um equipamento pessoal de campo.
+Mihail encomenda estudos preliminares a uma pequena equipe técnica mista, com especialistas sinticanos em materiais, ergonomia, medicina de emergência e resposta extraordinária, além de consultoria externa canadense sobre requisitos de campo. O Pacific Response não projeta o traje institucionalmente.
+
+O objetivo inicial não é criar um "uniforme real", mas equipamento que permita a ele atuar com segurança sem improvisar roupa inadequada. O traje não o transforma automaticamente em herói profissional licenciado.
 
 ## 13. Consequências do ano canadense para Sintica
 
