@@ -120,7 +120,121 @@ No confronto principal, Thomas e Mihail vencem não porque um deles possui poder
 
 O destino jurídico final de Mathieu após o confronto — condenação, acordo, internação especializada, programa de reabilitação ou futura reaparição — permanece aberto para desenvolvimento posterior.
 
-## 8. Continuidade
+## 8. Desenvolvimento das Habilidades de Mihail no Pacific Response
+
+O ano no Canadá não cria novas Habilidades em Mihail. Ele já chega com a convergência ancestral conhecida. O avanço ocorre sobretudo em **controle, aplicação, segurança e uso sob pressão**.
+
+### 8.1 Teleporte — maior avanço técnico
+
+`Teleporte` é a Habilidade que mais melhora em precisão prática.
+
+Mihail já conseguia usar memória e referências visuais como destino. No Pacific Response passa a treinar:
+
+- saltos curtos repetidos em ambientes conhecidos;
+- escolha consciente do ponto livre de chegada;
+- leitura rápida de fotografias, plantas e imagens de referência;
+- interrupção de uma sequência quando a referência visual é ruim;
+- recuperação de equilíbrio e orientação logo após a chegada;
+- uso do teleporte como reposicionamento de resgate e fuga, não apenas deslocamento de longa distância.
+
+O ganho central não é maior alcance bruto, mas **menos hesitação, melhor precisão e recuperação mais rápida após saltos sucessivos**. Continua não estabelecido que consiga transportar outra pessoa como passageiro.
+
+### 8.2 Éter — maior avanço tático
+
+`Éter` é a Habilidade que mais evolui em versatilidade de campo.
+
+Mihail aprende a preferir controle fino a descarga bruta. Durante o ano melhora especialmente:
+
+- empurrões e puxões curtos;
+- desaceleração de objetos em movimento;
+- sustentação momentânea de pequenas massas;
+- barreiras localizadas em vez de grandes campos;
+- desvio e contenção de destroços;
+- controle simultâneo de mais de um pequeno ponto por períodos curtos.
+
+O treino transforma Éter na principal ferramenta de **controle de ambiente** de Mihail. Não vira magia genérica: continua limitado a mover, concentrar, moldar e fazer o éter condensado interagir fisicamente com matéria.
+
+### 8.3 Inteligência Superior — maior avanço comportamental
+
+A capacidade intelectual já era extraordinária e não recebe simplesmente “mais QI”. O Pacific Response desenvolve a maneira como Mihail a aplica.
+
+Ele melhora em:
+
+- triagem rápida de informação incompleta;
+- aceitar que dados podem estar errados ou ausentes;
+- formular planos com alternativas;
+- delegar tarefas em vez de tentar resolver todas as variáveis sozinho;
+- revisar uma hipótese durante a ocorrência;
+- reconhecer padrões de comportamento e movimento em adversários.
+
+Esse aprendizado é decisivo contra Charnière: Mihail não vence por prever perfeitamente o futuro, mas por reconhecer sequências recorrentes nas articulações de Mathieu e adaptar o plano conforme Thomas improvisa.
+
+### 8.4 Tinta Preta — ferramenta não letal e de controle visual
+
+Mihail desenvolve `Tinta Preta` principalmente como recurso de suporte, não como ataque destrutivo.
+
+Melhora em:
+
+- controlar volumes menores com precisão;
+- cobrir câmeras, superfícies transparentes e linhas de visão;
+- marcar rotas ou objetos;
+- introduzir a tinta por frestas;
+- formar cortinas opacas rápidas;
+- recolher ou afastar parte do material produzido enquanto ainda mantém controle sobre ele.
+
+A tinta permanece líquida. Ela não vira corda, lâmina ou sólido rígido.
+
+### 8.5 O Sangue Mais Forte + Ossos Duros — condicionamento e segurança corporal
+
+Essas capacidades são predominantemente corporais/passivas, portanto não “sobem de nível” como uma técnica ativa.
+
+O treinamento melhora o uso do corpo que Mihail já possui:
+
+- quedas controladas;
+- absorção de impacto;
+- postura;
+- equilíbrio;
+- resistência em resgate;
+- noção de quando o esqueleto pode suportar uma carga mas músculos, tendões, órgãos e cérebro ainda permanecem vulneráveis.
+
+`Ossos Duros` continua protegendo o esqueleto, não os tecidos moles. `O Sangue Mais Forte` continua oferecendo físico superior e sua função hereditária; o treinamento não permite a Mihail comandar conscientemente o reservatório hereditário.
+
+### 8.6 Oxigênio Sólido — avanço deliberadamente conservador
+
+É uma das Habilidades mais perigosas do conjunto e, por isso, o Pacific Response não incentiva uso ofensivo rotineiro.
+
+Mihail desenvolve sobretudo **segurança e precisão**:
+
+- retirar quantidades pequenas e controladas de oxigênio do ar;
+- evitar uso prolongado em espaços fechados;
+- reconhecer risco de hipóxia;
+- manter o material longe de combustíveis e fontes de ignição;
+- desfazer o controle rapidamente quando a situação muda;
+- produzir formas pequenas e localizadas em vez de grandes massas.
+
+O objetivo é reduzir risco colateral. Oxigênio sólido continua extremamente frio, forte oxidante e potencialmente perigoso em incêndios; não é tratado como simples “gelo azul”.
+
+### 8.7 Transporte de Mente — nenhum desenvolvimento consciente
+
+Mihail **não treina Transporte de Mente**, porque ainda não sabe que possui essa Habilidade.
+
+O ano canadense pode conter manifestações ambíguas ou incidentes posteriormente reinterpretáveis, mas não fica estabelecido que ele descubra ou domine a capacidade durante esse arco.
+
+### 8.8 Resultado ao fim do ano
+
+A ordem aproximada de desenvolvimento durante a estadia é:
+
+1. **Teleporte** — maior ganho técnico e de precisão;
+2. **Éter** — maior ganho tático e de versatilidade;
+3. **Inteligência Superior** — maior ganho na forma de aplicação sob incerteza e em equipe;
+4. **Tinta Preta** — forte melhora de controle fino e uso não letal;
+5. **O Sangue Mais Forte / Ossos Duros** — melhor condicionamento e consciência das limitações corporais;
+6. **Oxigênio Sólido** — melhora principalmente de segurança, não de potência;
+7. **Transporte de Mente** — permanece desconhecido e sem treino consciente.
+
+A filosofia do Pacific Response é que desenvolvimento significa domínio e aplicação, não desbloqueio automático de formas superiores.
+
+## 9. Continuidade
 
 - Pacific Response é a mesma instituição de Thomas e Mihail.
 - Thomas não é motivo para Nikola escolher a escola.
@@ -129,4 +243,5 @@ O destino jurídico final de Mathieu após o confronto — condenação, acordo,
 - Dora permanece em Sintica e conversa com Mihail à distância.
 - A tensão romântica Mihail–Dora torna-se real durante esse período.
 - O vilão principal é **Mathieu Beaulieu / Charnière**, québécois de Trois-Rivières, nascido em 1994, com morfologia poliarticulada.
+- O ano no Pacific Response melhora principalmente Teleporte, Éter, aplicação da Inteligência Superior e controle da Tinta Preta.
 - O retorno de Mihail a Sintica permanece deliberadamente não definido.
