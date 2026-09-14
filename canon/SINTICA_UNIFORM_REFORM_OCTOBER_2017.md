@@ -4,6 +4,20 @@
 
 Em outubro de 2017, após estudos técnicos, consultas às forças de segurança e às chefias militares, Mihail I assina a reforma geral da indumentária estatal de Sintica. A reforma não abandona a linguagem visual histórica do país: ela moderniza materiais, proteção, ergonomia e produção, mantendo deliberadamente uma aparência inspirada nos uniformes balcânicos e centro-europeus das décadas de 1910–1930.
 
+## Continuidade histórica correta
+
+A estética de 1910–1930 **não permaneceu congelada em uso contínuo até 2017**.
+
+Sintica passou pelo mesmo processo geral de evolução visual observado nos demais Estados europeus ao longo do século XX e início do XXI. Uniformes militares, policiais e administrativos foram sendo modernizados em cortes, tecidos, cores, equipamento, capacetes, calçados e acessórios conforme cada época.
+
+Assim, imediatamente antes da reforma de outubro de 2017, as forças sinticanas utilizavam uniformes contemporâneos comparáveis aos de outros pequenos e médios países europeus: funcionais, modernos e sem aparência deliberadamente antiga.
+
+A preservação arquitetônica nacional, embora muito forte, nunca significou congelamento de toda a cultura material. Automóveis, tecnologia, equipamentos públicos, telecomunicações, armamentos, vestuário civil e uniformes continuaram evoluindo normalmente. As restrições patrimoniais concentram-se sobretudo no ambiente construído, fachadas, volumes, materiais, paisagem urbana e contextos históricos protegidos.
+
+Portanto, a reforma de 2017 deve ser entendida como uma **reintrodução consciente e contemporânea de uma linguagem histórica**, e não como simples conservação de uniformes que nunca teriam mudado. Mihail escolhe recuperar elementos visuais de antigas tradições militares e policiais sinticanas — especialmente das décadas de 1910–1930 — e reinterpretá-los com materiais, ergonomia, proteção e produção do século XXI.
+
+Em termos visuais, existe uma ruptura deliberada entre o uniforme europeu moderno imediatamente anterior e a nova família neo-histórica aprovada em 2017.
+
 ## Princípio político e visual
 
 A reforma segue a mesma filosofia já adotada por Mihail para patrimônio e arquitetura: modernização não exige apagamento da identidade histórica.
