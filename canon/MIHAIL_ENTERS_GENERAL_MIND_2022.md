@@ -134,6 +134,50 @@ Mihail percebe que, se continuar, existe risco real de:
 
 Ele interrompe o contato antes de alcançar camadas ainda mais profundas.
 
+## Lapso posterior — o Kheruun de vinte metros
+
+Depois de romper o contato, Mihail acredita inicialmente que a incursão acabou.
+
+Minutos depois, porém, durante um breve lapso de consciência, uma memória que não havia conseguido processar durante a entrada retorna de forma isolada.
+
+Ele vê um ser muito diferente das formas humanoides, dos Generais e do Arauto.
+
+A criatura mede aproximadamente **vinte metros** de altura.
+
+Sua anatomia é ternária e não humana, com grande estrutura vertical mineralizada, três apoios locomotores principais e múltiplos apêndices manipuladores.
+
+O corpo não parece derivado de humano algum.
+
+Na memória do General, o ser ocupa uma posição de autoridade ou precedência muito acima das formas comuns.
+
+Mihail ainda não conhece o nome **Kheruun**, nem a designação **Formadores do Império**.
+
+A cena é curta e incompleta.
+
+O Kheruun está diante de outras formas e estruturas que Mihail não consegue identificar com segurança.
+
+A criatura se comunica de maneira que a memória traduz para Mihail como significado, não como fala humana literal.
+
+A única frase que ele consegue preservar com clareza é:
+
+> **"Agora só há um."**
+
+Mihail não sabe a que o termo **"um"** se refere.
+
+Ele não consegue determinar se a frase fala de:
+
+- um indivíduo;
+- uma linhagem;
+- um cargo;
+- uma estrutura;
+- um lugar;
+- um princípio;
+- ou outra coisa que a mente humana ainda não possui categoria para entender.
+
+Nada nesse momento autoriza concluir que o Kheruun seja o Superior, nem que a frase se refira ao Superior.
+
+A memória termina antes de fornecer contexto.
+
 ## Resultado imediato
 
 Mihail sai do contato fisicamente debilitado.
@@ -145,7 +189,8 @@ Ele apresenta:
 - dificuldade temporária de distinguir memórias próprias das imagens capturadas;
 - forte dor de cabeça;
 - breve dificuldade de linguagem;
-- tremor fino nas mãos.
+- tremor fino nas mãos;
+- lapsos tardios de memória adquirida, como o fragmento do Kheruun.
 
 Apesar disso, ele mantém consciência e consegue relatar as informações principais.
 
@@ -159,13 +204,17 @@ O evento não revela ainda:
 - o motivo exato pelo qual Mihail decidiu arriscar a incursão;
 - a totalidade da hierarquia;
 - a localização física ou metafísica do ponto de origem das Estruturas;
-- se todas as Estruturas Vivas possuem o mesmo interior.
+- se todas as Estruturas Vivas possuem o mesmo interior;
+- quem é exatamente o Kheruun visto na memória;
+- o significado de "Agora só há um".
 
 Esses pontos permanecem abertos para desenvolvimento posterior.
 
 ## Consequência estratégica
 
 Mihail agora é o primeiro humano conhecido a possuir memória direta do interior de uma Estrutura Viva a partir da mente de uma forma superior de comando.
+
+Além disso, ele possui um fragmento visual de uma espécie/entidade superior ainda não identificada pela humanidade.
 
 Isso se torna informação estratégica de altíssimo valor para China, Sintica e, posteriormente, aliados autorizados.
 
