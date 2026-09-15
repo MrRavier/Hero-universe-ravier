@@ -110,6 +110,108 @@ Gendarmaria, forças armadas francesas, bombeiros, proteção civil, equipes ext
 
 A prioridade francesa inicial não é atacar, mas retirar civis, impedir aproximação e criar distância operacional.
 
+## Aparição de duas formas de comando aberrantes de fronteira
+
+A grande forma alada observada no Texas **não aparece** em Xinjiang nem na França.
+
+Em vez dela, cada uma das duas novas Estruturas Vivas manifesta uma entidade de comando diferente.
+
+As duas compartilham a mesma configuração geral:
+
+- altura aproximada entre 8 e 12 metros;
+- corpo extremamente alongado e parcialmente quadrúpede;
+- estrutura óssea exposta ou semi-exposta;
+- grande crista dorsal em forma de lâmina/tenda;
+- cabeça alongada com probóscide ou apêndice rígido frontal;
+- membros dianteiros longos e predatórios;
+- membros posteriores adaptados a deslocamento pesado;
+- plataforma ou trono orgânico sobre o dorso;
+- presença de uma pequena figura humanoide ou de comando montada/associada à estrutura em alguns registros;
+- forte combinação de organismo, armamento, autoridade e transporte.
+
+Os humanos não conhecem a designação interna dessas formas.
+
+Analistas passam a chamá-las provisoriamente de:
+
+- **General Aberrante**;
+- **General de Fronteira**;
+- **Comandante Aberrante**.
+
+A expressão **General Aberrante de Fronteira** acaba se tornando o termo técnico mais usado em relatórios internacionais.
+
+## Xinjiang — o General Aberrante
+
+Na frente chinesa, a entidade aparece primeiro como silhueta parcial junto à Estrutura Viva.
+
+Ela não corre nem ataca imediatamente.
+
+Move-se em passos lentos e muito estáveis, com a crista dorsal acima da linha das formas menores.
+
+As primeiras unidades funcionais que saem da estrutura parecem reorganizar-se em torno dela.
+
+Formas de transporte mantêm distância regular.
+
+Formas de guerra passam a posicionar-se em linhas laterais.
+
+Unidades de contenção criam corredores ao redor da entidade.
+
+O comportamento lembra uma coluna de campanha se formando em torno de um centro de comando móvel.
+
+A China aumenta imediatamente a distância mínima do perímetro.
+
+Drones de reconhecimento recebem prioridade sobre contato terrestre.
+
+O governo evita divulgar imagens detalhadas nas primeiras horas, mas vídeos de longa distância e satélite acabam vazando.
+
+O fato de a entidade parecer capaz de deslocar-se junto às tropas gera preocupação de que ela não dependa de uma estrutura fixa para comandar.
+
+## França — o segundo General Aberrante
+
+Na Creuse, a aparição é muito mais visível porque há civis e imprensa relativamente próximos antes da evacuação completa.
+
+Uma das primeiras gravações mostra a entidade saindo de trás da Estrutura Viva ao amanhecer.
+
+Ela é grande demais para ser confundida com qualquer forma já vista no Texas.
+
+O corpo parece quase esquelético em alguns ângulos, mas suporta uma massa enorme sobre o dorso.
+
+A longa cabeça aponta para o solo e depois se levanta em direção às linhas francesas.
+
+Não há vocalização compreensível.
+
+A entidade simplesmente permanece parada durante vários minutos.
+
+Então formas menores começam a emergir e a se distribuir ao redor dela.
+
+A prioridade francesa muda de simples evacuação para preparação defensiva imediata.
+
+Unidades do Exército assumem posições mais profundas, evitando colocar a primeira linha perto demais da estrutura.
+
+Heróis e extraordinários são distribuídos por função: reconhecimento, evacuação, contenção, combate pesado e apoio médico.
+
+## Diferença entre o comandante alado e os generais aberrantes
+
+Os analistas humanos percebem rapidamente que as três entidades de alto nível não parecem cumprir exatamente a mesma função.
+
+A forma alada do Texas:
+
+- permanece mais central;
+- coordena múltiplos setores simultaneamente;
+- exerce comando visual e ritual muito amplo;
+- parece representar autoridade sobre legiões inteiras.
+
+Os Generais Aberrantes de Fronteira:
+
+- são mais móveis;
+- parecem feitos para acompanhar campanhas prolongadas;
+- combinam comando, presença física, transporte e capacidade de combate;
+- operam diretamente junto às colunas e linhas de frente;
+- parecem adequados a regiões afastadas de um centro principal de comando.
+
+A hipótese humana mais comum é que a forma alada seja um nível superior de comando e que os generais aberrantes funcionem como comandantes de teatro ou fronteira.
+
+Isso permanece interpretação, não tradução confirmada da hierarquia real.
+
 ## Reação internacional
 
 A simultaneidade altera completamente a interpretação dos eventos.
@@ -121,6 +223,12 @@ Agora há três Estruturas Vivas permanentes ou semi-permanentes conhecidas:
 - Texas;
 - Xinjiang;
 - interior da França.
+
+E três centros visíveis de comando superior:
+
+- a forma alada no Texas;
+- um General Aberrante em Xinjiang;
+- um General Aberrante na França.
 
 Estados começam a tratar a ameaça como problema global.
 
@@ -150,7 +258,7 @@ A crise mostra que heróis não podem ser simplesmente deslocados para um único
 
 Leone não abandona unilateralmente a Itália.
 
-Com uma Estrutura Viva em território francês, sua posição muda de prontidão distante para elemento potencial de defesa continental.
+Com uma Estrutura Viva e um General Aberrante em território francês, sua posição muda de prontidão distante para elemento potencial de defesa continental.
 
 França, Itália e parceiros europeus discutem regras de entrada, cadeia de comando e limites de atuação antes de qualquer deslocamento.
 
@@ -183,13 +291,13 @@ Thomas continua sendo um profissional com Habilidade específica, não um soldad
 
 ## Sintica
 
-Mihail acompanha a aparição das novas estruturas como chefe de Estado e estudioso do sobrenatural.
+Mihail acompanha a aparição das novas estruturas e dos dois Generais Aberrantes como chefe de Estado e estudioso do sobrenatural.
 
 A multiplicação dos pontos muda sua avaliação estratégica.
 
 Uma única estrutura podia ser tratada como caso local extraordinário.
 
-Três estruturas em continentes diferentes exigem preparação nacional real.
+Três estruturas em continentes diferentes, cada uma associada a formas superiores de comando, exigem preparação nacional real.
 
 Ele aumenta prontidão de Sintica sem declarar mobilização geral.
 
@@ -199,7 +307,8 @@ A unidade sinticana de fenômenos mágicos passa a comparar:
 - semelhanças de Éter;
 - diferenças de arquitetura orgânica;
 - possíveis padrões geográficos;
-- variações na manifestação.
+- variações na manifestação;
+- comportamento comparado entre a forma alada e os Generais Aberrantes.
 
 Mihail não afirma que os três locais foram escolhidos pela mesma razão.
 
@@ -215,15 +324,15 @@ Sua primeira conclusão privada é simples:
 
 > "Até agora estávamos vendo funções. Agora estamos vendo autoridade."
 
-Dora responde:
+Quando surgem os dois Generais Aberrantes, ele revisa a formulação:
 
-> "E agora existem três lugares para obedecer a ela."
+> "Não é só autoridade. É cadeia de comando."
 
-Mihail corrige:
+Dora pergunta se eles seriam generais.
 
-> "Ainda não sabemos se obedecem a ela diretamente."
+Mihail responde:
 
-Mesmo em crise, ele continua evitando afirmar além do que os dados mostram.
+> "É o nome mais útil que temos. Não significa que seja o nome deles."
 
 ## Vida cotidiana e efeito cultural
 
@@ -235,7 +344,7 @@ Mas a percepção coletiva muda.
 
 A pergunta deixa de ser "isso vai voltar?" e passa a ser:
 
-**"onde vai aparecer a próxima estrutura?"**
+**"onde vai aparecer a próxima estrutura, e quem virá comandá-la?"**
 
 Museus, igrejas, universidades, governos, empresas de seguro, companhias aéreas e serviços de emergência começam a adaptar planos a uma ameaça que não respeita fronteiras convencionais nem trajetórias de chegada observáveis.
 
@@ -247,10 +356,13 @@ Ainda não está definido:
 - seu nome interno;
 - se ela fala como o Arauto;
 - se possui Habilidades próprias além de comando e presença;
-- se as estruturas de Xinjiang e França liberarão Hostes imediatamente;
+- se os Generais Aberrantes são indivíduos únicos ou uma categoria funcional;
+- se a figura humanoide associada ao dorso faz parte biologicamente da mesma forma ou representa um operador separado;
+- se os dois generais de Xinjiang e França são equivalentes em hierarquia;
+- se as estruturas de Xinjiang e França liberarão Hostes no mesmo ritmo do Texas;
 - se as três estruturas estão sincronizadas;
 - por que Texas, Xinjiang e Creuse foram escolhidos;
 - se outras estruturas aparecerão;
 - se a Grande Nave retornará simultaneamente sobre os três locais.
 
-O evento marca a transformação da crise do Texas em **crise global de múltiplas frentes**.
+O evento marca a transformação da crise do Texas em **crise global de múltiplas frentes com cadeia de comando visível**.
