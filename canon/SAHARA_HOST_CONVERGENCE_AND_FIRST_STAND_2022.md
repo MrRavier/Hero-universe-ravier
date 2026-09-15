@@ -1,216 +1,106 @@
-# Saara — Convergência da Hoste e Primeira Resistência Global (2022)
+# Saara — Convergência da Hoste e Ordem de Batalha Pré-Confronto (2022)
 
-**Status: cânone ativo.**
+**Status: cânone ativo corrigido.**
 
-## Continuidade
+## Correção temporal
 
-Após o ultimato do último Superior exigindo a rendição da humanidade e da Terra, as frentes do Texas, França e Xinjiang mudam de comportamento quase simultaneamente.
+A batalha do Saara **ainda não começou** neste ponto.
 
-O Superior permanece no Trono-Recepção Saariano, cercado por miríades de formas encapuzadas derivadas das carcaças dos antigos Kheruun.
+Após o ultimato do último Superior e a frase "COISAS SIMPLÓRIAS ESCOLHERAM A DESTRUIÇÃO", ambos os lados reorganizam forças, apontam armas, estabelecem setores e aguardam. Não há ainda disparo geral nem avanço terrestre formal.
 
-Mihail não é comandante supremo da força humana. Ele funciona como soberano participante, combatente extraordinário, fonte crítica de inteligência e ponte de teletransporte para contingentes selecionados.
+## Lado terrestre
 
-## O silêncio das três frentes
+A presença humana no Saara é uma concentração multinacional improvisada, não um exército mundial unificado.
 
-Depois do ultimato, as formas da Hoste no Texas, França e Xinjiang interrompem ataques por alguns instantes.
+Estão presentes contingentes ou representantes militares de Estados da OTAN, países da União Europeia, Estados Unidos, Canadá, Reino Unido, França, Itália, Alemanha, Polônia, Turquia, além de China, Rússia, Índia, Brasil, Japão, Coreia do Sul, Coreia do Norte, Austrália e outros países menores que conseguiram enviar pessoal rapidamente.
 
-A pausa é abrupta demais para ser coincidência.
+Também estão presentes:
 
-Unidades de guerra param no meio do avanço.
-
-Formas de bombardeio cessam fogo.
-
-Transportadores mudam orientação.
-
-Generais Aberrantes e coordenadores menores passam a convergir para as Estruturas Vivas locais.
-
-Os humanos inicialmente interpretam a pausa como possível resposta ao ultimato.
-
-Em seguida percebem que se trata de retirada e concentração.
-
-## O comandante alado deixa o Texas
-
-O ser alado que comandava a frente do Texas rompe contato com Leone.
-
-Ele sobe quase verticalmente e acelera em direção ao leste com força suficiente para produzir uma assinatura atmosférica extrema.
-
-Não tenta retornar à Estrutura destruída do Texas.
-
-Sua trajetória aponta diretamente para o Saara.
-
-Leone tenta acompanhá-lo, mas a entidade demonstra que sua função não era apenas pairar sobre um teatro local: possui mobilidade estratégica própria.
-
-## Ataque suicida no Texas
-
-As formas terrestres que permanecem no Texas não recuam de modo organizado.
-
-Depois da saída do comandante alado, várias unidades avançam de forma praticamente sacrificial contra posições americanas.
-
-Criaturas de guerra, cerco e contenção atacam sem expectativa clara de sobrevivência.
-
-Bombardeadores orgânicos descarregam munição restante.
-
-Transportadores danificados são usados como massa de ruptura.
-
-A interpretação humana é que essas formas estão comprando tempo para a transferência do que ainda importa ao sistema imperial.
-
-## As Estruturas Vivas desaparecem
-
-Na França e em Xinjiang, equipes humanas que já haviam penetrado parcialmente nas Estruturas Vivas relatam mudanças bruscas.
-
-Corredores se contraem.
-
-Câmaras fecham.
-
-Partes internas comprimem-se numa geometria impossível.
-
-Pessoas no interior têm apenas segundos para escapar, serem retiradas ou alcançar zonas estáveis.
-
-Então a Estrutura deixa de ocupar normalmente o espaço tridimensional local.
-
-Ela não explode.
-
-Não decola.
-
-Não afunda.
-
-Ela simplesmente some de forma fisicamente incoerente com o volume que possuía.
-
-Pouco depois, as duas Estruturas reaparecem no Saara, a distância operacional do Trono-Recepção.
-
-A transferência confirma que as Estruturas podem ser deslocadas pelo mesmo princípio não convencional associado à Grande Nave e à geometria imperial.
-
-## Reorganização no Saara
-
-As figuras encapuzadas ao redor do Trono interrompem a disposição ritual anterior.
-
-Elas começam a reorganizar-se em linhas, círculos e corredores funcionais.
-
-Parte remove os mantos.
-
-As formas humanoides inspiradas na anatomia Kheruun assumem posições de guarda, ritual, comando e sustentação.
-
-Pretorianos emergem das Estruturas Vivas recém-chegadas.
-
-Eles se juntam às escadarias, arcos e bases do Trono.
-
-Formas de guerra começam a desembarcar.
-
-Criaturas de cerco aparecem em setores mais externos.
-
-Transportadores e Barcas Ascensionais passam a circular acima do campo.
-
-Caçadores Alados sobem para patrulha e interceptação.
-
-Bombardeiros Sacrificiais assumem altitude.
-
-O comandante alado vindo do Texas aproxima-se da área e passa a funcionar novamente como autoridade de grande escala.
-
-O Saara deixa de ser apenas local de audiência.
-
-Torna-se concentração de força terrestre e aérea do Superior.
-
-## A segunda voz
-
-Quando a reorganização está suficientemente avançada, o Trono entra novamente em ressonância.
-
-A voz atravessa o horizonte e é compreendida por todos os presentes.
-
-> **"COISAS SIMPLÓRIAS ESCOLHERAM A DESTRUIÇÃO."**
-
-Não há negociação adicional imediatamente depois da frase.
-
-A mensagem é interpretada como encerramento do ultimato e início formal da tentativa de Hiperconquista.
-
-## Situação humana
-
-A força humana presente no Saara é multinacional e extraordinariamente diversa, mas ainda pequena comparada ao que grandes potências poderiam mobilizar com tempo suficiente.
-
-Mihail transportou pessoas, equipes e especialistas — não divisões blindadas inteiras.
-
-O grosso de tanques, artilharia pesada, defesa antiaérea, munição, hospitais de campanha, combustível e contingentes convencionais ainda está em trânsito por meios normais.
-
-No campo já estão presentes:
-
-- extraordinários de diversos países;
-- unidades especiais;
-- infantaria selecionada;
+- heróis públicos e extraordinários de combate;
+- extraordinários militares, policiais e de resposta;
+- forças especiais e infantaria selecionada;
 - médicos e equipes de evacuação;
-- oficiais de ligação;
+- oficiais de ligação e inteligência;
+- operadores de drones e comunicações;
 - defesa antiaérea leve e média;
-- drones e sensores;
-- pequenos contingentes de países rivais operando em setores separados;
-- alguns dos heróis mais poderosos disponíveis.
+- pequenos destacamentos de engenharia;
+- Mihail I Orbelos e agentes extraordinários sinticanos;
+- Leone e outros heróis de alta escala.
 
-A humanidade possui qualidade e diversidade, mas não volume suficiente para uma vitória imediata.
+Mihail não é comandante supremo. Cada contingente mantém cadeia nacional, enquanto um centro conjunto improvisado coordena setores, identificação, comunicações e regras de fogo.
 
-## Mihail não assume o comando
+### Efetivo humano inicial
 
-Mihail observa a linha humana e entende claramente sua posição.
+Estimativa canônica imediatamente antes da batalha:
 
-Ele não é general da coalizão.
+- aproximadamente **4.800 pessoas** fisicamente presentes na cabeça de ponte saariana;
+- aproximadamente **3.300 combatentes imediatamente disponíveis**;
+- cerca de **420 extraordinários/heróis/agentes com Habilidades** dentro do total;
+- o restante consiste em médicos, comunicações, comando, inteligência, engenharia e apoio.
 
-Não é representante político da humanidade inteira.
+A grande fraqueza é equipamento pesado. Mihail teleportou principalmente pessoas e material portátil. Blindados, artilharia pesada, grandes estoques de munição, combustível, hospitais de campanha completos e contingentes convencionais maiores ainda estão chegando por meios normais.
 
-Não tenta transformar o fato de ter levado muitos deles até ali em direito de comando.
+## Lado do Soberano / Superior
 
-Há generais americanos, franceses, chineses, russos, indianos e outros oficiais com cadeias próprias.
+O último Superior permanece no Trono-Recepção saariano.
 
-Há heróis mais fortes fisicamente.
+Ao seu redor encontram-se:
 
-Há especialistas mais experientes em guerra convencional.
+- milhares de pseudo-Kheruun humanoides criados a partir de carcaças e matéria da antiga raça caída;
+- Pretorianos retirados das Estruturas Vivas;
+- formas de guerra;
+- formas de contenção;
+- formas de transporte;
+- criaturas de carga;
+- unidades de cerco;
+- formas de bombardeio terrestre;
+- formas de reparo, alimentação e processamento;
+- Barcas Ascensionais;
+- Caçadores Alados;
+- Bombardeiros Sacrificiais;
+- coordenadores e Supervisores;
+- pelo menos **quatro Generais Aberrantes** provenientes das frentes francesa e chinesa;
+- a grande Forma alada de comando vinda do Texas;
+- duas Estruturas Vivas completas transferidas de França e Xinjiang;
+- o Trono, que é a forma transformada da antiga Grande Nave do Panamá e feita a partir das carcaças da espécie Kheruun caída.
 
-Mihail aceita isso sem dificuldade naquele momento.
+As formas restantes no Texas permanecem fora dessa concentração e entram em comportamento sacrificial para prender forças americanas naquele teatro.
 
-Seu papel é outro:
+### Efetivo imperial inicial
 
-- teletransporte;
-- inteligência sobre o interior das Estruturas;
-- magia;
-- coordenação extraordinária local;
-- combate de alta mobilidade;
-- transmissão psíquica de informação crítica.
+Estimativa humana baseada em imagens, drones, sensores e contagem incompleta:
 
-## O primeiro objetivo humano
+- aproximadamente **28.000 a 32.000 formas vivas visíveis ou inferidas** no complexo saariano;
+- aproximadamente **21.000 a 24.000** parecem capazes de combate terrestre imediato;
+- aproximadamente **1.600 a 2.200 formas aéreas**, entre caçadores, bombardeiros e barcas;
+- milhares adicionais têm funções de guarda, logística, culto, reparo, processamento, transporte ou comando.
 
-A conclusão operacional é simples:
+As Estruturas Vivas podem conter formas ainda não contabilizadas, portanto a estimativa humana provavelmente é conservadora.
 
-**aguentar.**
+## Diferença de números
 
-Não destruir imediatamente o Trono.
+No instante anterior ao início da batalha, o lado do Superior possui aproximadamente **seis vezes mais corpos totais** no local que o lado terrestre.
 
-Não correr até o Superior.
+Se forem comparados apenas combatentes imediatamente disponíveis, a relação fica próxima de **sete para um** em favor da Hoste.
 
-Não vencer em minutos.
+A vantagem humana não está em quantidade, mas em diversidade de capacidades, armas modernas, heróis de alta escala, coordenação entre doutrinas diferentes e a chegada contínua de reforços.
 
-A linha humana precisa impedir que a Hoste atravesse o perímetro e destrua a cabeça de ponte antes da chegada dos reforços pesados.
+A vantagem imperial está em massa, integração orgânica, comando hierárquico, força aérea já posicionada, duas Estruturas Vivas presentes e preparação completa do terreno ao redor do Trono.
 
-A coalizão improvisa setores de defesa.
+## Situação imediatamente antes do primeiro disparo
 
-Extraordinários são distribuídos entre eixos de maior risco.
+Ambos os lados estão prontos.
 
-Leone é direcionado contra ameaças aéreas e formas pesadas.
+A Hoste reorganiza linhas e corredores de avanço sem atacar ainda.
 
-Unidades antiaéreas priorizam Bombardeiros Sacrificiais e Caçadores.
+As forças humanas criam setores defensivos e aguardam reforços pesados.
 
-Infantaria e blindados leves seguram corredores terrestres.
+Caças, drones e formas aéreas já se observam a distância.
 
-Mihail permanece móvel entre setores, usando teleporte para corrigir rupturas, retirar feridos, reposicionar extraordinários e transmitir informações.
+Armas estão apontadas.
 
-## A sensação do campo
+Heróis estão distribuídos por setores.
 
-O Saara naquele momento parece o ponto de encontro de dois sistemas inteiros.
+O Superior permanece sentado.
 
-De um lado:
-
-Estados, exércitos, heróis, rivalidades, línguas, bandeiras e improvisação humana.
-
-Do outro:
-
-função, hierarquia, carne moldada, comando, permanência e obediência imperial.
-
-Os reforços estão chegando.
-
-Mas ainda não chegaram.
-
-A primeira batalha real do Saara começa com a humanidade em desvantagem numérica e logística, tentando apenas sobreviver tempo suficiente para transformar uma concentração improvisada em uma frente de guerra.
+A batalha ainda não começou.
