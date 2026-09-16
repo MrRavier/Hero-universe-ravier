@@ -1,239 +1,154 @@
 # THE EXTRAORDINARY WORLD — SINTICA
 
-**Documento de cânone ativo.**
+**Documento-mestre de cânone ativo — presente narrativo: 2020.**
 
 Este arquivo integra o **Principado de Sintica** ao universo compartilhado de *The Extraordinary World*. O desenvolvimento histórico detalhado do país é mantido em paralelo no repositório `MrRavier/Pais-ficticio-ravier`.
 
----
-
-# 1. IDENTIDADE DO ESTADO
+## Identidade do Estado
 
 - **Nome curto:** Sintica.
-- **Nome oficial moderno:** Principado de Sintica.
-- **Forma de Estado:** principado soberano hereditário de **monarquia semi-constitucional, com governo parlamentar**.
-- **Dinastia reinante:** Casa de Orbelos.
-- **Território:** equivalente, em geometria moderna, ao atual Município de Novo Selo, Macedônia do Norte.
+- **Nome oficial:** Principado de Sintica.
+- **Capital:** Kerasia.
+- **Forma de Estado:** monarquia semi-constitucional hereditária com governo parlamentar.
+- **Dinastia:** Casa de Orbelos.
+- **Soberano em 2020:** **Mihail I Orbelos**, nascido em 4 de janeiro de 1996.
+- **Território:** aproximadamente 424,8 km², correspondente em geometria moderna ao atual Município de Novo Selo, Macedônia do Norte.
+- **População de referência em 2020:** cerca de 31.000 habitantes.
+- **Religião do Estado:** Cristianismo Ortodoxo.
+- **Língua oficial moderna:** macedônio.
+- **Moeda:** florim sinticano (Sƒ), emitido pelo Banco Nacional de Sintica.
 
-A Coroa não é puramente cerimonial. O governo cotidiano depende do Parlamento, mas o Príncipe conserva prerrogativas constitucionais próprias.
+Sintica é um **microestado**. Percentuais populacionais devem sempre ser entendidos também em números absolutos.
 
----
+## Fundação e soberanos
 
-# 2. FUNDAÇÃO DO ESTADO MODERNO
+- **27 de novembro de 1919:** reconhecimento internacional e fundação política.
+- **9 de agosto de 1920:** soberania jurídica plena e início da ordem constitucional.
 
-A história regional geral permanece próxima da história real até o fim da Primeira Guerra Mundial.
+Soberanos modernos: Teodor I, Aleksandar I, Teodor II, Aleksandar II e Mihail I.
 
-- **27 de novembro de 1919:** reconhecimento internacional e fundação política de Sintica.
-- **9 de agosto de 1920:** soberania jurídica plena e início da ordem constitucional independente.
+Katalin Teleki exerceu a Regência entre 18 de setembro de 2008 e 4 de janeiro de 2014. Mihail passou ao exercício pessoal das prerrogativas aos 18 anos.
 
-A independência é uma alteração localizada do assentamento territorial de Neuilly, não uma reescrita completa das Guerras Balcânicas ou da Primeira Guerra Mundial.
+## Casa de Orbelos em 2020
 
----
+Mihail I é filho de Aleksandar II Orbelos e Katalin Teleki. Sua irmã é **Princesa Maria Ilona Orbelos**, nascida em 17 de agosto de 1999.
 
-# 3. CASA DE ORBELOS E SOBERANOS
+Mihail é casado com **Teodora “Dora” Orbelos**. O casal tem:
 
-## Teodor I Orbelos
+- **Aleksandar Mihail Orbelos**, nascido no fim de 2019;
+- **Sofia Katalin Orbelos**, em gestação durante 2020.
 
-**Teodor I (1871–1962)** é o primeiro Príncipe Soberano moderno.
+Qualquer texto antigo que trate Mihail como soberano anônimo, solteiro ou sem descendência está superado.
 
-Casado com **Maria Economou (1876–1952)**, tem quatro filhos vivos em 1919:
+## Ordem constitucional
 
-- Aleksandar (1896–1982);
-- Sofia (1898);
-- Nikola (1901);
-- Katerina (1905).
+Sintica é uma monarquia semi-constitucional desde 1920. A reforma de 1964 consolidou a forma moderna: governo dependente de confiança parlamentar, prerrogativas próprias da Coroa, veto devolutivo, possibilidade constitucional de dissolução da Assembleia e poderes emergenciais temporários sujeitos a controle institucional.
 
-Teodor não possui Habilidade conhecida. Aleksandar possui `Holdfast`; Katerina possui `Threadline`.
+Em 1993, Sintica adotou primogenitura absoluta para as gerações futuras da Casa de Orbelos.
 
-## Aleksandar I Orbelos
+Durante a Guerra da Hoste de 2019, Mihail concentrou poderes de emergência de forma excepcional. Encerrada a crise, restaurou a ordem semi-constitucional.
 
-Com a morte de Teodor em **1962**, Aleksandar sucede como **Aleksandar I, Príncipe Soberano de Sintica**.
+## Estado confessional e Igreja
 
-É casado desde 1923 com **Eleni Sideri (1900–1977)**, de família grega ortodoxa de Salônica.
+Sintica é um **Estado confessional cristão ortodoxo** com instituições civis e liberdade religiosa protegida.
 
-Filhos:
+A Igreja local é a **Metrópole Ortodoxa Autônoma de Sintica**, em comunhão com e sob jurisdição canônica final do Patriarcado Ecumênico de Constantinopla. Seu chefe é o **Metropolita de Sintica**.
 
-- **Teodor Orbelos (1925–2002)**;
-- **Maria Orbelos (1928– )**;
-- **Konstantin Orbelos (1932– )**.
+O príncipe não é chefe da Igreja.
 
-Aleksandar I morre em **1982**, aos 86 anos.
+Composição religiosa de referência em 2020:
 
-## Teodor II Orbelos
+- ortodoxos: 92,0%;
+- católicos: 3,0%;
+- protestantes e outros cristãos: 1,0%;
+- muçulmanos: 0,8%;
+- judeus: 0,2%;
+- outras/sem religião/não declarados: 3,0%.
 
-Teodor sucede em 1982 como **Teodor II Orbelos, Príncipe Soberano de Sintica** e reina até **2002**.
+## Língua e identidade
 
-Em 1954 casa-se com **Ana Rosetti (1931–2011)**, personagem fictícia de um ramo cadete fictício da histórica família romena Rosetti.
+Sintica **não possui língua artificial própria**.
 
-Filhos:
+A língua oficial moderna é o **macedônio**, escrito em alfabeto cirílico macedônio. A fala cotidiana local preserva traços do dialeto de Strumica e de variedades regionais próximas.
 
-- **Aleksandar Orbelos (1957–2008)**;
-- **Sofia Orbelos (1960– )**;
-- **Nikola Orbelos (1964– )**.
+Grego e aromeno possuem proteção histórica e cultural; búlgaro, turco, romani e outras línguas podem receber proteção local conforme presença real.
 
-Teodor II morre em **6 de abril de 2002**.
+**Sinticano** é gentílico e nacionalidade cívica, não nome de uma língua separada.
 
-## Aleksandar II Orbelos
+A antiga tabela excessivamente fragmentada de percentuais étnicos foi retirada do cânone. Fica fixada apenas uma maioria sul-eslava/macêdonia e pequenas comunidades históricas diversas até que censos coerentes sejam construídos.
 
-Aleksandar sucede o pai em 2002 como **Aleksandar II, Príncipe Soberano de Sintica**.
+## Geografia, população e assentamentos
 
-Em **1994** casa-se com **Katalin Teleki (1968– )**, personagem fictícia de um ramo cadete fictício da histórica família aristocrática húngaro-transilvana Teleki de Szék.
+Sintica ocupa o vale do sistema Strumica e áreas de Belasica e Ogražden. Kerasia é a capital e o maior centro urbano.
 
-Filhos:
+Existem 16 assentamentos canônicos: Kerasia, Kerkini, Livadia, Gabrene, Rupite, Marikostinovo, Akpınar, Çınarlı, Karataş, Rășinari, Săliște, Fântânele, Kővágóörs, Nagybörzsöny, Rosenau e Hirschbach.
 
-- **soberano contemporâneo**, nascido em **4 de janeiro de 1996**;
-- **Princesa Maria Ilona Orbelos**, nascida em **17 de agosto de 1999**.
+A população total de referência em 2020 é de aproximadamente 31 mil habitantes. A série histórica completa de censos ainda não está fechada.
 
-Aleksandar II morre de câncer pancreático em **18 de setembro de 2008**, aos 51 anos. O filho de 12 anos sucede imediatamente.
+## Economia e infraestrutura
 
-A linha contemporânea detalhada está em `canon/SINTICA_MODERN_HOUSE.md`; a árvore da fundação está em `canon/SINTICA_HOUSE_OF_ORBELOS_1919.md`.
+A economia combina serviços, agricultura especializada, comércio, turismo, pequenas manufaturas, construção, logística de fronteira e serviços profissionais.
 
----
+O **florim sinticano (Sƒ)** é emitido pelo Banco Nacional de Sintica. A referência de aproximadamente Sƒ2 por €1 é uma âncora cambial de worldbuilding, não paridade constitucional imutável.
 
-# 4. ORDEM CONSTITUCIONAL
+O antigo domínio fictício `.siq` está **retirado do cânone**. ccTLD, código ISO e outros identificadores internacionais permanecem abertos até serem definidos em conjunto coerente.
 
-Sintica nasce em 1920 como monarquia hereditária semi-constitucional.
+## Educação, saúde e vida civil
 
-A reforma de **1964** estabelece sua forma moderna:
+A educação pública é universal. Kerasia mantém o **Instituto Nacional de Kerasia**, pequeno e orientado a áreas adequadas à escala de um microestado; formações altamente especializadas dependem fortemente de instituições estrangeiras.
 
-- o Príncipe nomeia o primeiro-ministro, mas o gabinete precisa de confiança parlamentar;
-- a Coroa conserva dissolução constitucional da Assembleia, com novas eleições obrigatórias;
-- existe veto devolutivo/suspensivo;
-- tratados relevantes exigem ratificação parlamentar;
-- poderes emergenciais são temporários, contrassinados e sujeitos a ratificação;
-- o soberano conserva comando supremo, funções próprias de política externa e possibilidade de solicitar revisão de constitucionalidade.
+O **Hospital Nacional de Kerasia** é o principal hospital do país. A saúde é universal e a medicina extraordinária está integrada há décadas.
 
-Em **1993**, Sintica adota **primogenitura absoluta** para as gerações futuras da Casa de Orbelos. A sucessão moderna passa a seguir a ordem de nascimento independentemente do sexo, sem alteração retroativa de reinados anteriores.
+## Segurança e defesa
 
-Entre **18 de setembro de 2008 e 4 de janeiro de 2014**, a mãe do soberano menor, Katalin Teleki, exerce a Regência. A Regência não suspende Parlamento, governo ou Judiciário e termina automaticamente aos 18 anos do soberano.
+Sintica mantém estruturas civis de polícia, investigação, fronteira, segurança do Estado e proteção extraordinária.
 
-Sintica permanece entre monarquia parlamentar clássica e monarquia de poder pessoal: o Príncipe possui poder real, mas juridicamente limitado.
+As Forças de Defesa de Sintica são pequenas e territoriais. O antigo valor de 450 profissionais + 1.200 reservistas é tratado como **teto aproximado de planejamento**, não como efetivo diário rígido.
 
----
+A Guarda Real é corpo separado de proteção da Coroa e de instalações constitucionais, com funções cerimoniais e operacionais.
 
-# 5. IDENTIDADE MULTILÍNGUE
+## Tradição extraordinária
 
-Sintica desenvolve identidade nacional própria sem apagar as comunidades históricas que participaram de sua formação.
+A existência de Sintica não é causada por Habilidades. A tradição de resposta extraordinária é anterior à Guerra da Hoste.
 
-Topônimos, idiomas e tradições podem receber proteção estatal mesmo quando a comunidade de origem se torna pequena. A política detalhada permanece no repositório nacional.
+Marcos principais: Corpo Cívico de Socorro (1931), Estatuto de Intervenção Extraordinária Pública (1950), licenciamento civil (1954), Código de Responsabilidade Extraordinária (1969), Diretoria de Proteção Extraordinária (1984), credenciais temporárias estrangeiras (2004) e integração do 112 com proteção de dados (2012).
 
----
+## Cronologia recente
 
-# 6. SINTICA E A ERA HEROICA
+- **2014:** Mihail assume pessoalmente as prerrogativas aos 18 anos.
+- **2017:** reforma visual de corpos do Estado.
+- **2018:** insurgência de Boris Valkanov; Boris é capturado. Mihail pede Dora em casamento uma semana depois.
+- **fim de 2018/início de 2019:** casamento de Mihail e Dora.
+- **2019:** Guerra da Hoste/Kheruun. Mihail mata o último Superior no mundo vermelho/extradimensional; a Hoste na Terra colapsa.
+- **fim de 2019:** nasce Aleksandar Mihail Orbelos.
+- **2020:** presente narrativo. COVID-19; Dora está grávida de Sofia Katalin.
 
-A existência de Sintica **não é causada por Habilidades extraordinárias**.
+Arquivos antigos com `2022` e `2023` no nome podem continuar contendo eventos válidos, mas suas **datas de filename são obsoletas** quando contrariem o retcon mestre 2019–2020.
 
-Pessoas extraordinárias fazem parte da história política, militar, médica, policial e civil da mesma forma que no restante do universo.
+## Neutralidade e relações exteriores
 
-Marcos institucionais principais:
+Sintica preserva neutralidade militar, participa do processo da CSCE, assina o Ato Final de Helsinki em 1975 na continuidade fictícia, entra no Conselho da Europa em 1978 e nas Nações Unidas em 1990, reconhece a República da Macedônia em 1992 e permanece fora da UE e da OTAN em 2020.
 
-- anos 1920: registro de incidentes extraordinários, sem cadastro universal de pessoas;
-- 1931: Corpo Cívico de Socorro;
-- 1950: Estatuto de Intervenção Extraordinária Pública;
-- 1954: licenciamento civil de atividade heroica/protetiva;
-- **1963:** missão de socorro ao terremoto de Skopje;
-- **1969:** Código de Responsabilidade Extraordinária;
-- **1976–77:** regras de publicidade, patrocínio e comercialização de heróis;
-- **1984:** criação da **Diretoria de Proteção Extraordinária**, responsável por licenças, seguros, relatórios, equipamentos e coordenação institucional;
-- anos 1990: informatização gradual de licenças, reforço de privacidade e regras para missões humanitárias internacionais;
-- **2001:** emprego de heróis e socorristas em apoio civil durante a crise na Macedônia vizinha, sem participação autônoma no conflito;
-- **2004:** credenciais temporárias para profissionais extraordinários estrangeiros em emergências autorizadas;
-- **2012:** consolidação do **112** como despacho integrado e reforço jurídico da privacidade de dados relacionados a Habilidades.
+## Regra de sincronização e precedência
 
-Sintica regula a **atividade profissional e o risco**, não a simples existência de uma Habilidade.
+Sintica é mantida em dois repositórios:
 
-O desenvolvimento de 1961–1980 está em `canon/SINTICA_COLD_WAR_1961_1980.md`, o período 1981–2000 em `canon/SINTICA_LATE_COLD_WAR_1981_2000.md` e 2001–2014 em `canon/SINTICA_2001_2014.md`.
+1. `MrRavier/Pais-ficticio-ravier`;
+2. `MrRavier/Hero-universe-ravier`.
 
----
+Decisões estruturais devem ser registradas em ambos.
 
-# 7. CORTE, GRAND HOTEL E VIDA SOCIAL
+Em caso de conflito, prevalecem os documentos mais recentes explicitamente marcados como cânone ativo/retcon, especialmente os arquivos de cronologia 2019–2020, Estado confessional, estrutura da Igreja e perfis nacionais de 2020.
 
-O **Grand Hotel Sintica**, inaugurado em 1928, continua símbolo nacional ao longo do século XX e início do XXI.
+Este arquivo substitui a antiga versão de `SINTICA.md` centrada em 2014 e no soberano ainda anônimo.
 
-Sua estética é estratificada: neo-barroco, ecletismo, Secession e Art Déco convivem depois com elevadores modernos, carpetes sintéticos, iluminação embutida, televisores e intervenções dos anos 1950–70.
+## Elementos ainda abertos
 
-No fim dos anos 1980 começa nova restauração patrimonial. Ao final dos anos 1990, elementos históricos recuperados convivem deliberadamente com marcas de reformas anteriores.
-
-A Casa de Orbelos mantém tradição de bailes, galas, recepções, concertos e beneficência. Heróis e socorristas podem participar, mas Habilidades não determinam precedência social.
-
-Em **4 de janeiro de 2014**, a maioridade constitucional do soberano é marcada por sessão solene, cerimônias de Estado e uma **Gala da Maioridade** no Grand Hotel. Isso não constitui nova ascensão: ele reina desde 2008.
-
-O desenvolvimento completo da cultura de corte está em `canon/SINTICA_COURT_CULTURE.md`.
-
----
-
-# 8. NEUTRALIDADE E INTEGRAÇÃO EUROPEIA
-
-Sintica preserva neutralidade militar durante e depois da Guerra Fria.
-
-- não entra no Movimento dos Não Alinhados em 1961;
-- participa do processo da CSCE;
-- na continuidade fictícia, assina o **Ato Final de Helsinki de 1975** como o 36º Estado participante;
-- em **1978**, ingressa no **Conselho da Europa**;
-- em **1990**, ingressa nas **Nações Unidas**;
-- em **1992**, reconhece a República da Macedônia sem reivindicações territoriais;
-- entre **2003 e 2014**, segue integração regulatória e econômica setorial com a Europa sem apresentar candidatura formal à União Europeia;
-- em **2007**, a entrada da Bulgária na UE deixa Grécia e Bulgária, dois dos três vizinhos sinticanos, dentro da União Europeia.
-
-Sintica permanece fora da **UE e da OTAN em 2014**. A neutralidade militar não impede acordos civis, comércio, intercâmbio, cooperação de fronteira ou compatibilidade regulatória.
-
-A crise macedônia de 2001, a independência do Kosovo em 2008, o impasse da Macedônia na cúpula de Bucareste, a crise financeira mundial e a crise grega de 2010 afetam o principado sem destruir sua ordem constitucional.
-
----
-
-# 9. SOBERANO CONTEMPORÂNEO — FAMÍLIA E LIMITES
-
-O soberano que ocupa o trono no **presente narrativo de 2014** continua parcialmente reservado ao autor, mas sua família imediata e cadeia sucessória estão definidas.
-
-Fatos canônicos:
-
-- nasceu em **4 de janeiro de 1996**;
-- é filho de **Aleksandar II Orbelos** e **Katalin Teleki**;
-- é o primogênito do casal;
-- tem uma irmã mais nova, **Princesa Maria Ilona Orbelos (1999– )**;
-- torna-se Príncipe Herdeiro em 2002;
-- sucede ao pai aos **12 anos**, em **18 de setembro de 2008**;
-- sua mãe torna-se **Princesa-Regente** e exerce a Regência até **4 de janeiro de 2014**;
-- em 4 de janeiro de 2014, ao completar 18 anos, assume pessoalmente as prerrogativas da Coroa;
-- em 2025 completa 29 anos;
-- Maria Ilona é herdeira presumptiva enquanto ele não tiver descendência própria.
-
-Depois de 4 de janeiro de 2014, Katalin permanece **Princesa Katalin de Sintica, mãe do soberano e antiga Princesa-Regente**, sem poder constitucional automático ou co-regência informal.
-
-No início da história de Thomas, o Príncipe possui 18 anos e está em seu primeiro ano de exercício pessoal da Coroa, embora o reinado tenha começado seis anos antes.
-
-Permanecem não definidos para o soberano: **nome, aparência, Habilidade, personalidade, educação detalhada, opiniões políticas, casamento ou vida amorosa, popularidade, relação emocional com a família e estilo de governo**.
-
-Enquanto não houver retcon explícito, a dignidade constitucional permanece **Príncipe Soberano de Sintica**.
-
----
-
-# 10. REGRA DE SINCRONIZAÇÃO
-
-Sintica é um projeto compartilhado entre:
-
-1. `MrRavier/Pais-ficticio-ravier` — fonte detalhada para história nacional, território, dinastia, política e sociedade;
-2. `MrRavier/Hero-universe-ravier` — fonte de integração ao universo heroico.
-
-Decisões estruturais sobre território, história, regime, dinastia, população, línguas, instituições nacionais ou tradição heroica devem ser registradas nos **dois repositórios**.
-
----
-
-# 11. CRONOLOGIA CANÔNICA DISPONÍVEL
-
-- `canon/SINTICA_INTERWAR_1920_1939.md`
-- `canon/SINTICA_WWII_1940_1945.md`
-- `canon/SINTICA_EARLY_COLD_WAR_1946_1960.md`
-- `canon/SINTICA_COLD_WAR_1961_1980.md`
-- `canon/SINTICA_LATE_COLD_WAR_1981_2000.md`
-- `canon/SINTICA_2001_2014.md`
-
----
-
-# 12. ELEMENTOS AINDA ABERTOS
-
-- demografia histórica detalhada;
-- línguas oficiais e níveis de cooficialidade;
-- assentamentos e formas multilíngues definitivas;
-- desenho fino das instituições contemporâneas;
-- heróis históricos individuais ainda não definidos;
-- para o soberano contemporâneo: nome, aparência, Habilidade, personalidade, educação detalhada, opiniões políticas, popularidade, vida amorosa, relações emocionais e estilo pessoal de governo.
+- série histórica completa de censos;
+- percentuais étnicos detalhados;
+- história exata da adoção do macedônio padrão;
+- nome definitivo da catedral metropolitana e rede eclesiástica detalhada;
+- desenho fino da Constituição contemporânea;
+- símbolos nacionais definitivos e códigos internacionais;
+- efetivos anuais exatos das estruturas de segurança e defesa;
+- heróis históricos individuais ainda não definidos.
