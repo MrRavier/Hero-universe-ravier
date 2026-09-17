@@ -2,23 +2,28 @@
 
 **Documento-mestre de cânone ativo — presente narrativo: 2020.**
 
-Este arquivo integra o **Principado de Sintica** ao universo compartilhado de *The Extraordinary World*. O desenvolvimento histórico detalhado do país é mantido em paralelo no repositório `MrRavier/Pais-ficticio-ravier`.
+Este arquivo integra o **Principado de Sintica** ao universo compartilhado de *The Extraordinary World*. O desenvolvimento histórico detalhado do país é mantido em paralelo em `MrRavier/Pais-ficticio-ravier`.
 
 ## Identidade do Estado
 
-- **Nome curto:** Sintica.
-- **Nome oficial:** Principado de Sintica.
-- **Capital:** Kerasia.
-- **Forma de Estado:** monarquia semi-constitucional hereditária com governo parlamentar.
-- **Dinastia:** Casa de Orbelos.
-- **Soberano em 2020:** **Mihail I Orbelos**, nascido em 4 de janeiro de 1996.
-- **Território:** aproximadamente 424,8 km², correspondente em geometria moderna ao atual Município de Novo Selo, Macedônia do Norte.
-- **População de referência em 2020:** cerca de 31.000 habitantes.
-- **Religião do Estado:** Cristianismo Ortodoxo.
-- **Língua oficial moderna:** macedônio.
-- **Moeda:** florim sinticano (Sƒ), emitido pelo Banco Nacional de Sintica.
+- Nome curto: **Sintica**.
+- Nome oficial: **Principado de Sintica**.
+- Forma local oficial: **Кнежевство Синтика**.
+- Capital: **Kerasia**.
+- Forma de Estado: monarquia semi-constitucional hereditária com governo parlamentar.
+- Dinastia: Casa de Orbelos.
+- Soberano em 2020: **Mihail I Orbelos**, nascido em 4 de janeiro de 1996.
+- Território: aproximadamente **424,8 km²**, equivalente em geometria moderna à atual municipalidade de Novo Selo.
+- População de referência em 2020: cerca de **31.000 habitantes**.
+- Religião do Estado: **Cristianismo Ortodoxo**.
+- Igreja: **Metrópole Ortodoxa Autônoma de Sintica**, sob jurisdição canônica final do Patriarcado Ecumênico.
+- Língua oficial: **sinticano**, padrão sul-eslavo muito próximo de macedônio e búlgaro; sem necessidade de conlang completa.
+- Moeda: **florim sinticano (Sƒ)**.
+- ISO fictício: **SQ / SIQ**.
+- ccTLD: **.sq**.
+- Código telefônico: **+384**.
 
-Sintica é um **microestado**. Percentuais populacionais devem sempre ser entendidos também em números absolutos.
+Sintica é um **microestado**; estatísticas devem sempre ser lidas também em números absolutos.
 
 ## Fundação e soberanos
 
@@ -31,124 +36,114 @@ Katalin Teleki exerceu a Regência entre 18 de setembro de 2008 e 4 de janeiro d
 
 ## Casa de Orbelos em 2020
 
-Mihail I é filho de Aleksandar II Orbelos e Katalin Teleki. Sua irmã é **Princesa Maria Ilona Orbelos**, nascida em 17 de agosto de 1999.
+Mihail é casado com **Teodora “Dora” Orbelos**. O casal tem **Aleksandar Mihail Orbelos**, nascido no fim de 2019, e espera **Sofia Katalin Orbelos** em 2020.
 
-Mihail é casado com **Teodora “Dora” Orbelos**. O casal tem:
+Textos antigos que deixem Mihail anônimo, solteiro ou sem descendência estão superados.
 
-- **Aleksandar Mihail Orbelos**, nascido no fim de 2019;
-- **Sofia Katalin Orbelos**, em gestação durante 2020.
+## Constituição
 
-Qualquer texto antigo que trate Mihail como soberano anônimo, solteiro ou sem descendência está superado.
+A **Assembleia Nacional de Sintica** possui **25 deputados**, mandato de 4 anos, sufrágio aos 18, circunscrição nacional única, representação proporcional por listas, método D’Hondt e cláusula de 4%.
 
-## Ordem constitucional
+O Príncipe nomeia o primeiro-ministro, mas o governo depende de confiança parlamentar. A Coroa conserva veto suspensivo, dissolução constitucional com novas eleições, comando supremo formal, funções próprias de política externa, credenciamento diplomático e pedido de revisão constitucional.
 
-Sintica é uma monarquia semi-constitucional desde 1920. A reforma de 1964 consolidou a forma moderna: governo dependente de confiança parlamentar, prerrogativas próprias da Coroa, veto devolutivo, possibilidade constitucional de dissolução da Assembleia e poderes emergenciais temporários sujeitos a controle institucional.
-
-Em 1993, Sintica adotou primogenitura absoluta para as gerações futuras da Casa de Orbelos.
-
-Durante a Guerra da Hoste de 2019, Mihail concentrou poderes de emergência de forma excepcional. Encerrada a crise, restaurou a ordem semi-constitucional.
+O Judiciário compreende Tribunal de Primeira Instância, Câmara de Apelação, Supremo Tribunal e **Tribunal Constitucional com 5 juízes**.
 
 ## Estado confessional e Igreja
 
-Sintica é um **Estado confessional cristão ortodoxo** com instituições civis e liberdade religiosa protegida.
+Sintica é um **Estado confessional cristão ortodoxo**, sem ser teocracia. Parlamento, governo e tribunais são civis, e a liberdade religiosa é protegida.
 
-A Igreja local é a **Metrópole Ortodoxa Autônoma de Sintica**, em comunhão com e sob jurisdição canônica final do Patriarcado Ecumênico de Constantinopla. Seu chefe é o **Metropolita de Sintica**.
+A Igreja local é a **Metrópole Ortodoxa Autônoma de Sintica**. Sua autonomia foi formalizada por Tomos de **14 de setembro de 1927**. A sede é a **Catedral Metropolitana de São Clemente de Ohrid**, em Kerasia. Em 2020 o primaz é **Naum II, Metropolita de Sintica**.
 
 O príncipe não é chefe da Igreja.
 
-Composição religiosa de referência em 2020:
-
-- ortodoxos: 92,0%;
-- católicos: 3,0%;
-- protestantes e outros cristãos: 1,0%;
-- muçulmanos: 0,8%;
-- judeus: 0,2%;
-- outras/sem religião/não declarados: 3,0%.
+Composição religiosa de referência: 92% ortodoxos, 3% católicos, 1% protestantes/outros cristãos, 0,8% muçulmanos, 0,2% judeus e 3% outras/sem religião/não declarados.
 
 ## Língua e identidade
 
-Sintica **não possui língua artificial própria**.
+**Sinticano** é simultaneamente o gentílico/nacionalidade cívica e o nome da língua oficial.
 
-A língua oficial moderna é o **macedônio**, escrito em alfabeto cirílico macedônio. A fala cotidiana local preserva traços do dialeto de Strumica e de variedades regionais próximas.
+A língua sinticana é tratada como padrão estatal sul-eslavo próprio, linguisticamente muito próximo do continuum macedônio-búlgaro. O projeto **não exige criação de gramática ou dicionário fictícios**. Quando uma frase concreta for necessária, macedônio padrão pode funcionar como aproximação editorial prática.
 
-Grego e aromeno possuem proteção histórica e cultural; búlgaro, turco, romani e outras línguas podem receber proteção local conforme presença real.
+Grego, aromeno, búlgaro, turco, romani e outras línguas recebem proteção conforme presença histórica/local.
 
-**Sinticano** é gentílico e nacionalidade cívica, não nome de uma língua separada.
+## Geografia e assentamentos
 
-A antiga tabela excessivamente fragmentada de percentuais étnicos foi retirada do cânone. Fica fixada apenas uma maioria sul-eslava/macêdonia e pequenas comunidades históricas diversas até que censos coerentes sejam construídos.
+Sintica ocupa o sistema do vale do Strumica, com Belasica ao sul e Ogražden ao norte.
 
-## Geografia, população e assentamentos
+Os 16 assentamentos canônicos são: Kerasia, Kerkini, Livadia, Gabrene, Rupite, Marikostinovo, Akpınar, Çınarlı, Karataş, Rășinari, Săliște, Fântânele, Kővágóörs, Nagybörzsöny, Rosenau e Hirschbach.
 
-Sintica ocupa o vale do sistema Strumica e áreas de Belasica e Ogražden. Kerasia é a capital e o maior centro urbano.
+A chave cartográfica detalhada está em `SINTICA_INTERNAL_MAP_AND_INFRASTRUCTURE_KEY_2020.md`.
 
-Existem 16 assentamentos canônicos: Kerasia, Kerkini, Livadia, Gabrene, Rupite, Marikostinovo, Akpınar, Çınarlı, Karataş, Rășinari, Săliște, Fântânele, Kővágóörs, Nagybörzsöny, Rosenau e Hirschbach.
+## Símbolos
 
-A população total de referência em 2020 é de aproximadamente 31 mil habitantes. A série histórica completa de censos ainda não está fechada.
+- Bandeira civil: tribanda horizontal bordô–branco/marfim–bordô, proporção 1:2.
+- Bandeira de Estado: mesma tribanda com brasão reduzido ao centro.
+- Brasão: montanhas de Belasica/Ogražden, curso do Strumica e estrela dourada de oito pontas; coroa principesca na versão completa.
+- Lema: **Вера, слобода, слога** — “Fé, liberdade, concórdia”.
+- Hino: **Под Беласица** (“Sob Belasica”), oficializado musicalmente em 1924.
 
 ## Economia e infraestrutura
 
-A economia combina serviços, agricultura especializada, comércio, turismo, pequenas manufaturas, construção, logística de fronteira e serviços profissionais.
+A economia combina serviços, agricultura especializada, comércio, turismo, pequenas manufaturas, construção e logística de fronteira.
 
-O **florim sinticano (Sƒ)** é emitido pelo Banco Nacional de Sintica. A referência de aproximadamente Sƒ2 por €1 é uma âncora cambial de worldbuilding, não paridade constitucional imutável.
+O **Banco Nacional de Sintica** emite o florim. A referência de Sƒ2 por €1 é âncora cambial de worldbuilding, não paridade constitucional imutável.
 
-O antigo domínio fictício `.siq` está **retirado do cânone**. ccTLD, código ISO e outros identificadores internacionais permanecem abertos até serem definidos em conjunto coerente.
+Principais eixos: **N1** leste–oeste e **N2** meridional. Não existe ferrovia nacional interna.
 
-## Educação, saúde e vida civil
+O **Aeroporto Nacional de Kerasia** possui pista de aproximadamente 1.650 m e atende turboélices regionais, aviação executiva, estatal, médica e charter limitado.
 
-A educação pública é universal. Kerasia mantém o **Instituto Nacional de Kerasia**, pequeno e orientado a áreas adequadas à escala de um microestado; formações altamente especializadas dependem fortemente de instituições estrangeiras.
+## Saúde, educação e serviços
 
-O **Hospital Nacional de Kerasia** é o principal hospital do país. A saúde é universal e a medicina extraordinária está integrada há décadas.
+O **Hospital Nacional de Kerasia** possui cerca de 120 leitos e rede de atenção primária. Casos de alta complexidade podem ser transferidos ao exterior.
+
+O **Instituto Nacional de Kerasia** concentra ensino superior compatível com a escala do país; medicina completa, engenharia avançada e várias pós-graduações dependem de instituições estrangeiras.
+
+Serviços nacionais incluem Sintica Energia e Água, Sintica Telecom, Correios de Sintica, Agência Nacional de Estradas, Autoridade de Aviação Civil e Sintica Transit.
 
 ## Segurança e defesa
 
-Sintica mantém estruturas civis de polícia, investigação, fronteira, segurança do Estado e proteção extraordinária.
+Em 2020 a segurança inclui Polícia Nacional, Polícia Criminal, Polícia Municipal de Kerasia, Gendarmaria Rural, Guarda de Fronteira, Serviço Prisional, Diretoria de Segurança do Estado e Diretoria de Proteção Extraordinária.
 
-As Forças de Defesa de Sintica são pequenas e territoriais. O antigo valor de 450 profissionais + 1.200 reservistas é tratado como **teto aproximado de planejamento**, não como efetivo diário rígido.
+As Forças de Defesa mantêm cerca de **330–350 profissionais**, ~800 reservistas regulares e até ~400 suplementares em mobilização ampla. Não possuem caças, tanques pesados ou grande artilharia. A Guarda Real permanece separada.
 
-A Guarda Real é corpo separado de proteção da Coroa e de instalações constitucionais, com funções cerimoniais e operacionais.
+## Mídia, esporte e feriados
+
+Mídia nacional: RTS, Agência Sinticana de Notícias, Gazeta de Kerasia, Crônica de Sintica e Rádio Belasica.
+
+O Estádio Nacional de Kerasia possui cerca de 6.500 lugares. Clubes recorrentes incluem FK Kerasia, Belasica AC e Kerkini Handball Club.
+
+Feriados principais: 1 jan.; 7 jan.; Páscoa Ortodoxa; 1 maio; 24 maio; **9 agosto — Dia da Soberania**; **27 novembro — Dia da Fundação e Reconhecimento**; **8 dezembro — São Clemente de Ohrid**.
 
 ## Tradição extraordinária
 
-A existência de Sintica não é causada por Habilidades. A tradição de resposta extraordinária é anterior à Guerra da Hoste.
-
-Marcos principais: Corpo Cívico de Socorro (1931), Estatuto de Intervenção Extraordinária Pública (1950), licenciamento civil (1954), Código de Responsabilidade Extraordinária (1969), Diretoria de Proteção Extraordinária (1984), credenciais temporárias estrangeiras (2004) e integração do 112 com proteção de dados (2012).
+A existência de Sintica não é causada por Habilidades. A tradição de resposta extraordinária é antiga: Corpo Cívico de Socorro (1931), Estatuto de Intervenção Extraordinária Pública (1950), licenciamento civil (1954), Código de Responsabilidade Extraordinária (1969), Diretoria de Proteção Extraordinária (1984), credenciais estrangeiras (2004) e integração do 112 com proteção de dados (2012).
 
 ## Cronologia recente
 
-- **2014:** Mihail assume pessoalmente as prerrogativas aos 18 anos.
-- **2017:** reforma visual de corpos do Estado.
-- **2018:** insurgência de Boris Valkanov; Boris é capturado. Mihail pede Dora em casamento uma semana depois.
-- **fim de 2018/início de 2019:** casamento de Mihail e Dora.
-- **2019:** Guerra da Hoste/Kheruun. Mihail mata o último Superior no mundo vermelho/extradimensional; a Hoste na Terra colapsa.
-- **fim de 2019:** nasce Aleksandar Mihail Orbelos.
-- **2020:** presente narrativo. COVID-19; Dora está grávida de Sofia Katalin.
+- 2014: Mihail assume pessoalmente as prerrogativas.
+- 2017: reforma visual de corpos do Estado.
+- 2018: insurgência e captura de Boris Valkanov; noivado de Mihail e Dora.
+- fim de 2018/início de 2019: casamento.
+- **2019:** Guerra da Hoste/Kheruun; morte do último Superior; desaparecimento da Hoste terrestre; restauração semi-constitucional.
+- fim de 2019: nascimento de Aleksandar Mihail.
+- **2020:** presente narrativo; COVID-19; Dora grávida de Sofia Katalin.
 
-Arquivos antigos com `2022` e `2023` no nome podem continuar contendo eventos válidos, mas suas **datas de filename são obsoletas** quando contrariem o retcon mestre 2019–2020.
+Arquivos antigos com 2022/2023 no nome devem ser lidos conforme `SINTICA_LEGACY_DATE_MIGRATION_2019_2020.md`.
 
-## Neutralidade e relações exteriores
+## Relações exteriores
 
-Sintica preserva neutralidade militar, participa do processo da CSCE, assina o Ato Final de Helsinki em 1975 na continuidade fictícia, entra no Conselho da Europa em 1978 e nas Nações Unidas em 1990, reconhece a República da Macedônia em 1992 e permanece fora da UE e da OTAN em 2020.
+Sintica preserva neutralidade militar, assina o Ato Final de Helsinki em 1975 na continuidade fictícia, entra no Conselho da Europa em 1978 e na ONU em 1990, reconhece a República da Macedônia em 1992 e permanece fora da UE e da OTAN em 2020.
 
-## Regra de sincronização e precedência
+## Arquivos estruturais de referência
 
-Sintica é mantida em dois repositórios:
+- `SINTICA_COUNTRY_PROFILE_GEOGRAPHY_DEMOGRAPHY_ECONOMY_2020.md`
+- `SINTICA_COUNTRY_PROFILE_SOCIAL_INSTITUTIONS_CULTURE_2020.md`
+- `SINTICA_NATIONAL_SYSTEMS_AND_DAILY_STATE_2020.md`
+- `SINTICA_ORTHODOX_CHURCH_STRUCTURE_2020.md`
+- `SINTICA_ORTHODOX_CHURCH_COMPLETION_1920_2020.md`
+- `SINTICA_INTERNAL_MAP_AND_INFRASTRUCTURE_KEY_2020.md`
+- `SINTICA_LEGACY_DATE_MIGRATION_2019_2020.md`
 
-1. `MrRavier/Pais-ficticio-ravier`;
-2. `MrRavier/Hero-universe-ravier`.
+## Ainda deliberadamente aberto
 
-Decisões estruturais devem ser registradas em ambos.
-
-Em caso de conflito, prevalecem os documentos mais recentes explicitamente marcados como cânone ativo/retcon, especialmente os arquivos de cronologia 2019–2020, Estado confessional, estrutura da Igreja e perfis nacionais de 2020.
-
-Este arquivo substitui a antiga versão de `SINTICA.md` centrada em 2014 e no soberano ainda anônimo.
-
-## Elementos ainda abertos
-
-- série histórica completa de censos;
-- percentuais étnicos detalhados;
-- história exata da adoção do macedônio padrão;
-- nome definitivo da catedral metropolitana e rede eclesiástica detalhada;
-- desenho fino da Constituição contemporânea;
-- símbolos nacionais definitivos e códigos internacionais;
-- efetivos anuais exatos das estruturas de segurança e defesa;
-- heróis históricos individuais ainda não definidos.
+Ficam abertos apenas elementos que não precisam ser fixados para o país funcionar: percentuais étnicos exatos por comunidade, nomes de titulares secundários que mudam com eleições, letras integrais do hino, desenho gráfico final do brasão/bandeira e heróis históricos individuais ainda não criados.
