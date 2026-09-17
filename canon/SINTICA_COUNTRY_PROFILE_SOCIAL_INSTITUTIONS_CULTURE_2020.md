@@ -22,7 +22,7 @@ A antiga tabela percentual extremamente fragmentada de etnias fica **retirada do
 
 Em 2020, o que está fixado é:
 
-- maioria sul-eslava/macêdonia;
+- maioria sul-eslava local;
 - pequenas comunidades históricas aromenas, gregas, búlgaras, turcas, Roma e outras;
 - casamentos mistos e identidades familiares sobrepostas são comuns;
 - a existência de topônimos gregos, búlgaros, turcos, romenos, húngaros e germanófonos não implica comunidades contemporâneas grandes nessas proporções.
@@ -31,15 +31,17 @@ Percentuais étnicos detalhados só voltarão a ser fixados quando houver série
 
 ## 3. Língua
 
-Sintica **não possui língua artificial própria**.
+A língua oficial moderna do Estado chama-se **sinticano**.
 
-A língua oficial moderna do Estado é o **macedônio**, escrito em alfabeto cirílico macedônio. O falar cotidiano local conserva características do dialeto de Strumica e de variedades regionais próximas.
+O sinticano **não é uma língua artificial que precise ser construída do zero para o projeto**. Dentro do universo, trata-se de um padrão sul-eslavo nacional próprio, desenvolvido a partir das variedades locais da região de Strumica e do contínuo dialetal macedônio-búlgaro. É muito próximo do macedônio e do búlgaro e apresenta alto grau de inteligibilidade com os padrões vizinhos, mas possui nome, tradição escolar e status estatal próprios em Sintica.
+
+A separação entre sinticano, macedônio e búlgaro é entendida tanto em termos de padronização e história política quanto de diferenças linguísticas, de forma comparável a outros padrões nacionais sul-eslavos muito próximos entre si.
+
+O sinticano usa **alfabeto cirílico**. Para fins práticos de escrita do universo, **o macedônio padrão real funciona como substituto editorial do sinticano** quando for necessário mostrar frases, documentos ou grafia local. Não é necessário inventar gramática, vocabulário ou ortografia completos. Pequenos regionalismos podem existir narrativamente sem exigir uma conlang.
 
 O Estado usa transliteração latina padronizada em passaportes, turismo, aviação, sinalização internacional e sistemas digitais.
 
-Grego e aromeno possuem proteção histórica e cultural; búlgaro, turco, romani e outras línguas podem receber proteção local, educacional ou patrimonial conforme presença real da comunidade.
-
-A adoção do macedônio padrão no Estado moderno é posterior à sua codificação no século XX; os usos administrativos anteriores a essa padronização permanecem matéria histórica própria e não exigem a criação de uma língua sinticana fictícia.
+Grego e aromeno possuem proteção histórica e cultural; búlgaro, macedônio, turco, romani e outras línguas podem receber proteção local, educacional ou patrimonial conforme presença real da comunidade.
 
 ## 4. Religião e Estado confessional
 
@@ -82,7 +84,7 @@ Kerasia mantém uma pequena instituição superior pública, o **Instituto Nacio
 
 Sintica depende de bolsas e acordos externos para medicina completa, engenharia avançada e grande parte da pós-graduação.
 
-A língua principal de ensino é o macedônio, com oferta de línguas comunitárias onde houver demanda e viabilidade.
+A língua principal de ensino é o **sinticano**, com oferta de línguas comunitárias onde houver demanda e viabilidade.
 
 ## 8. Saúde
 
@@ -124,7 +126,8 @@ Da mesma forma, códigos ISO, prefixo aeronáutico e outros identificadores inte
 
 Este arquivo prevalece sobre versões anteriores que:
 
-- criavam uma língua artificial chamada “sinticano”;
+- tratavam **macedônio** como o nome oficial da língua nacional de Sintica;
+- exigiam a criação de uma conlang sinticana completa;
 - descreviam Sintica como Estado secular;
 - fixavam muçulmanos em 8% da população;
 - tratavam percentuais étnicos muito fragmentados como definitivos;
