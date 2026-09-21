@@ -1,6 +1,8 @@
 # NORTHBOUND — MIHAIL NO CANADÁ (2014–2015)
 
-**Documento de cânone ativo.**
+**Documento de cânone histórico ativo.**
+
+**Historical-snapshot note:** this file describes the 2014–2015 arc from that period's perspective. Later files define Mihail's return, marriage, 2019 Host War and 2020 present.
 
 Este arquivo fixa os elementos já aprovados do arco canadense de Mihail I no universo compartilhado. Pontos explicitamente marcados como abertos não devem ser inventados por documentos anteriores.
 
@@ -16,7 +18,7 @@ O momento e a forma de seu retorno a Sintica permanecem **abertos ao autor**.
 
 ## 2. Thomas e o núcleo de Northbound
 
-Thomas já estuda no Pacific Response e não possui função especial em relação a Mihail. Os dois se aproximam por convivência, treinamento, ocorrências e perigo compartilhado.
+Thomas já estuda no Pacific Response, tem **18 anos** no início de 2014 e não possui função especial em relação a Mihail. Os dois se aproximam por convivência, treinamento, ocorrências e perigo compartilhado.
 
 O núcleo canônico da instituição continua incluindo:
 
