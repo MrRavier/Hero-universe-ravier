@@ -309,3 +309,31 @@ A inspiração de tom combina, aproximadamente:
 Essas referências são qualidades gerais. **Não autorizam copiar personagens, poderes, organizações ou tramas específicas.**
 
 Uma premissa pode ser absurda e ainda ser tratada com perigo, emoção ou drama reais.
+
+
+---
+
+# 16. EXPANSÕES DE CÂNONE ATIVO POSTERIORES
+
+Além do núcleo de Northbound acima, documentos posteriores marcados como **cânone ativo** reintroduzem e desenvolvem outros setores do universo sem restaurar automaticamente o legado pré-reboot.
+
+Entre as expansões atualmente ativas estão:
+
+- **Sintica** e a Casa de Orbelos, com presente narrativo em 2020;
+- a **Guerra da Hoste/Kheruun em 2019**, conforme o retcon cronológico vigente;
+- Mihail I, suas Habilidades atuais, magia aprendida e desenvolvimento pós-guerra;
+- Thomas e Evie como casal no período pós-guerra e a gravidez vespiforme de seis ovos em 2020;
+- o arco europeu de Adrien em 2020;
+- a **equipe extraordinária internacional** e seus antagonistas já registrados.
+
+Arquivos centrais desta expansão incluem:
+
+- `canon/SINTICA.md`;
+- `canon/MASTER_TIMELINE_RETCON_2019_2020.md`;
+- `canon/SINTICA_CONTEMPORARY_PRINCE_ABILITIES.md`;
+- `canon/MIHAIL_RED_WORLD_RETURN_HELIUM_AND_MATTER_TESTS_2020.md`;
+- `canon/EVIE_VESPIFORM_PREGNANCY_SIX_EGGS_AND_PANDEMIC_2020.md`;
+- `canon/ADRIEN_SIBERIA_CRIME_NETWORK_SUBPLOT_2020.md`;
+- `canon/INTERNATIONAL_TEAM_INITIAL_ROSTER_AND_CHIMERA.md`.
+
+A existência dessas histórias maiores não altera a regra de escala do universo: crises globais podem coexistir com histórias locais, profissionais e cotidianas.
