@@ -2,6 +2,8 @@
 
 **Documento de cânone ativo.**
 
+**Nota de precedência: este arquivo é um snapshot histórico de 2014. O presente narrativo vigente é 2020; use os dossiês contemporâneos de 2020 para família, casamento, descendência e sucessão atuais.**
+
 Este arquivo fixa a família principesca viva e próxima no presente narrativo de **2014**. O escopo é a descendência viva de **Teodor II Orbelos (1925–2002)** que ainda participa da vida dinástica, mais os cônjuges imediatos. Ramos históricos mais distantes serão desenvolvidos separadamente.
 
 ---
