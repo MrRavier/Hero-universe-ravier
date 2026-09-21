@@ -18,11 +18,17 @@ Mihail torna-se Príncipe Herdeiro em 6 de abril de 2002, sucede ao pai em 18 de
 
 `Mihail` é a forma pública e dinástica principal. `Konstantin` funciona como segundo nome familiar/dinástico. Como nenhum soberano anterior de Sintica reinou com esse nome, sua forma regnal é **Mihail I**.
 
-## 2. PRESENTE NARRATIVO
+## 2. PRESENTE NARRATIVO — 2020
 
-No presente narrativo de 2014, Mihail tem 18 anos e está no começo do exercício pessoal do poder. Sua futura ida à academia canadense ocorre posteriormente, durante a Regência de Nikola Orbelos.
+Em 2020, Mihail tem **24 anos**.
 
-Thomas, também com 18 anos, já estuda nessa mesma academia, mas não possui status especial ali: é simplesmente mais um aluno entre os jovens extraordinários da instituição.
+Ele é casado com **Teodora “Dora” Orbelos**. O casal tem **Aleksandar Mihail Orbelos**, nascido no fim de 2019, e Dora está grávida de **Sofia Katalin Orbelos**.
+
+O ano anterior foi marcado pela Guerra da Hoste/Kheruun. Mihail matou o último Superior no mundo vermelho/quadridimensional e depois restaurou a ordem semi-constitucional de Sintica após o período excepcional de poderes de emergência.
+
+Em 2020, além da pandemia de COVID-19 e da recuperação pós-guerra, Mihail investiga a verdadeira extensão de sua Habilidade de manipulação de matéria, volta deliberadamente ao mundo vermelho e estabelece o Protocolo Vermelho.
+
+Os episódios canadenses de 2014–2015, quando aplicáveis, são parte histórica anterior e não definem mais o presente narrativo.
 
 ## 3. PERSONALIDADE CANÔNICA
 
@@ -74,4 +80,4 @@ Mihail é um **intelectual reservado, estratégico e autocontrolado**, com uma n
 
 Este arquivo supera qualquer nota anterior que diga que o nome ou a personalidade-base do soberano contemporâneo permanecem abertos ou reservados.
 
-Continuam em desenvolvimento sua educação detalhada, opiniões políticas específicas, relações pessoais concretas, estilo de governo em situações particulares e demais elementos narrativos ainda não fixados. Suas Habilidades e aparência permanecem reguladas pelos dossiês específicos já existentes.
+Continuam em desenvolvimento sua educação detalhada, opiniões políticas específicas, nuances das relações familiares, estilo de governo em situações particulares e demais elementos narrativos ainda não fixados. Seu casamento com Dora, a paternidade de Aleksandar e a gestação de Sofia em 2020 são cânone fixo. Suas Habilidades permanecem reguladas por `SINTICA_CONTEMPORARY_PRINCE_ABILITIES.md` e pelo dossiê pós-guerra de 2020.
