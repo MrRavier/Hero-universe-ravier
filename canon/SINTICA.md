@@ -126,7 +126,7 @@ A existência de Sintica não é causada por Habilidades. A tradição de respos
 - fim de 2018/início de 2019: casamento.
 - **2019:** Guerra da Hoste/Kheruun; morte do último Superior; desaparecimento da Hoste terrestre; restauração semi-constitucional.
 - fim de 2019: nascimento de Aleksandar Mihail.
-- **2020:** presente narrativo; COVID-19; Dora grávida de Sofia Katalin.
+- **2020:** presente narrativo; COVID-19; Dora grávida de Sofia Katalin; Mihail retorna deliberadamente ao mundo vermelho/Kheruun e formaliza o **Protocolo Vermelho**.
 
 Arquivos antigos com 2022/2023 no nome devem ser lidos conforme `SINTICA_LEGACY_DATE_MIGRATION_2019_2020.md`.
 
@@ -147,3 +147,8 @@ Sintica preserva neutralidade militar, assina o Ato Final de Helsinki em 1975 na
 ## Ainda deliberadamente aberto
 
 Ficam abertos apenas elementos que não precisam ser fixados para o país funcionar: percentuais étnicos exatos por comunidade, nomes de titulares secundários que mudam com eleições, letras integrais do hino, desenho gráfico final do brasão/bandeira e heróis históricos individuais ainda não criados.
+
+
+## Atualização de continuidade — Mihail em 2020
+
+Ver `SINTICA_CONTEMPORARY_PRINCE_ABILITIES.md` e `MIHAIL_RED_WORLD_RETURN_HELIUM_AND_MATTER_TESTS_2020.md` para a formulação vigente de suas Habilidades e do retorno ao mundo vermelho.
