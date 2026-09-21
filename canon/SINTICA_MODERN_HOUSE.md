@@ -2,9 +2,9 @@
 
 **Documento de cânone ativo.**
 
-Este arquivo fixa a linhagem familiar e sucessória entre **Teodor II** e o soberano de Sintica no presente narrativo de 2014. Ele complementa `canon/SINTICA.md` e substitui notas anteriores que deixavam pais, irmãos, predecessor e causa da sucessão contemporânea em aberto.
+Este arquivo fixa a linhagem familiar e sucessória entre **Teodor II** e a Casa de Orbelos no presente narrativo de **2020**. Ele complementa `canon/SINTICA.md`.
 
-O autor continua reservando para decisão própria o **nome do soberano contemporâneo, personalidade, educação detalhada, opiniões políticas, vida amorosa e estilo pessoal de governo**. A aparência e as Habilidades já possuem elementos canônicos próprios em arquivos específicos.
+O soberano contemporâneo é **Mihail I Konstantin Orbelos**. Seu casamento com **Teodora “Dora” Orbelos**, o nascimento de **Aleksandar Mihail Orbelos** no fim de 2019 e a gestação de **Sofia Katalin Orbelos** em 2020 são cânone fixo. Habilidades e limites são regulados pelos dossiês atuais.
 
 ---
 
@@ -58,7 +58,7 @@ Fatos familiares fixados:
 - permanece juridicamente soberano durante toda a Regência;
 - completa **18 anos em 4 de janeiro de 2014**, encerrando a Regência e assumindo pessoalmente as prerrogativas da Coroa.
 
-Seu **nome continua reservado ao autor**.
+Seu nome é **Mihail I Konstantin Orbelos**.
 
 ### Habilidades confirmadas
 
@@ -66,16 +66,14 @@ O Príncipe contemporâneo já demonstrou um conjunto excepcional de Habilidades
 
 - **O Sangue Mais Forte**;
 - **Éter**;
-- **Oxigênio sólido**;
+- **Reconfiguração/Manipulação de Matéria** (da qual “Oxigênio sólido” era uma aplicação inicial);
 - **Teleporte**;
-- **Transporte de mente**;
+- **Psique** (inclui leitura mental, memória, ilusões e transferência/troca de mente);
 - **Tinta preta**;
 - **Ossos duros**;
 - **Inteligência**.
 
 A lista é **não exaustiva**. O autor indicou que existem outras Habilidades demonstradas ainda não reenunciadas.
-
-`Transporte de mente` existe em cânone, mas o próprio Príncipe **não sabe** que a possui no ponto atual da história.
 
 Mecânicas, limites, alcance, custo, domínio e grau de publicidade permanecem abertos e são tratados em `canon/SINTICA_CONTEMPORARY_PRINCE_ABILITIES.md`.
 
@@ -88,7 +86,7 @@ Irmã mais nova do soberano.
 - título dinástico: **Princesa Maria Ilona de Sintica**;
 - nenhuma Habilidade está fixada neste documento.
 
-Depois da subida do irmão ao trono em 2008, Maria Ilona torna-se a primeira pessoa na linha de sucessão enquanto ele não tiver descendência própria.
+Depois da subida do irmão ao trono em 2008, Maria Ilona foi a primeira pessoa na linha de sucessão enquanto Mihail não tinha descendência. Com o nascimento de **Aleksandar Mihail Orbelos** no fim de 2019, Aleksandar torna-se o herdeiro direto em 2020.
 
 ---
 
@@ -126,7 +124,7 @@ Depois disso, Katalin permanece membro sênior da Casa e mãe do soberano, sem p
 
 ---
 
-# 6. FAMÍLIA IMEDIATA EM 2014
+# 6. FAMÍLIA IMEDIATA EM 2014 — SNAPSHOT HISTÓRICO
 
 Quando o soberano começa a exercer pessoalmente a Coroa, a família imediata inclui:
 
@@ -142,6 +140,19 @@ Sofia e Nikola não formam uma co-regência e não possuem autoridade automátic
 
 ---
 
+## ATUALIZAÇÃO — FAMÍLIA EM 2020
+
+No presente narrativo de 2020:
+
+- **Mihail I**, 24 anos, é o Príncipe Soberano;
+- **Teodora “Dora” Orbelos** é sua esposa;
+- **Aleksandar Mihail Orbelos**, nascido no fim de 2019, é o filho e herdeiro direto;
+- **Sofia Katalin Orbelos** está em gestação;
+- **Maria Ilona Orbelos** permanece irmã do soberano e passa a vir depois de Aleksandar na sucessão direta;
+- Katalin, Sofia e Nikola permanecem membros seniores da família sem co-soberania automática.
+
+---
+
 # 7. LINHA DIRETA
 
 **Teodor I Orbelos (1871–1962)**  
@@ -152,8 +163,12 @@ Sofia e Nikola não formam uma co-regência e não possuem autoridade automátic
 ↓  
 **Aleksandar II Orbelos (1957–2008)** × Katalin Teleki (1968– )  
 ↓  
-**Príncipe Soberano contemporâneo (n. 4 jan. 1996)**  
-**Princesa Maria Ilona Orbelos (n. 17 ago. 1999)**
+**Mihail I Konstantin Orbelos (n. 4 jan. 1996)** × **Teodora “Dora” Orbelos**  
+↓  
+**Aleksandar Mihail Orbelos (n. fim de 2019)**  
+**Sofia Katalin Orbelos (em gestação em 2020)**  
+
+Irmã de Mihail: **Princesa Maria Ilona Orbelos (n. 17 ago. 1999)**
 
 ---
 
@@ -171,15 +186,6 @@ A sucessão depende de lei dinástica e Constituição, não de capacidade extra
 
 Qualquer arquivo anterior que diga que Sofia ou Nikola não possuem Habilidade canonizada deve ser interpretado como **superado** pelos arquivos `canon/SINTICA_SOFIA_ORBELOS.md` e `canon/SINTICA_NIKOLA_ORBELOS.md`.
 
-Continuam deliberadamente abertos para o soberano contemporâneo:
+Continuam deliberadamente abertos apenas os detalhes ainda não fixados de educação, opiniões políticas específicas, nuances familiares, publicidade de certas Habilidades e estilo de governo em situações particulares.
 
-- nome;
-- personalidade;
-- mecânica completa e limites das Habilidades;
-- demais Habilidades demonstradas ainda não reenunciadas;
-- educação detalhada;
-- opiniões políticas;
-- vida amorosa e casamento;
-- relação emocional com mãe, irmã e pai falecido;
-- estilo de governo;
-- papel narrativo específico na história de Thomas.
+Nome, casamento, descendência e o núcleo atual das Habilidades de Mihail já estão definidos pelos documentos de 2020.
