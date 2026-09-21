@@ -1,117 +1,129 @@
-# THE EXTRAORDINARY WORLD — SINTICA: HABILIDADES DO PRÍNCIPE CONTEMPORÂNEO
+# THE EXTRAORDINARY WORLD — SINTICA: HABILIDADES DE MIHAIL I (2020)
 
 **Documento de cânone ativo.**
 
-Este arquivo registra as Habilidades/manifestações já demonstradas pelo Príncipe Soberano contemporâneo de Sintica e que, no presente narrativo de **2014**, podem ser tratadas como certas em nível autoral.
+Este arquivo registra as Habilidades/manifestações confirmadas de **Mihail I Konstantin Orbelos** no presente narrativo de **2020** e substitui a antiga formulação centrada em 2014.
 
-A lista é **não exaustiva**: o autor indicou que existem outras Habilidades demonstradas que não foram reenunciadas nesta etapa. Elas não devem ser inventadas ou reconstruídas por aproximação.
+A lista continua não exaustiva: outras manifestações já demonstradas podem existir, mas não devem ser inventadas sem decisão autoral explícita.
 
-A origem ancestral e o mecanismo hereditário são detalhados em `canon/SINTICA_ORBELOS_ANCESTRAL_ABILITIES.md`.
-
----
-
-# 1. HABILIDADES CONFIRMADAS
-
-Estão confirmadas:
+## 1. Conjunto confirmado
 
 1. **O Sangue Mais Forte**;
 2. **Éter**;
-3. **Oxigênio sólido**;
+3. **Reconfiguração/Manipulação de Matéria**;
 4. **Teleporte**;
-5. **Transporte de mente**;
-6. **Tinta preta**;
-7. **Ossos duros**;
+5. **Psique**;
+6. **Tinta Preta**;
+7. **Ossos Duros**;
 8. **Inteligência**.
 
----
+Além disso, Mihail **aprendeu magia**. Magia não é uma Habilidade de nascimento.
 
-# 2. ORIGEM ANCESTRAL CONFIRMADA
+## 2. O Sangue Mais Forte
 
-Essas capacidades **não surgiram originalmente no Príncipe contemporâneo**.
+Confere físico superior e participa do mecanismo hereditário acumulativo da Casa de Orbelos: Habilidades presentes na linhagem podem reaparecer em gerações posteriores, algumas ativas e outras dormentes.
 
-Membros diferentes da Casa de Orbelos, ao longo de séculos anteriores, já haviam manifestado essas mesmas Habilidades. O Príncipe representa uma **convergência hereditária excepcional**, na qual várias capacidades antigas reaparecem juntas.
+Isso não é roubo, cópia consciente ou absorção deliberada.
 
-O mecanismo central é **O Sangue Mais Forte**. Além de conceder físico superior ao portador, essa Habilidade possui uma propriedade hereditária que o portador original desconhecia: Habilidades presentes na linhagem podiam continuar sendo **transmitidas e acumuladas** através das gerações, algumas ativas e outras dormentes.
+## 3. Éter
 
-Isso não é cópia consciente, roubo nem absorção deliberada de Habilidades.
+É uma Habilidade biológica/inata.
 
----
+Mihail controla Éter com precisão crescente: distribuição de força, superfícies curvas, amortecimento, sustentação, múltiplos pontos de ação e pequenos campos simultâneos.
 
-# 3. MECÂNICAS ANCESTRAIS MÍNIMAS FIXADAS
+Éter pode interagir com certos trabalhos mágicos, mas **usar Éter não é praticar magia**.
 
-- **Ossos duros:** resistência e força estrutural extraordinárias do esqueleto.
-- **Tinta preta:** produção pelas mãos e pela boca de uma substância negra semelhante à tinta de cefalópodes, com controle sobre o material expelido.
-- **Teleporte:** deslocamento para lugares lembrados; pinturas, fotografias, imagens e outras representações visuais podem servir como referência de destino.
-- **O Sangue Mais Forte:** físico superior e mecanismo hereditário inconsciente de transmissão/acúmulo de Habilidades na família.
-- **Oxigênio sólido:** solidificação extraordinária de oxigênio sem depender das condições físicas normais necessárias para isso.
-- **Éter:** controle de uma manifestação entendida historicamente como éter; o ancestral portador foi lembrado como grande mago, bruxo ou feiticeiro.
-- **Transporte de mente:** transporte da própria mente para outra pessoa.
-- **Inteligência:** capacidade intelectual extraordinariamente elevada.
+## 4. Reconfiguração/Manipulação de Matéria
 
-Os limites quantitativos, custos, alcance e condições de ativação ainda não estão fechados.
+A antiga classificação **“Oxigênio sólido”** estava incompleta.
 
----
+Solidificar oxigênio era apenas uma aplicação inicial de uma Habilidade mais ampla capaz de alterar estado, organização e composição da matéria.
 
-# 4. TRANSPORTE DE MENTE
+Durante a Guerra da Hoste de **2019**, Mihail força essa capacidade até um regime atômico/nuclear extremo no confronto com o último Superior.
 
-`Transporte de mente` possui tratamento especial:
+Em 2020 ele passa a explorar aplicações muito menores e controladas, incluindo:
 
-- a Habilidade existe em cânone;
-- o próprio Príncipe **não sabe** que a possui no ponto atual da história;
-- manifestações anteriores podem ter ocorrido sem reconhecimento consciente;
-- sua existência não deve ser tratada como conhecimento público, familiar, médico ou estatal automático até que isso seja estabelecido narrativamente.
+- alterações químicas/moleculares;
+- reconfiguração de gases;
+- o teste cômico de hélio com Dora;
+- tentativa de estabilização/transmutação de pequenas quantidades de matéria radioativamente instável.
 
----
+Limites centrais: **compreensão, precisão, massa, concentração, energia, fadiga e risco de efeitos secundários**.
 
-# 5. CERTEZA AUTORAL E CONHECIMENTO IN-UNIVERSE
+Mihail não cria matéria livremente, não recebe conhecimento científico automático e não “desliga radiação”. Radiação já emitida não desaparece retroativamente.
 
-Uma Habilidade estar confirmada em cânone não significa que seja de conhecimento geral.
+Detalhes pós-guerra: MIHAIL_RED_WORLD_RETURN_HELIUM_AND_MATTER_TESTS_2020.md.
 
-Permanece aberto:
+## 5. Teleporte
 
-- quem presenciou cada demonstração;
-- quais constam de registros oficiais;
-- quais são conhecidas por Katalin ou Maria Ilona;
-- quais são conhecidas por médicos e pela Diretoria de Proteção Extraordinária;
-- quais foram reveladas ao público.
+Mihail consegue deslocar-se para lugares que consegue referenciar mentalmente.
 
-A única assimetria de conhecimento já obrigatória é que o próprio Príncipe desconhece `Transporte de mente`.
+Memória visual é a base mais segura; imagens, pinturas, fotografias e outras representações podem servir como referência quando suficientemente úteis.
 
----
+O mundo vermelho/Kheruun tornou-se destino acessível depois da primeira travessia física de 2019.
 
-# 6. RELAÇÃO COM A CASA DE ORBELOS
+## 6. Psique
 
-A Casa de Orbelos possui uma **herança extraordinária acumulativa real**, mas irregular.
+As manifestações mentais pertencem a **uma única Habilidade psíquica**, não a vários poderes separados.
 
-Isso não significa que todos os membros possuam poderes, que todos manifestem o mesmo conjunto ou que poder produza direito sucessório.
+Incluem:
 
-Algumas Habilidades podem permanecer dormentes por gerações e reaparecer mais tarde. Outras surgem isoladamente.
+- leitura de pensamentos, imagens, intenções e emoções;
+- acesso profundo a memórias sob contato/imersão intensa;
+- ilusões mentais;
+- introspecção da própria mente;
+- transferência/troca de mente para outro corpo vivo.
 
-Casos históricos já documentados continuam válidos:
+O primeiro uso completo de troca de mente ocorre acidentalmente com Dora antes de 2020. Portanto a antiga nota segundo a qual Mihail desconhecia essa capacidade está superada.
 
-- Teodor I: nenhuma Habilidade conhecida;
-- Eleni Orbelos: `Flame Snuff`;
-- Aleksandar I: `Holdfast`;
-- Katerina Orbelos: `Threadline`;
-- Boris Orbelos: `Latch`.
+O episódio estabelece forte regra de consentimento: ele não entra deliberadamente na mente de Dora sem consentimento, salvo emergência extrema.
 
-Não é cânone que o soberano contemporâneo manifeste automaticamente todas as Habilidades que algum Orbelos já teve; somente as efetivamente demonstradas por ele são tratadas como ativas.
+## 7. Tinta Preta
 
----
+Mihail produz e controla a substância negra extraordinária conhecida como **Tinta Preta**.
 
-# 7. CONTINUIDADE
+Consegue variar sua consistência entre estados líquidos, viscosos, pastosos, elásticos e sólidos e controlá-la externamente como extensão corporal, formando mãos, braços, fios, placas, apoios, escudos e massas de contenção.
 
-Ficam superadas as notas anteriores segundo as quais a origem da pluralidade de Habilidades do Príncipe estava totalmente em aberto ou não possuía relação hereditária conhecida.
+Ela continua sendo a mesma substância; não se converte livremente em outros materiais.
 
-Continuam reservados ao autor:
+## 8. Ossos Duros
 
-- nome do soberano;
-- aparência;
-- personalidade;
-- mecânica completa e limites de cada Habilidade;
-- grau de domínio em 2014;
-- publicidade ou sigilo de cada capacidade;
-- as demais Habilidades já demonstradas mas ainda não reenunciadas;
-- identidade e datação exata dos antigos portadores;
-- regras finas de dormência, ativação e acúmulo hereditário;
-- relação emocional e narrativa dessas capacidades com sua família e com a história de Thomas.
+O esqueleto possui resistência e força estrutural extraordinárias.
+
+Isso aumenta a tolerância física de Mihail, mas não o torna indestrutível.
+
+## 9. Inteligência
+
+A capacidade intelectual extraordinariamente elevada permanece parte do conjunto herdado já canonizado.
+
+Ela não substitui conhecimento adquirido: em especial, manipulação de matéria em escala nuclear continua exigindo estudo real e pode exceder o que Mihail compreende com segurança.
+
+## 10. Magia aprendida
+
+Magia existe independentemente de Habilidades.
+
+Regra central:
+
+**Habilidade é algo que a pessoa é; magia é algo que a pessoa faz.**
+
+Mihail começa estudo sério de magia após experiência introspectiva na catedral de Kerasia e pesquisa posterior nos arquivos/biblioteca dos Orbelos.
+
+Aprende práticas limitadas de marcação, proteção, leitura residual, ocultação perceptiva e concentração ritual, além de combinar Éter com certos efeitos sem confundir as duas coisas.
+
+## 11. Herança Orbelos
+
+Casos ancestrais/documentados continuam válidos, incluindo Aleksandar I (Holdfast), Katerina (Threadline), Eleni (Flame Snuff) e outros dossiês da Casa.
+
+A existência de herança extraordinária não altera a lei sucessória e não implica que todos os Orbelos tenham Habilidades ativas.
+
+## 12. Precedência
+
+Ficam superadas neste arquivo as formulações anteriores que:
+
+- tratavam 2014 como presente narrativo atual;
+- mantinham Mihail sem nome;
+- tratavam “Oxigênio sólido” como Habilidade separada e completa;
+- diziam que Mihail ainda desconhecia transporte de mente;
+- confundiam Éter com magia.
+
+O presente vigente é **2020**.
