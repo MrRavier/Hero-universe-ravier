@@ -35,6 +35,11 @@ Added and synchronized in both repositories:
 - the rule that this does not erase already-emitted radiation or provide effortless large-scale cleanup;
 - the current limits of Mihail's true matter ability.
 
+## Additional shared-universe corrections
+
+- Thomas is **18** at the beginning of the 2014 story and is simply another student at the Canadian academy/Pacific Response, without special institutional status.
+- The Kheruun are **not the only aliens** in the setting. Multiple extraterrestrial species/groups exist; the 2019 Host War is the first massive globally undeniable alien crisis of the current era, not the first alien contact in absolute history.
+
 ## Contradictions corrected
 
 The sweep corrected active files that still retained superseded states:
