@@ -116,9 +116,10 @@ A história começa em Vancouver.
 
 ## Thomas Edward Mercer
 
-- 19 anos no início.
+- **18 anos no início.**
 - Natural de St. John’s, Newfoundland and Labrador.
 - Muda-se para Vancouver para estudar resposta heroica profissional.
+- Thomas não é aluno escolhido, representante especial ou figura institucional privilegiada: é simplesmente mais um estudante extraordinário da instituição.
 - Habilidade: **Axe Materialization**.
 - Pode criar machados físicos completos de diferentes formatos.
 - Aprende a usá-los como armas, ferramentas, cunhas, apoios, âncoras, obstáculos e recursos de resgate.
